@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/author/mehdi-latif/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mehdi-latif.github.io/tags/</loc>
+  </url>
+  
+</urlset>
