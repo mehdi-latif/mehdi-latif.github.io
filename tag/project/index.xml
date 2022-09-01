@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project | Mehdi LATIF | CV Numérique</title>
-    <link>/tag/project/</link>
-      <atom:link href="/tag/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mehdi-latif.github.io/tag/project/</link>
+      <atom:link href="https://mehdi-latif.github.io/tag/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Project</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Project</title>
-      <link>/tag/project/</link>
+      <link>https://mehdi-latif.github.io/tag/project/</link>
     </image>
     
     <item>
       <title>POLLUX - Simulateur TEP $3\gamma$</title>
-      <link>/project/pollux/</link>
+      <link>https://mehdi-latif.github.io/project/pollux/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/project/pollux/</guid>
+      <guid>https://mehdi-latif.github.io/project/pollux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIMOSA Unmix</title>
-      <link>/project/mimosa_code/</link>
+      <link>https://mehdi-latif.github.io/project/mimosa_code/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/project/mimosa_code/</guid>
+      <guid>https://mehdi-latif.github.io/project/mimosa_code/</guid>
       <description></description>
     </item>
     

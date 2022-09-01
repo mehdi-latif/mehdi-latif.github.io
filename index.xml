@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehdi LATIF | CV Numérique</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mehdi-latif.github.io/</link>
+      <atom:link href="https://mehdi-latif.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehdi LATIF | CV Numérique</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Mehdi LATIF | CV Numérique</title>
-      <link>/</link>
+      <link>https://mehdi-latif.github.io/</link>
     </image>
     
     <item>
       <title>POLLUX - Simulateur TEP $3\gamma$</title>
-      <link>/project/pollux/</link>
+      <link>https://mehdi-latif.github.io/project/pollux/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>/project/pollux/</guid>
+      <guid>https://mehdi-latif.github.io/project/pollux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstruction tomographique pour l’imagerie TEP à $3\gamma$</title>
-      <link>/project/etez_2022/</link>
+      <link>https://mehdi-latif.github.io/project/etez_2022/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/project/etez_2022/</guid>
+      <guid>https://mehdi-latif.github.io/project/etez_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIMOSA Unmix</title>
-      <link>/project/mimosa_code/</link>
+      <link>https://mehdi-latif.github.io/project/mimosa_code/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/project/mimosa_code/</guid>
+      <guid>https://mehdi-latif.github.io/project/mimosa_code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exact resolution of the sparse spectral unmixing problem</title>
-      <link>/project/mimosa_slides/</link>
+      <link>https://mehdi-latif.github.io/project/mimosa_slides/</link>
       <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/project/mimosa_slides/</guid>
+      <guid>https://mehdi-latif.github.io/project/mimosa_slides/</guid>
       <description>&lt;p&gt;$$\min_{\boldsymbol{x}\in [0,1]^{Q}}\quad \frac{1}{2}\big|\big| \boldsymbol{y}-\mathbf{H}\boldsymbol{x}\big|\big|_{2}^{2}\quad  \textrm{st. } \big|\big|\boldsymbol{x}\big|\big| _{0} \leq K, \quad\boldsymbol{1} _{Q} ^{\intercal}  \boldsymbol{x} =1$$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Séminaire équipe SiMS - 23/09/2021&lt;/strong&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-cpp&#34;&gt;MimosaUnmix_1inst_meth $(pwd) 2 bb_homotopy_fcls eq
@@ -72,9 +72,9 @@ SA_SNR40_K4_instance30 - bb_homotopy_fcls
     
     <item>
       <title>TIFTEX</title>
-      <link>/project/tiftex/</link>
+      <link>https://mehdi-latif.github.io/project/tiftex/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/project/tiftex/</guid>
+      <guid>https://mehdi-latif.github.io/project/tiftex/</guid>
       <description></description>
     </item>
     

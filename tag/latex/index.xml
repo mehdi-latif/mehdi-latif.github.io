@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latex | Mehdi LATIF | CV Numérique</title>
-    <link>/tag/latex/</link>
-      <atom:link href="/tag/latex/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mehdi-latif.github.io/tag/latex/</link>
+      <atom:link href="https://mehdi-latif.github.io/tag/latex/index.xml" rel="self" type="application/rss+xml" />
     <description>Latex</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Latex</title>
-      <link>/tag/latex/</link>
+      <link>https://mehdi-latif.github.io/tag/latex/</link>
     </image>
     
     <item>
       <title>TIFTEX</title>
-      <link>/project/tiftex/</link>
+      <link>https://mehdi-latif.github.io/project/tiftex/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/project/tiftex/</guid>
+      <guid>https://mehdi-latif.github.io/project/tiftex/</guid>
       <description></description>
     </item>
     

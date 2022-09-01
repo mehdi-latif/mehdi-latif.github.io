@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latex | Mehdi LATIF | Digital Resume</title>
-    <link>/en/tag/latex/</link>
-      <atom:link href="/en/tag/latex/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mehdi-latif.github.io/en/tag/latex/</link>
+      <atom:link href="https://mehdi-latif.github.io/en/tag/latex/index.xml" rel="self" type="application/rss+xml" />
     <description>Latex</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Latex</title>
-      <link>/en/tag/latex/</link>
+      <link>https://mehdi-latif.github.io/en/tag/latex/</link>
     </image>
     
     <item>
       <title>TIFTEX</title>
-      <link>/en/project/tiftex/</link>
+      <link>https://mehdi-latif.github.io/en/project/tiftex/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/en/project/tiftex/</guid>
+      <guid>https://mehdi-latif.github.io/en/project/tiftex/</guid>
       <description>&lt;p&gt;&lt;em&gt;C&amp;rsquo;est pas révolutionnaire mais ça fait le tiff !!!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;En fait, je devais réviser mon bash et en même temps faire des planches et j&amp;rsquo;en avais marre d&amp;rsquo;avoir à taper plusieurs commandes pour obtenir un résultat&amp;hellip;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;user@blabla:~/[...]$ tiftex

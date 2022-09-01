@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Branch-and-bound | Mehdi LATIF | Digital Resume</title>
-    <link>/en/tag/branch-and-bound/</link>
-      <atom:link href="/en/tag/branch-and-bound/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mehdi-latif.github.io/en/tag/branch-and-bound/</link>
+      <atom:link href="https://mehdi-latif.github.io/en/tag/branch-and-bound/index.xml" rel="self" type="application/rss+xml" />
     <description>Branch-and-bound</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/avatar.jpg</url>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Branch-and-bound</title>
-      <link>/en/tag/branch-and-bound/</link>
+      <link>https://mehdi-latif.github.io/en/tag/branch-and-bound/</link>
     </image>
     
     <item>
       <title>MIMOSA Unmix</title>
-      <link>/en/project/mimosa/</link>
+      <link>https://mehdi-latif.github.io/en/project/mimosa/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/en/project/mimosa/</guid>
+      <guid>https://mehdi-latif.github.io/en/project/mimosa/</guid>
       <description>&lt;p&gt;$$
 \min_{ \boldsymbol{x} \in [0,1]^{Q}} \quad \frac{1}{2}\big|\big| \boldsymbol{y}-\mathbf{H}\boldsymbol{x}\big|\big|&lt;em&gt;{2}^{2}\quad \textrm{ st. } \big|\big|\boldsymbol{x}\big|\big|&lt;/em&gt;{0} \leq K, \quad \boldsymbol{1}_{Q}^{\intercal}\boldsymbol{x} =1
 $$&lt;/p&gt;
