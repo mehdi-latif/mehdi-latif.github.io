@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xemis2 | Mehdi LATIF | CV Numérique</title>
+    <link>/tag/xemis2/</link>
+      <atom:link href="/tag/xemis2/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xemis2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Xemis2</title>
+      <link>/tag/xemis2/</link>
+    </image>
+    
+    <item>
+      <title>POLLUX - Simulateur TEP $3\gamma$</title>
+      <link>/project/pollux/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/project/pollux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction tomographique pour l’imagerie TEP à $3\gamma$</title>
+      <link>/project/etez_2022/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/project/etez_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

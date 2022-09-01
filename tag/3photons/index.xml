@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3photons | Mehdi LATIF | CV Numérique</title>
+    <link>/tag/3photons/</link>
+      <atom:link href="/tag/3photons/index.xml" rel="self" type="application/rss+xml" />
+    <description>3photons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>3photons</title>
+      <link>/tag/3photons/</link>
+    </image>
+    
+    <item>
+      <title>Reconstruction tomographique pour l’imagerie TEP à $3\gamma$</title>
+      <link>/project/etez_2022/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/project/etez_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

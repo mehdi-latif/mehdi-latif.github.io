@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mehdi LATIF | Mehdi LATIF | Digital Resume</title>
+    <link>/en/author/mehdi-latif/</link>
+      <atom:link href="/en/author/mehdi-latif/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mehdi LATIF</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Mehdi LATIF</title>
+      <link>/en/author/mehdi-latif/</link>
+    </image>
+    
+  </channel>
+</rss>

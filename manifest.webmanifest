@@ -1,0 +1,18 @@
+{
+  "name": "Mehdi LATIF | CV Numérique",
+  "short_name": "Mehdi LATIF | CV Numérique",
+  "lang": "fr",
+  "theme_color": "#79797a",
+  "background_color": "#79797a",
+  "icons": [{
+    "src": "/images/icon_hu617364fbbfa20b6604184597bb4a0ca0_40973_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu617364fbbfa20b6604184597bb4a0ca0_40973_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
