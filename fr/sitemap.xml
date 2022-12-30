@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdi-latif.github.io/tag/3-photons/</loc>
-    <lastmod>2022-09-01T19:38:10+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/3photons/</loc>
+    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/project/emily_2022/</loc>
+    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/</loc>
-    <lastmod>2022-09-01T19:38:10+02:00</lastmod>
+    <lastmod>2022-12-30T18:02:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,6 +20,44 @@
                 hreflang="fr"
                 href="https://mehdi-latif.github.io/"
                 />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/project/</loc>
+    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/project/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/slides/</loc>
+    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tags/</loc>
+    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/tep/</loc>
+    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/xemis2/</loc>
+    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/3-photons/</loc>
+    <lastmod>2022-09-01T19:38:10+02:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/pollux/</loc>
     <lastmod>2022-09-01T19:38:10+02:00</lastmod>
@@ -34,46 +75,8 @@
     <loc>https://mehdi-latif.github.io/tag/project/</loc>
     <lastmod>2022-09-01T19:38:10+02:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/</loc>
-    <lastmod>2022-09-01T19:38:10+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdi-latif.github.io/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mehdi-latif.github.io/project/"
-                />
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tags/</loc>
-    <lastmod>2022-09-01T19:38:10+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdi-latif.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mehdi-latif.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/tep/</loc>
-    <lastmod>2022-09-01T19:38:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/xemis2/</loc>
-    <lastmod>2022-09-01T19:38:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/3photons/</loc>
-    <lastmod>2022-09-01T19:28:04+02:00</lastmod>
-  </url><url>
     <loc>https://mehdi-latif.github.io/project/etez_2022/</loc>
     <lastmod>2022-09-01T19:28:04+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/slides/</loc>
-    <lastmod>2022-09-01T19:37:39+02:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/mimosa_code/</loc>
     <lastmod>2022-09-01T19:29:28+02:00</lastmod>
@@ -179,7 +182,7 @@
     <lastmod>2022-08-30T18:00:05+02:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/authors/</loc>
-    <lastmod>2022-08-30T12:50:39+02:00</lastmod>
+    <lastmod>2022-12-30T18:02:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -204,7 +207,7 @@
                 />
   </url><url>
     <loc>https://mehdi-latif.github.io/author/mehdi-latif/</loc>
-    <lastmod>2022-08-30T12:50:39+02:00</lastmod>
+    <lastmod>2022-12-30T18:02:05+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

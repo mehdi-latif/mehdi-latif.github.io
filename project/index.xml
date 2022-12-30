@@ -5,12 +5,20 @@
     <link>https://mehdi-latif.github.io/project/</link>
       <atom:link href="https://mehdi-latif.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Projects</title>
       <link>https://mehdi-latif.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
+      <link>https://mehdi-latif.github.io/project/emily_2022/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/emily_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>POLLUX - Simulateur TEP $3\gamma$</title>
