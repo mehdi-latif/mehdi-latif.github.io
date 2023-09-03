@@ -5,12 +5,20 @@
     <link>https://mehdi-latif.github.io/</link>
       <atom:link href="https://mehdi-latif.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehdi LATIF | CV Numérique</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Mehdi LATIF | CV Numérique</title>
       <link>https://mehdi-latif.github.io/</link>
     </image>
+    
+    <item>
+      <title>Poster - Reconstruction multiclasse pour la TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/gretsi_poster/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/gretsi_poster/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
@@ -76,6 +84,14 @@ SA_SNR40_K4_instance30 - bb_homotopy_fcls
 	sum(xUB*) = 1
 &lt;/code&gt;&lt;/pre&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>NIST parser</title>
+      <link>https://mehdi-latif.github.io/project/nist_parser/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/nist_parser/</guid>
+      <description></description>
     </item>
     
     <item>
