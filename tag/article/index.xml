@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | Mehdi LATIF | CV Numérique</title>
+    <link>https://mehdi-latif.github.io/tag/article/</link>
+      <atom:link href="https://mehdi-latif.github.io/tag/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Article</title>
+      <link>https://mehdi-latif.github.io/tag/article/</link>
+    </image>
+    
+    <item>
+      <title>Article - Reconstruction multiclasse pour la TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/gretsi_article/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/gretsi_article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
