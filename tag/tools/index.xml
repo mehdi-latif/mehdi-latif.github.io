@@ -5,7 +5,7 @@
     <link>https://mehdi-latif.github.io/tag/tools/</link>
       <atom:link href="https://mehdi-latif.github.io/tag/tools/index.xml" rel="self" type="application/rss+xml" />
     <description>Tools</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Tools</title>
@@ -15,7 +15,7 @@
     <item>
       <title>NIST parser</title>
       <link>https://mehdi-latif.github.io/project/nist_parser/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://mehdi-latif.github.io/project/nist_parser/</guid>
       <description></description>
     </item>

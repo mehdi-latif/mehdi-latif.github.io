@@ -29,10 +29,26 @@
     </item>
     
     <item>
+      <title>Article - Multi-class maximum likelihood expectation-maximization list-mode image reconstruction</title>
+      <link>https://mehdi-latif.github.io/project/fully3d_2023/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/fully3d_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
       <link>https://mehdi-latif.github.io/project/emily_2022/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://mehdi-latif.github.io/project/emily_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIST parser</title>
+      <link>https://mehdi-latif.github.io/project/nist_parser/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/nist_parser/</guid>
       <description></description>
     </item>
     
@@ -92,14 +108,6 @@ SA_SNR40_K4_instance30 - bb_homotopy_fcls
 	sum(xUB*) = 1
 &lt;/code&gt;&lt;/pre&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>NIST parser</title>
-      <link>https://mehdi-latif.github.io/project/nist_parser/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/project/nist_parser/</guid>
-      <description></description>
     </item>
     
     <item>
