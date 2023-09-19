@@ -5,12 +5,20 @@
     <link>https://mehdi-latif.github.io/project/</link>
       <atom:link href="https://mehdi-latif.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Projects</title>
       <link>https://mehdi-latif.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>ARIANE - Projecteur TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/ariane/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/ariane/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poster - Reconstruction multiclasse pour la TEP $3\gamma$</title>
@@ -49,14 +57,6 @@
       <link>https://mehdi-latif.github.io/project/nist_parser/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://mehdi-latif.github.io/project/nist_parser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ARIANE - Projecteur TEP $3\gamma$</title>
-      <link>https://mehdi-latif.github.io/project/ariane/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/project/ariane/</guid>
       <description></description>
     </item>
     
