@@ -282,7 +282,7 @@
     
       <meta property="article:published_time" content="2023-09-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2023-10-29T16:29:58&#43;01:00">
+    <meta property="article:modified_time" content="2023-10-30T12:52:26&#43;01:00">
   
 
   
@@ -309,7 +309,7 @@
   "headline": "Mantra pour l'écriture d'un rapport de TP",
   
   "datePublished": "2023-09-01T00:00:00Z",
-  "dateModified": "2023-10-29T16:29:58+01:00",
+  "dateModified": "2023-10-30T12:52:26+01:00",
   
   "author": {
     "@type": "Person",
@@ -591,7 +591,7 @@
           Dernière mise à jour le
       
     
-    Oct 29, 2023
+    Oct 30, 2023
   </span>
   
 
@@ -660,6 +660,33 @@ legend(‘’) ; // idem, regardez la doc.
 p2 = plot(…,‘Displayname’, &quot;blo&quot;) ;
 // [...]
 legend([p1,p2],…) ;  
+</code></pre>
+<p><img src="ex_norm_l1.png" alt="Exemple d&amp;rsquo;une jolie figure : Prox de la norme $\ell_{1}$">
+Le code Matlab correspondant:</p>
+<pre><code>x = linspace(-10,10,1000);
+figure; 
+  sgtitle(&quot;$\ell_{1}$ norm&quot;,'Interpreter','latex','FontSize',20)
+  subplot(1,2,1)
+    hold on; box on; grid minor;
+    plot(x,abs(x),'b','LineWidth',2);
+    yline(0,'k--'); xline(0,'k--');
+    ylim([-1,max(x)]);
+    xlabel('$x$','Interpreter','latex','FontSize',12); 
+    ylabel('$y$','Interpreter','latex','Rotation',0,'FontSize',12);    
+    title(&quot;$f:x \mapsto |x|$&quot;,'Interpreter','latex','FontSize',16);
+  subplot(1,2,2)
+    hold on; box on; grid minor; 
+    gamma = 1;  p = prox_l1(x,gamma);
+    p1 = plot(x,p,'-','LineWidth',2,'Displayname',&quot;$\gamma=&quot;+num2str(gamma)+&quot;$&quot;,'Color','#7E2F8E');
+    gamma = 2;  p = prox_l1(x,gamma);
+    p2 = plot(x,p,'--','LineWidth',2,'Displayname',&quot;$\gamma=&quot;+num2str(gamma)+&quot;$&quot;,'Color','#EDB120');
+    gamma = 3.5;  p = prox_l1(x,gamma);
+    p3 = plot(x,p,':','LineWidth',2,'Displayname',&quot;$\gamma=&quot;+num2str(gamma)+&quot;$&quot;,'Color','#A2142F');
+    yline(0,'k--'); xline(0,'k--');
+    xlabel('$x$','Interpreter','latex','FontSize',12);
+    ylabel('$y$','Interpreter','latex','Rotation',0,'FontSize',12);
+    title(&quot;prox$_{\gamma \|\cdot\|_{1}}(x)$&quot;,'Interpreter','latex','FontSize',16)
+    legend([p1,p2,p3],'Location','best','FontSize',16,'Interpreter','latex'); legend boxoff
 </code></pre>
 <h3 id="dessert-la-conclusion-">Dessert, la conclusion :</h3>
 <p>bon bah là, discutez la figure obtenue ou donnez le résultat mathématique obtenu, bref discutez et soyez critiques vis-à-vis de ce que vous présentez.</p>
@@ -1106,7 +1133,7 @@ legend([p1,p2],…) ;
   
   <p>
     <span class="float-right" aria-hidden="true">
-      Last update: Oct 29, 2023
+      Last update: Oct 30, 2023
     </span>
   </p>
 </footer>
