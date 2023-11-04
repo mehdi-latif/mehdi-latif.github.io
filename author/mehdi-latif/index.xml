@@ -12,5 +12,21 @@
       <link>https://mehdi-latif.github.io/author/mehdi-latif/</link>
     </image>
     
+    <item>
+      <title>Reconstruction multiclasse pour l&#39;imagerie TEP 3-photons</title>
+      <link>https://mehdi-latif.github.io/publication/gretsi_23/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/publication/gretsi_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-class maximum likelihood expectation-maximization list-mode image reconstruction, an application to three-gamma imaging</title>
+      <link>https://mehdi-latif.github.io/publication/f3d_23/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/publication/f3d_23/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

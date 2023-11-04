@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas CARLIER | Mehdi LATIF | CV Numérique</title>
+    <link>https://mehdi-latif.github.io/author/thomas-carlier/</link>
+      <atom:link href="https://mehdi-latif.github.io/author/thomas-carlier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas CARLIER</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Thomas CARLIER</title>
+      <link>https://mehdi-latif.github.io/author/thomas-carlier/</link>
+    </image>
+    
+    <item>
+      <title>Reconstruction multiclasse pour l&#39;imagerie TEP 3-photons</title>
+      <link>https://mehdi-latif.github.io/publication/gretsi_23/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/publication/gretsi_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-class maximum likelihood expectation-maximization list-mode image reconstruction, an application to three-gamma imaging</title>
+      <link>https://mehdi-latif.github.io/publication/f3d_23/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/publication/f3d_23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
