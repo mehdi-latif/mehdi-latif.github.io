@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xemis2 | Mehdi LATIF | CV Numérique</title>
+    <title>XEMIS2 | Mehdi LATIF | CV Numérique</title>
     <link>https://mehdi-latif.github.io/tag/xemis2/</link>
       <atom:link href="https://mehdi-latif.github.io/tag/xemis2/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xemis2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <description>XEMIS2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
-      <title>Xemis2</title>
+      <title>XEMIS2</title>
       <link>https://mehdi-latif.github.io/tag/xemis2/</link>
     </image>
-    
-    <item>
-      <title>ComProj - System matrix evaluation for Compton imaging system</title>
-      <link>https://mehdi-latif.github.io/project/merec_23/</link>
-      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/project/merec_23/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>ARIANE - Projecteur TEP $3\gamma$</title>

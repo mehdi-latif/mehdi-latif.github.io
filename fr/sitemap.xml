@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdi-latif.github.io/tag/3photons-3%5Cgamma/</loc>
-    <lastmod>2023-10-08T08:23:00+02:00</lastmod>
-  </url><url>
     <loc>https://mehdi-latif.github.io/project/merec_23/</loc>
-    <lastmod>2023-10-08T08:23:00+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/compton/</loc>
-    <lastmod>2023-10-08T08:23:00+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/imagerie/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/</loc>
-    <lastmod>2023-11-13T07:43:10+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,11 +24,14 @@
                 href="https://mehdi-latif.github.io/"
                 />
   </url><url>
+    <loc>https://mehdi-latif.github.io/tag/physique/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
     <loc>https://mehdi-latif.github.io/tag/project/</loc>
-    <lastmod>2023-10-08T08:23:00+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/</loc>
-    <lastmod>2023-11-02T19:56:14+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,8 +43,14 @@
                 href="https://mehdi-latif.github.io/project/"
                 />
   </url><url>
+    <loc>https://mehdi-latif.github.io/tag/ray-tracing/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/slides/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
     <loc>https://mehdi-latif.github.io/tags/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,35 +62,45 @@
                 href="https://mehdi-latif.github.io/tags/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/xemis2/</loc>
-    <lastmod>2023-10-08T08:23:00+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/3-photons/</loc>
-    <lastmod>2023-09-19T21:45:25+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/3-photons-3%5Cgamma/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/ariane/</loc>
-    <lastmod>2023-09-19T21:45:25+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/tep/</loc>
-    <lastmod>2023-09-19T21:45:25+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/mantra_rapport/</loc>
-    <lastmod>2023-11-02T19:56:14+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/matlab/</loc>
-    <lastmod>2023-11-02T19:56:14+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/rapports/</loc>
-    <lastmod>2023-11-02T19:56:14+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/xemis2/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/enseignement/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/latex/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/latex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/tag/latex/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/project/mantra_rapport/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/tools/</loc>
-    <lastmod>2023-11-02T19:56:14+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/publication-type/1/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/authors/</loc>
-    <lastmod>2023-11-13T07:43:10+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -93,14 +112,17 @@
                 href="https://mehdi-latif.github.io/authors/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/author/j%C3%A9r%C3%B4me-idier/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/imagerie-m%C3%A9dicale/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/medical-physics-physics.med-ph/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/author/j%C3%A9r%C3%B4me-idier/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/medical-physics/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/publication_types/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,28 +135,31 @@
                 />
   </url><url>
     <loc>https://mehdi-latif.github.io/publication/gretsi_23/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/author/simon-stute/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/statistiques/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/author/thomas-carlier/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/publication/f3d_23/</loc>
-    <lastmod>2023-11-04T12:39:05+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/3photons/</loc>
-    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/emily_2022/</loc>
-    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/slides/</loc>
-    <lastmod>2022-12-30T17:42:48+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/simulation-monte-carlo/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/tep/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/bash/</loc>
-    <lastmod>2023-09-13T06:58:48+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -147,10 +172,13 @@
                 />
   </url><url>
     <loc>https://mehdi-latif.github.io/project/nist_parser/</loc>
-    <lastmod>2023-09-13T06:58:48+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/script/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/pollux/</loc>
-    <lastmod>2022-09-01T19:38:10+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -163,13 +191,10 @@
                 />
   </url><url>
     <loc>https://mehdi-latif.github.io/project/etez_2022/</loc>
-    <lastmod>2022-09-01T19:28:04+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/mimosa_code/</loc>
-    <lastmod>2022-09-01T19:29:28+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/branch-and-bound/</loc>
-    <lastmod>2022-09-01T19:37:39+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -181,14 +206,17 @@
                 href="https://mehdi-latif.github.io/tag/branch-and-bound/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/d%C3%A9m%C3%A9lange-spectral/</loc>
-    <lastmod>2022-09-01T19:37:39+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/c-/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/mimosa_slides/</loc>
-    <lastmod>2022-09-01T19:37:39+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/d%C3%A9m%C3%A9lange-spectral/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/project/mimosa_code/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/optimisation-exacte/</loc>
-    <lastmod>2022-09-01T19:37:39+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -200,21 +228,11 @@
                 href="https://mehdi-latif.github.io/tag/optimisation-exacte/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/parcimonie/</loc>
-    <lastmod>2022-09-01T19:37:39+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdi-latif.github.io/en/tag/parcimonie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mehdi-latif.github.io/tag/parcimonie/"
-                />
+    <loc>https://mehdi-latif.github.io/tag/parcimonie-%5Cell_0/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/solveur-libre/</loc>
-    <lastmod>2022-09-01T19:37:39+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -226,21 +244,11 @@
                 href="https://mehdi-latif.github.io/tag/solveur-libre/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/latex/</loc>
-    <lastmod>2022-08-30T18:00:05+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdi-latif.github.io/en/tag/latex/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mehdi-latif.github.io/tag/latex/"
-                />
+    <loc>https://mehdi-latif.github.io/project/mimosa_slides/</loc>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/tiftex/</loc>
-    <lastmod>2022-08-30T18:00:05+02:00</lastmod>
+    <lastmod>2023-12-28T14:08:08+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -270,8 +278,6 @@
                 href="https://mehdi-latif.github.io/categories/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/informatique-cs/imagerie-m%C3%A9dicale/</loc>
-  </url><url>
     <loc>https://mehdi-latif.github.io/author/mehdi-latif/</loc>
     <lastmod>2023-11-13T07:43:10+01:00</lastmod>
     <xhtml:link
@@ -287,7 +293,5 @@
   </url><url>
     <loc>https://mehdi-latif.github.io/publication/</loc>
     <lastmod>2023-11-04T11:32:52+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/statistiques-stat/applications-stat.ap/</loc>
   </url>
 </urlset>

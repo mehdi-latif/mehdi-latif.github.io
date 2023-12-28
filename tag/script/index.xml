@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Script | Mehdi LATIF | CV Numérique</title>
+    <link>https://mehdi-latif.github.io/tag/script/</link>
+      <atom:link href="https://mehdi-latif.github.io/tag/script/index.xml" rel="self" type="application/rss+xml" />
+    <description>Script</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Script</title>
+      <link>https://mehdi-latif.github.io/tag/script/</link>
+    </image>
+    
+    <item>
+      <title>NIST parser</title>
+      <link>https://mehdi-latif.github.io/project/nist_parser/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/nist_parser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIFTEX</title>
+      <link>https://mehdi-latif.github.io/project/tiftex/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/tiftex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

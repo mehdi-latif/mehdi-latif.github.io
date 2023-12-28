@@ -5,12 +5,20 @@
     <link>https://mehdi-latif.github.io/tag/slides/</link>
       <atom:link href="https://mehdi-latif.github.io/tag/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Slides</title>
       <link>https://mehdi-latif.github.io/tag/slides/</link>
     </image>
+    
+    <item>
+      <title>ComProj - System matrix evaluation for Compton imaging system</title>
+      <link>https://mehdi-latif.github.io/project/merec_23/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/merec_23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
@@ -25,6 +33,14 @@
       <link>https://mehdi-latif.github.io/project/etez_2022/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://mehdi-latif.github.io/project/etez_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMOSA Unmix</title>
+      <link>https://mehdi-latif.github.io/project/mimosa_code/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/mimosa_code/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation Monte Carlo | Mehdi LATIF | CV Numérique</title>
+    <link>https://mehdi-latif.github.io/tag/simulation-monte-carlo/</link>
+      <atom:link href="https://mehdi-latif.github.io/tag/simulation-monte-carlo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulation Monte Carlo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Simulation Monte Carlo</title>
+      <link>https://mehdi-latif.github.io/tag/simulation-monte-carlo/</link>
+    </image>
+    
+    <item>
+      <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
+      <link>https://mehdi-latif.github.io/project/emily_2022/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/emily_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLLUX - Simulateur TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/pollux/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/pollux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction tomographique pour l’imagerie TEP à $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/etez_2022/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/etez_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

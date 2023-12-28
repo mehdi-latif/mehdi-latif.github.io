@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physique | Mehdi LATIF | CV Numérique</title>
+    <link>https://mehdi-latif.github.io/tag/physique/</link>
+      <atom:link href="https://mehdi-latif.github.io/tag/physique/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physique</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Physique</title>
+      <link>https://mehdi-latif.github.io/tag/physique/</link>
+    </image>
+    
+    <item>
+      <title>ComProj - System matrix evaluation for Compton imaging system</title>
+      <link>https://mehdi-latif.github.io/project/merec_23/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/merec_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARIANE - Projecteur TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/ariane/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/ariane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
+      <link>https://mehdi-latif.github.io/project/emily_2022/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/emily_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIST parser</title>
+      <link>https://mehdi-latif.github.io/project/nist_parser/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/nist_parser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLLUX - Simulateur TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/pollux/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/pollux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction tomographique pour l’imagerie TEP à $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/etez_2022/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/etez_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

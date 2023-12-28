@@ -5,12 +5,20 @@
     <link>https://mehdi-latif.github.io/tag/matlab/</link>
       <atom:link href="https://mehdi-latif.github.io/tag/matlab/index.xml" rel="self" type="application/rss+xml" />
     <description>Matlab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Matlab</title>
       <link>https://mehdi-latif.github.io/tag/matlab/</link>
     </image>
+    
+    <item>
+      <title>ARIANE - Projecteur TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/ariane/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/ariane/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mantra pour l&#39;écriture d&#39;un rapport de TP</title>
@@ -158,6 +166,14 @@ figure;
 &lt;p&gt;Moralité, maintenant que vous avez tout ça, nous serons intraitables sur les rapports que nous allons corriger et si vous avez des questions, n&amp;rsquo;hésitez pas à envoyer un 
 &lt;a href=&#34;mailto:mehdi.latif@ls2n.fr?subject=[mlatif.fr]%20Question%20mantra%20TP...&#34;&gt;mail&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>POLLUX - Simulateur TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/pollux/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/pollux/</guid>
+      <description></description>
     </item>
     
   </channel>
