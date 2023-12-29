@@ -5,12 +5,28 @@
     <link>https://mehdi-latif.github.io/tag/imagerie-m%C3%A9dicale/</link>
       <atom:link href="https://mehdi-latif.github.io/tag/imagerie-m%C3%A9dicale/index.xml" rel="self" type="application/rss+xml" />
     <description>Imagerie médicale</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Imagerie médicale</title>
       <link>https://mehdi-latif.github.io/tag/imagerie-m%C3%A9dicale/</link>
     </image>
+    
+    <item>
+      <title>ComProj - System matrix evaluation for Compton imaging system</title>
+      <link>https://mehdi-latif.github.io/project/merec_23/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/merec_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARIANE - Projecteur Compton</title>
+      <link>https://mehdi-latif.github.io/project/ariane/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/ariane/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reconstruction multiclasse pour l&#39;imagerie TEP 3-photons</title>
@@ -25,6 +41,30 @@
       <link>https://mehdi-latif.github.io/publication/f3d_23/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://mehdi-latif.github.io/publication/f3d_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
+      <link>https://mehdi-latif.github.io/project/emily_2022/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/emily_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLLUX - Simulateur TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/pollux/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/pollux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction tomographique pour l’imagerie TEP à $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/etez_2022/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/etez_2022/</guid>
       <description></description>
     </item>
     

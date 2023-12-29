@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projet | Mehdi LATIF | CV Numérique</title>
+    <link>https://mehdi-latif.github.io/tag/projet/</link>
+      <atom:link href="https://mehdi-latif.github.io/tag/projet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Projet</title>
+      <link>https://mehdi-latif.github.io/tag/projet/</link>
+    </image>
+    
+    <item>
+      <title>ARIANE - Projecteur Compton</title>
+      <link>https://mehdi-latif.github.io/project/ariane/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/ariane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLLUX - Simulateur TEP $3\gamma$</title>
+      <link>https://mehdi-latif.github.io/project/pollux/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/pollux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
