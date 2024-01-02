@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latex | Mehdi LATIF | Digital Resume</title>
+    <title>LaTeX | Mehdi LATIF | Digital Resume</title>
     <link>https://mehdi-latif.github.io/en/tag/latex/</link>
       <atom:link href="https://mehdi-latif.github.io/en/tag/latex/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latex</description>
+    <description>LaTeX</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
-      <title>Latex</title>
+      <title>LaTeX</title>
       <link>https://mehdi-latif.github.io/en/tag/latex/</link>
     </image>
     

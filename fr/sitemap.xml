@@ -12,7 +12,7 @@
     <lastmod>2024-01-02T08:17:10+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/</loc>
-    <lastmod>2024-01-02T10:04:30+01:00</lastmod>
+    <lastmod>2024-01-02T12:03:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,7 +31,7 @@
     <lastmod>2024-01-02T08:17:10+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/</loc>
-    <lastmod>2024-01-02T10:04:30+01:00</lastmod>
+    <lastmod>2024-01-02T12:03:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,7 +47,7 @@
     <lastmod>2024-01-02T08:17:10+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tags/</loc>
-    <lastmod>2024-01-02T10:04:30+01:00</lastmod>
+    <lastmod>2024-01-02T12:03:41+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,11 +74,20 @@
     <loc>https://mehdi-latif.github.io/tag/xemis2/</loc>
     <lastmod>2024-01-02T08:17:10+01:00</lastmod>
   </url><url>
+    <loc>https://mehdi-latif.github.io/project/affectation_graphe/</loc>
+    <lastmod>2024-01-02T12:03:41+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/c-/</loc>
+    <lastmod>2024-01-02T12:03:41+01:00</lastmod>
+  </url><url>
     <loc>https://mehdi-latif.github.io/project/conseils_rapport/</loc>
     <lastmod>2024-01-02T10:04:30+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/enseignement/</loc>
     <lastmod>2024-01-02T10:04:30+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/graphes/</loc>
+    <lastmod>2024-01-02T12:03:41+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/latex/</loc>
     <lastmod>2024-01-02T10:04:30+01:00</lastmod>
@@ -94,7 +103,10 @@
                 />
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/outils/</loc>
-    <lastmod>2024-01-02T10:04:30+01:00</lastmod>
+    <lastmod>2024-01-02T12:03:41+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/script/</loc>
+    <lastmod>2024-01-02T12:03:41+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/publication-type/1/</loc>
     <lastmod>2023-12-29T18:00:34+01:00</lastmod>
@@ -171,9 +183,6 @@
     <loc>https://mehdi-latif.github.io/tag/physique/</loc>
     <lastmod>2024-01-02T10:04:30+01:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/script/</loc>
-    <lastmod>2024-01-02T10:04:30+01:00</lastmod>
-  </url><url>
     <loc>https://mehdi-latif.github.io/project/pollux/</loc>
     <lastmod>2024-01-02T08:17:10+01:00</lastmod>
     <xhtml:link
@@ -202,9 +211,6 @@
                 hreflang="fr"
                 href="https://mehdi-latif.github.io/tag/branch-and-bound/"
                 />
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/c-/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/d%C3%A9m%C3%A9lange-spectral/</loc>
     <lastmod>2024-01-02T08:17:10+01:00</lastmod>
