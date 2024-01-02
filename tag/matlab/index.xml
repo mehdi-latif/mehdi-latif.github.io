@@ -22,9 +22,9 @@
     
     <item>
       <title>Conseils pour l&#39;écriture d&#39;un rapport de TP (et pas que ...)</title>
-      <link>https://mehdi-latif.github.io/project/mantra_rapport/</link>
+      <link>https://mehdi-latif.github.io/project/conseils_rapport/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/project/mantra_rapport/</guid>
+      <guid>https://mehdi-latif.github.io/project/conseils_rapport/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Écrit à l&amp;rsquo;origine pour m&amp;rsquo;éviter de répéter constamment les mêmes conseils à mes étudiants, ce manuel a connu une diffusion assez large.&lt;br&gt;
 &lt;strong&gt;Umberto Eco&lt;/strong&gt; - Comment écrire sa thèse (1977)&lt;/p&gt;
@@ -43,16 +43,19 @@
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;contexte-a-namecontextea&#34;&gt;Contexte &lt;a name=&#34;contexte&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Initialement écrit pour les TP de CSOPT (Datasim), on se rend compte que ça sert à tout le monde.&lt;/p&gt;
+&lt;p&gt;Initialement écrit pour les TP de CSOPT (
+&lt;a href=&#34;https://www.ec-nantes.fr/formation/les-options-de-2e-et-3e-annee/option-donnees-analyse-traitement-et-applications-en-signal-et-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datasim&lt;/a&gt;), on se rend compte que ça sert à tout le monde.&lt;/p&gt;
+&lt;p&gt;Ce n’est pas pour être embêtant mais pour vous préparer à l’écriture de vos rapports de stage, vos projets biblios, votre thèse …&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Ce n’est pas pour être embêtant mais pour vous préparer à l’écriture de vos rapports de stage, vos projets biblios, … que vous continuiez en thèse ou dans le monde de l’entreprise et vous montrer &lt;em&gt;l’importance du contexte dans les écrits que vous produirez pour vos supérieurs, clients, mamans et papas de thèses …&lt;/em&gt; (dixit Gwen).&lt;/p&gt;
+&lt;p&gt;Que vous continuiez en thèse ou dans le monde de l’entreprise,  il est important de poser le contexte dans les écrits que vous produirez pour vos supérieurs, clients, directeurs de thèses …&lt;br&gt;
+dixit &lt;strong&gt;Gwen.S&lt;/strong&gt; (2023)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;mantra--a-namemantraa&#34;&gt;Mantra  &lt;a name=&#34;mantra&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Le « Mantra » principal est&lt;/p&gt;
 &lt;center&gt; &lt;i&gt; On doit pouvoir lire un rapport sans avoir à se référer au sujet. &lt;/i&gt;&lt;/center&gt;
 &lt;/br&gt;
-Pour faire simple : **Pour chaque question, faire:**
+&lt;p&gt;&lt;strong&gt;Pour faire simple:&lt;/strong&gt; Pour chaque question, faire&lt;/p&gt;
 &lt;h2 id=&#34;entrée-lintro---a-nameentreea&#34;&gt;Entrée, l’intro :  &lt;a name=&#34;entree&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Une phrase de contexte où vous dites ce que vous allez faire, prouver, montrer, … On évite &lt;strong&gt;au maximum&lt;/strong&gt; de faire appel au numéro des questions dans le sujet afin d&amp;rsquo;être cohérent avec le mantra &lt;em&gt;ie.&lt;/em&gt; on évite:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;1.a: la réponse est ...
@@ -144,33 +147,26 @@ figure;
     title(&amp;quot;prox$_{\gamma \|\cdot\|_{1}}(x)$&amp;quot;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,16)
     legend([p1,p2,p3],&#39;Location&#39;,&#39;best&#39;,&#39;FontSize&#39;,16,&#39;Interpreter&#39;,&#39;latex&#39;); legend boxoff
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;un-peu-dauto-promo&#34;&gt;Un peu d&amp;rsquo;auto-promo:&lt;/h4&gt;
+&lt;h4 id=&#34;pour-aller-plus-loin&#34;&gt;Pour aller plus loin:&lt;/h4&gt;
 &lt;p&gt;On peut faire de chouettes figures et animations avec Matlab:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;un exemple avec le code 
 &lt;a href=&#34;https://gitlab.com/mlatif/tep3g-ariane&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ariane&lt;/a&gt; pour le calcul de la matrice système en imagerie Compton:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Ariane dans le plan&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Ariane dans l&amp;rsquo;espace&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;mantra_ex1.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;mantra_ex2.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Ariane dans le plan:
+&lt;img src=&#34;mantra_ex1.png&#34; alt=&#34;Ariane dans le plan&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Ariane dans l&amp;rsquo;espace:
+&lt;img src=&#34;mantra_ex2.png&#34; alt=&#34;Ariane dans l&amp;amp;rsquo;espace&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;un exemple d&amp;rsquo;application d&amp;rsquo;une méthode Monte Carlo pour l&amp;rsquo;approximation de $\pi$ par &lt;em&gt;Pluie aléatoire&lt;/em&gt; (&lt;em&gt;cf.&lt;/em&gt; Maths EI1/TP5):
+&lt;p&gt;un exemple d&amp;rsquo;application d&amp;rsquo;une méthode Monte Carlo pour l&amp;rsquo;approximation de $\pi$ par &lt;em&gt;Pluie aléatoire&lt;/em&gt;:
 &lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/project/mantra_rapport/Pi_convergence.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/mantra_rapport/Pi_convergence.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
-&lt;/video&gt;&lt;/p&gt;
+    &lt;source src=&#34;https://mehdi-latif.github.io/project/conseils_rapport/Pi_convergence.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/conseils_rapport/Pi_convergence.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
+&lt;/video&gt;
+&lt;em&gt;cf.&lt;/em&gt; Maths EI1/TP5, animation présentée aux étudiants.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;dessert-la-conclusion---a-namedesserta&#34;&gt;Dessert, la conclusion :  &lt;a name=&#34;dessert&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
@@ -184,7 +180,7 @@ figure;
 &lt;hr&gt;
 &lt;h1 id=&#34;moralité--a-namemoralitea&#34;&gt;Moralité:  &lt;a name=&#34;moralite&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Moralité, maintenant que vous avez tout ça, nous serons intraitables sur les rapports que nous allons corriger et si vous avez des questions, n&amp;rsquo;hésitez pas à envoyer un 
-&lt;a href=&#34;mailto:mehdi.latif@ls2n.fr?subject=[mlatif.fr]%20Question%20mantra%20TP...&#34;&gt;mail&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;mailto:mehdi.latif@ls2n.fr?subject=[mlatif.fr]%20Question%25r%c3%a9daction%20TP...&#34;&gt;mail&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

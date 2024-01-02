@@ -94,6 +94,16 @@
   </url><url>
     <loc>https://mehdi-latif.github.io/en/tag/parcimonie/</loc>
     <lastmod>2022-08-29T21:01:52+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/tag/parcimonie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/parcimonie/"
+                />
   </url><url>
     <loc>https://mehdi-latif.github.io/en/tag/solveur-libre/</loc>
     <lastmod>2022-08-29T21:01:52+02:00</lastmod>
