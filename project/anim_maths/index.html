@@ -1,0 +1,1290 @@
+<!DOCTYPE html><html lang="fr" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Mehdi LATIF">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Une série d&#39;animations Matlab présentées aux étudiants en guise d’introductions aux concepts et méthodes étudiés TP de Maths appliquées.">
+
+  
+  <link rel="alternate" hreflang="fr" href="https://mehdi-latif.github.io/project/anim_maths/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#79797a">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144263843-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-144263843-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu617364fbbfa20b6604184597bb4a0ca0_40973_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu617364fbbfa20b6604184597bb4a0ca0_40973_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://mehdi-latif.github.io/project/anim_maths/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@mehdilatif">
+  <meta property="twitter:creator" content="@mehdilatif">
+  
+  <meta property="og:site_name" content="Mehdi LATIF | CV Numérique">
+  <meta property="og:url" content="https://mehdi-latif.github.io/project/anim_maths/">
+  <meta property="og:title" content="Animations mathématiques | Mehdi LATIF | CV Numérique">
+  <meta property="og:description" content="Une série d&#39;animations Matlab présentées aux étudiants en guise d’introductions aux concepts et méthodes étudiés TP de Maths appliquées."><meta property="og:image" content="https://mehdi-latif.github.io/img/avatar.jpg">
+  <meta property="twitter:image" content="https://mehdi-latif.github.io/img/avatar.jpg"><meta property="og:locale" content="fr">
+  
+    
+      <meta property="article:published_time" content="2023-09-02T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-01-04T07:31:33&#43;01:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://mehdi-latif.github.io/project/anim_maths/"
+  },
+  "headline": "Animations mathématiques",
+  
+  "datePublished": "2023-09-02T00:00:00Z",
+  "dateModified": "2024-01-04T07:31:33+01:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mehdi LATIF"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mehdi LATIF | CV Numérique",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://mehdi-latif.github.io/images/icon_hu617364fbbfa20b6604184597bb4a0ca0_40973_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Une série d'animations Matlab présentées aux étudiants en guise d’introductions aux concepts et méthodes étudiés TP de Maths appliquées."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Animations mathématiques | Mehdi LATIF | CV Numérique</title>
+
+  
+  
+  
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Rechercher</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Recherche..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Mehdi LATIF | CV Numérique</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Ouvrir la barre de navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Mehdi LATIF | CV Numérique</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#education"><span>Formation</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Recherches</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/#tags"><span>En bref</span></a>
+            
+              <a class="dropdown-item" href="/#publications"><span>Publications</span></a>
+            
+              <a class="dropdown-item" href="/#projects"><span>Projets & planches</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>CV & Portfolio</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/files/CV_LM.pdf"><span>CV - Français [pas à jour]</span></a>
+            
+              <a class="dropdown-item" href="/project/default_soon/"><span>CV - Anglais [pas à jour]</span></a>
+            
+              <a class="dropdown-item" href="/project/default_soon/"><span>Portfolio [en construction]</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Rechercher"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Animations mathématiques</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Dernière mise à jour le
+      
+    
+    Jan 4, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><strong>Remarques générales:</strong></p>
+<ul>
+<li>Les exemples et animations présents sur cette page sont publiés avec l&rsquo;autorisation de Madame 
+<a href="https://www.ec-nantes.fr/version-francaise/annuaire/francoise-foucher" target="_blank" rel="noopener">Françoise Foucher</a>, responsable du cours de <em>Mathématiques pour l&rsquo;ingénieur</em> à l&rsquo;ECN;</li>
+<li>Sur cette page, il n&rsquo;y aura pas de théorie, juste des jolies figures associées à des exercices de travaux pratiques.</li>
+</ul>
+<!-- 
+> Écrit à l'origine pour m'éviter de répéter constamment les mêmes conseils à mes étudiants, ce manuel a connu une diffusion assez large.   
+> **Umberto Eco** - Comment écrire sa thèse (1977)
+
+1. Le [Contexte](#contexte)
+2. Le [Mantra](#mantra) puis le modèle [entrée](#entree)/[plat](#plat)/[dessert](#dessert)/[digestif](#digestif)
+3. La [Moralité](#moralite)
+
+---
+# Contexte <a name="contexte"></a>
+Initialement écrit pour les TP de CSOPT ([Datasim](https://www.ec-nantes.fr/formation/les-options-de-2e-et-3e-annee/option-donnees-analyse-traitement-et-applications-en-signal-et-image)), on se rend compte que ça sert à tout le monde. 
+
+Ce n’est pas pour être embêtant mais pour vous préparer à l’écriture de vos rapports de stage, vos projets biblios, votre thèse … 
+>  Que vous continuiez en thèse ou dans le monde de l’entreprise,  il est important de poser le contexte dans les écrits que vous produirez pour vos supérieurs, clients, directeurs de thèses …   
+> dixit **Gwen.S** (2023)
+
+---
+
+# Mantra  <a name="mantra"></a>
+Le « Mantra » principal est
+<center> <i> On doit pouvoir lire un rapport sans avoir à se référer au sujet. </i></center>
+</br>
+
+**Pour faire simple:** Pour chaque question, faire
+
+## Entrée, l’intro :  <a name="entree"></a>
+Une phrase de contexte où vous dites ce que vous allez faire, prouver, montrer, … On évite **au maximum** de faire appel au numéro des questions dans le sujet afin d'être cohérent avec le mantra *ie.* on évite:
+```
+1.a: la réponse est ...
+...
+2.f: on trouve x=9
+...
+42.z: ça converge.  
+```
+## Plat, le développement :  <a name="plat"></a>
+
+- **Si question mathématique :** de la rigueur ie. hypothèses (ou l’endroit d’où vous partez) , résultats de cours utilisés, étapes de calculs (pas besoin de tout mettre si les opérations sont triviales), … 
+
+Pensez au [LaTeX](https://en.wikipedia.org/wiki/LaTeX) pour la rédaction de vos documents avec un éditeur type [Overleaf](https://www.overleaf.com/) si vous rendez un CR à plusieurs.
+- **Si tableau synthèse :** Tout est dans le titre de cette section, c’est censé être une synthèse … ne pas hésiter à mettre en valeur (avec du gras ou de la couleur) les résultats que vous jugez utiles, pertinents. Par exemple, le code LaTeX: 
+```
+\begin{table}[H]
+\centering
+\begin{tabular}{c|c|c|c|}
+\cline{2-4}
+\textbf{} & \textbf{Méthode 1} & \textbf{Methode 2} & \textbf{Méthode 3} \\ \hline
+\multicolumn{1}{|c|}{\textbf{$\hat{x}$}} & $(.,.)^{\intercal}$ & $(.,.)^{\intercal}$ & $(.,.)^{\intercal}$ \\ \hline
+\multicolumn{1}{|c|}{\textbf{$\hat{z} := f(\hat{x})$}} & 0 & \textcolor{blue}{$\infty$} & $\ln (3)$ \\ \hline
+\multicolumn{1}{|c|}{Nb d'itérations} & $666$ & $24$ & $\begingroup \color{red}{4} \endgroup 2$ \\ \hline
+\multicolumn{1}{|c|}{Nature de $\hat{x}$} & \textcolor{magenta}{$\min$ local} & $\max$ local & point col \\ \hline
+\end{tabular}
+\caption{Données obtenues avec $x_{0} = (\dots)^{\intercal} \in \mathbb{R}^{n}$ avec $\rho = \dots$ et un nombre d'itération maximal $\text{iter}_{\max} = \dots$ }
+\label{tab:dummy_tab}
+\end{table}
+```
+permet d'obtenir le tableau suivant: 
+
+![Exemple d'un joli tableau](ex_dummy_tab.png)
+
+Et on discute les résultats obtenus ;).
+
+*Tip pour se simplifier la vie avec les tableaux latex:* 
+Créez vos tableaux dans un tableur et mettez en forme avec [Table generator](https://www.tablesgenerator.com/)
+
+- **Si on vous demande de tracer un truc :**
+#### Protocole de la jolie figure (en Matlab, mais généralisable à d'autres langages ):
+```
+figure ; hold on ; 
+[box on ; grid on] ; // […] signifie optionnel.  
+// Vos données à tracer (les couleurs sont importantes, 
+// on doit voir directement ce que vous souhaitez montrer, 
+// donc on va dans la doc de la fonction plot())
+xlabel(‘’) ; ylabel(‘’) ; title(‘’) ; 
+// et sgtitle(‘’) si vous avez décidé de faire des subplot() cf la doc.
+legend(‘’) ; // idem, regardez la doc.
+```
+#### Tips pour des figures propres :
+- allez voir dans les docs le ‘Interpreter’,’latex’
+- gagnez du temps dans la création de la légende avec matlab :
+```
+p1 = plot(…,‘Displayname’, "bla") ;
+p2 = plot(…,‘Displayname’, "blo") ;
+// [...]
+legend([p1,p2],…) ;  
+```
+#### Un exemple de jolie figure - Cours de B.Pascal Datasim/CSOPT
+Pour les curieux, le cours de B.Pascal [Nonsmooth convex optimization](https://bpascal-fr.github.io/teaching/).
+
+![Exemple d'une *jolie figure* : Prox de la norme $\ell_{1}$](ex_norm_l1.png)
+Le code Matlab correspondant (possible de faire la même chose avec Python ou Julia): 
+```
+x = linspace(-10,10,1000);
+figure; 
+  sgtitle("$\ell_{1}$ norm",'Interpreter','latex','FontSize',20)
+  subplot(1,2,1)
+    hold on; box on; grid minor;
+    plot(x,abs(x),'b','LineWidth',2);
+    yline(0,'k--'); xline(0,'k--');
+    ylim([-1,max(x)]);
+    xlabel('$x$','Interpreter','latex','FontSize',12); 
+    ylabel('$y$','Interpreter','latex','Rotation',0,'FontSize',12);    
+    title("$f:x \mapsto |x|$",'Interpreter','latex','FontSize',16);
+  subplot(1,2,2)
+    hold on; box on; grid minor; 
+    gamma = 1;  p = prox_l1(x,gamma);
+    p1 = plot(x,p,'-','LineWidth',2,'Displayname',"$\gamma="+num2str(gamma)+"$",'Color','#7E2F8E');
+    gamma = 2;  p = prox_l1(x,gamma);
+    p2 = plot(x,p,'--','LineWidth',2,'Displayname',"$\gamma="+num2str(gamma)+"$",'Color','#EDB120');
+    gamma = 3.5;  p = prox_l1(x,gamma);
+    p3 = plot(x,p,':','LineWidth',2,'Displayname',"$\gamma="+num2str(gamma)+"$",'Color','#A2142F');
+    yline(0,'k--'); xline(0,'k--');
+    xlabel('$x$','Interpreter','latex','FontSize',12);
+    ylabel('$y$','Interpreter','latex','Rotation',0,'FontSize',12);
+    title("prox$_{\gamma \|\cdot\|_{1}}(x)$",'Interpreter','latex','FontSize',16)
+    legend([p1,p2,p3],'Location','best','FontSize',16,'Interpreter','latex'); legend boxoff
+```
+
+#### Pour aller plus loin: 
+On peut faire de chouettes figures et animations avec Matlab: 
+- un exemple avec le code [Ariane](https://gitlab.com/mlatif/tep3g-ariane) pour le calcul de la matrice système en imagerie Compton:
+  - Ariane dans le plan:
+![Ariane dans le plan](mantra_ex1.png)
+  - Ariane dans l'espace:
+![Ariane dans l'espace](mantra_ex2.png)
+
+- un exemple d'application d'une méthode Monte Carlo pour l'approximation de $\pi$ par *Pluie aléatoire*: 
+<video controls preload="auto" width="600px"  playsinline class="html-video">
+    <source src="/project/anim_maths/Pi_convergence.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/Pi_convergence.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+</video>
+*cf.* Maths EI1/TP5, animation présentée aux étudiants.
+
+## Dessert, la conclusion :  <a name="dessert"></a>
+bon bah là, discutez la figure obtenue ou donnez le résultat mathématique obtenu, bref discutez et soyez critiques vis-à-vis de ce que vous présentez.
+
+## Le digestif, les remarques générales:  <a name="digestif"></a>
+
+Si on file la métaphore du restaurant : 
+-	**Le menu:** c’est l’introduction générale du TP, ce que l’on va étudier dans ce rapport de TP. Même si cela suppose faire des paraphrases du sujet, c’est toujours bien de faire comprendre au lecteur/correcteur/rapporteur l’endroit d’où il part **et** à quelle sauce il va être mangé. 
+-	**L’addition:** c’est la conclusion générale du TP ; il faut donner les grandes lignes de l’étude qui a été réalisée durant le rapport, les idées et les conclusions. Pas besoin de trop de blabla si vous avez été efficaces dans les desserts de chaque question.  
+
+---
+
+# Moralité:  <a name="moralite"></a>
+Moralité, maintenant que vous avez tout ça, nous serons intraitables sur les rapports que nous allons corriger et si vous avez des questions, n'hésitez pas à envoyer un [mail](mailto:mehdi.latif@ls2n.fr?subject=[mlatif.fr]%20Question%rédaction%20TP...) -->
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/matlab/">Matlab</a>
+  
+  <a class="badge badge-light" href="/tag/latex/">LaTeX</a>
+  
+  <a class="badge badge-light" href="/tag/enseignements/">Enseignements</a>
+  
+  <a class="badge badge-light" href="/tag/outils/">Outils</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://mehdi-latif.github.io/project/anim_maths/&amp;text=Animations%20math%c3%a9matiques" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://mehdi-latif.github.io/project/anim_maths/&amp;t=Animations%20math%c3%a9matiques" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Animations%20math%c3%a9matiques&amp;body=https://mehdi-latif.github.io/project/anim_maths/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://mehdi-latif.github.io/project/anim_maths/&amp;title=Animations%20math%c3%a9matiques" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Animations%20math%c3%a9matiques%20https://mehdi-latif.github.io/project/anim_maths/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://mehdi-latif.github.io/project/anim_maths/&amp;title=Animations%20math%c3%a9matiques" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/mehdi-latif/avatar_hu47ea0b015bffe5fac08344ed21222365_163836_270x270_fill_q90_lanczos_center.jpg" alt="Mehdi LATIF">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://mehdi-latif.github.io/">Mehdi LATIF</a></h5>
+        <h6 class="card-subtitle">Doctorant - Algorithmique et Traitement du signal.</h6>
+        <p class="card-text">$\lambda$</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://gitlab.com/mlatif" target="_blank" rel="noopener">
+        <i class="fab fa-gitlab"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Mehdi-Latif" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=GqB6M5MAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/mehdilatif/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://mlatif.fr/#contact" target="_blank" rel="noopener">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://hal.science/search/index/q/*/authFullName_s/Mehdi&#43;Latif" target="_blank" rel="noopener">
+        <i class="ai ai-hal-square"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Sur le même sujet</h3>
+    <ul>
+      
+      <li><a href="/project/conseils_rapport/">Conseils pour l&#39;écriture d&#39;un rapport de TP (et pas que ...)</a></li>
+      
+      <li><a href="/project/tiftex/">TIFTEX</a></li>
+      
+      <li><a href="/project/ariane/">ARIANE - Projecteur Compton</a></li>
+      
+      <li><a href="/project/affectation_graphe/">Affectation à base de graphe</a></li>
+      
+      <li><a href="/project/nist_parser/">NIST parser</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"Aucun résultat n'a été trouvé","placeholder":"Recherche...","results":"Résultats trouvés"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projets",
+        'publication' : "Publications",
+        'talk' : "Présentations",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.a023bb475224b9a5c279ef7b35d48c52.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+  
+  <p>
+    <span class="float-right" aria-hidden="true">
+      Last update: Jan 4, 2024
+    </span>
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citation</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copier
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Télécharger
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
