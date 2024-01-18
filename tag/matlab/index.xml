@@ -25,12 +25,25 @@
       <link>https://mehdi-latif.github.io/project/anim_maths/</link>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://mehdi-latif.github.io/project/anim_maths/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Remarques générales:&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;remarques-générales&#34;&gt;Remarques générales:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Les exemples et animations présents sur cette page sont publiés avec l&amp;rsquo;autorisation de Madame 
 &lt;a href=&#34;https://www.ec-nantes.fr/version-francaise/annuaire/francoise-foucher&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Françoise Foucher&lt;/a&gt;, responsable du cours de &lt;em&gt;Mathématiques pour l&amp;rsquo;ingénieur&lt;/em&gt; à l&amp;rsquo;ECN;&lt;/li&gt;
 &lt;li&gt;Sur cette page, il n&amp;rsquo;y aura pas de théorie, juste des jolies figures associées à des exercices de travaux pratiques.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Des remerciements à B.Pascal&lt;/strong&gt; pour m&amp;rsquo;avoir donné le code qui m&amp;rsquo;a permis de générer ces animations.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;exemples-proposés&#34;&gt;Exemples proposés:&lt;/h2&gt;
+&lt;p&gt;TOC&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;optimisation-par-recherche-linéaire--a-nameoptim_rla&#34;&gt;Optimisation par recherche linéaire:  &lt;a name=&#34;optim_rl&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;optimisation-libre--a-nameoptim_rl_wocstra&#34;&gt;Optimisation libre:  &lt;a name=&#34;optim_rl_wocstr&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;optimisation-sous-contrainte-a-nameoptim_rl_wicstra&#34;&gt;Optimisation sous contrainte: &lt;a name=&#34;optim_rl_wicstr&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;optimisation-linéaire-sous-contrainte-a-nameoptim_lina&#34;&gt;Optimisation linéaire sous contrainte: &lt;a name=&#34;optim_lin&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;simulations-de-lois-de-probabilité-et-illustraction-des-propriétés-de-convergence-de-variables-aléatoires-a-namesimu_probaa&#34;&gt;Simulations de lois de probabilité et illustraction des propriétés de convergence de variables aléatoires: &lt;a name=&#34;simu_proba&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;inférence-statistiques-a-namestat_infa&#34;&gt;Inférence statistiques: &lt;a name=&#34;stat_inf&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 &lt;!-- 
 &gt; Écrit à l&#39;origine pour m&#39;éviter de répéter constamment les mêmes conseils à mes étudiants, ce manuel a connu une diffusion assez large.   
 &gt; **Umberto Eco** - Comment écrire sa thèse (1977)
