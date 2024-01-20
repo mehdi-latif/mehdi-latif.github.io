@@ -38,16 +38,51 @@
 &lt;li&gt;Les exemples et animations présents sur cette page sont publiés avec l&amp;rsquo;autorisation de Madame 
 &lt;a href=&#34;https://www.ec-nantes.fr/version-francaise/annuaire/francoise-foucher&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Françoise Foucher&lt;/a&gt;, responsable du cours de &lt;em&gt;Mathématiques pour l&amp;rsquo;ingénieur&lt;/em&gt; à l&amp;rsquo;ECN;&lt;/li&gt;
 &lt;li&gt;Sur cette page, il n&amp;rsquo;y aura pas de théorie, juste des jolies figures associées à des exercices de travaux pratiques.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Des remerciements à B.Pascal&lt;/strong&gt; pour m&amp;rsquo;avoir donné le code qui m&amp;rsquo;a permis de générer ces animations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mes remerciements vont à 
+&lt;a href=&#34;https://bpascal-fr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barbara Pascal&lt;/a&gt;&lt;/strong&gt; pour m&amp;rsquo;avoir donné le code qui m&amp;rsquo;a permis de générer ces animations ;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;exemples-proposés&#34;&gt;Exemples proposés:&lt;/h2&gt;
 &lt;p&gt;TOC&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;optimisation-par-recherche-linéaire--a-nameoptim_rla&#34;&gt;Optimisation par recherche linéaire:  &lt;a name=&#34;optim_rl&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Faire une ref vers le Nocedal&lt;/p&gt;
 &lt;h2 id=&#34;optimisation-libre--a-nameoptim_rl_wocstra&#34;&gt;Optimisation libre:  &lt;a name=&#34;optim_rl_wocstr&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;optimisation-sous-contrainte-a-nameoptim_rl_wicstra&#34;&gt;Optimisation sous contrainte: &lt;a name=&#34;optim_rl_wicstr&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;optimisation-sous-contraintes-a-nameoptim_rl_wicstra&#34;&gt;Optimisation sous contraintes: &lt;a name=&#34;optim_rl_wicstr&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;optimisation-linéaire-sous-contrainte-a-nameoptim_lina&#34;&gt;Optimisation linéaire sous contrainte: &lt;a name=&#34;optim_lin&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;optimisation-linéaire-sous-contraintes-a-nameoptim_lina&#34;&gt;Optimisation linéaire sous contraintes: &lt;a name=&#34;optim_lin&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Une série d&amp;rsquo;exemples issus de la 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Recherche_op%C3%A9rationnelle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recherche Opérationnelle&lt;/a&gt; et plus particulièrement de l&amp;rsquo;
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Optimisation_combinatoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;optimisation combinatoire&lt;/a&gt;.&lt;br&gt;
+Un bon bouquin de &lt;em&gt;référence&lt;/em&gt; est le 
+&lt;a href=&#34;https://www.google.fr/books/edition/Integer_Programming/w-P7DwAAQBAJ?hl=fr&amp;amp;gbpv=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wolsey&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;problème-de-maximisation&#34;&gt;Problème de maximisation&lt;/h2&gt;
+&lt;p&gt;Le problème à résoudre est:
+$$
+(\mathcal{P}): \quad \max_{\boldsymbol{x}\in \mathbb{R}^{3}  }\quad  f(\boldsymbol{x}) \quad \textrm{st. } \quad \boldsymbol{x} \in \mathbf{K}
+$$
+où&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$f(\boldsymbol{x})$ est la fonction objectif définie par:
+$$
+f(\boldsymbol{x}) := 155x_{1} +160x_{2}+150x_{3}
+$$&lt;/li&gt;
+&lt;li&gt;$\mathbf{K}$ est un ensemble de contraintes défini par:
+$$
+\mathbf{K} := \left\{  16x_{1} + 13x_{2}+17x_{3} \leq 180, 27x_{1} + 15x_{2}+ 11x_{3} \leq 160, \sum_{i=1}^{3} x_{i}=12, \boldsymbol{x} \geq 0 \right\}
+$$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les solveurs peuvent le faire à votre place, mais un bon moyen de résoudre ce problème revient à appliquer une approche polyédrale; des exemples de cours sont donnés 
+&lt;a href=&#34;https://www.lamsade.dauphine.fr/~poc/jpoc9/Chapitre-Polyedres.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt; ou 
+&lt;a href=&#34;https://www.andrew.cmu.edu/user/gc0v/webpub/IPsurveyAussois-11-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;là&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Visuellement, la résolution du problème $(\mathcal{P})$ est proposé dans l&amp;rsquo;animation suivante:&lt;/p&gt;
+&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://mehdi-latif.github.io/project/anim_maths/OPTIM_LIN_ANIM.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/anim_maths/OPTIM_LIN_ANIM.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
+&lt;/video&gt;
+&lt;p&gt;La solution optimale $\boldsymbol{x}^{*}$ au problème $(\mathcal{P})$ est donné par le point rouge.&lt;/p&gt;
+&lt;h2 id=&#34;problèmes-de-minimisation&#34;&gt;Problèmes de minimisation&lt;/h2&gt;
+&lt;h3 id=&#34;approche-polyèdrale&#34;&gt;Approche Polyèdrale&lt;/h3&gt;
+&lt;h3 id=&#34;approche-par-méthodes-des-flots-dans-un-graphe&#34;&gt;Approche par méthodes des flots dans un graphe.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;simulations-de-lois-de-probabilité-et-illustraction-des-propriétés-de-convergence-des-variables-aléatoires-a-namesimu_probaa&#34;&gt;Simulations de lois de probabilité et illustraction des propriétés de convergence des variables aléatoires: &lt;a name=&#34;simu_proba&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 &lt;h2 id=&#34;simulations-de-loi-usuelles&#34;&gt;Simulations de loi usuelles&lt;/h2&gt;
