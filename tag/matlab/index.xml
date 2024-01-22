@@ -86,6 +86,17 @@ $$&lt;/li&gt;
 &lt;h3 id=&#34;approche-par-méthodes-des-flots-dans-un-graphe&#34;&gt;Approche par méthodes des flots dans un graphe.&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;simulations-de-lois-de-probabilité-et-illustration-des-propriétés-de-convergence-des-variables-aléatoires-a-namesimu_probaa&#34;&gt;Simulations de lois de probabilité et illustration des propriétés de convergence des variables aléatoires: &lt;a name=&#34;simu_proba&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Comme indiqué dans le titre, cette section s&amp;rsquo;intéresse à la simulation de lois de probabilité. Mais on part déjà avec un problème, l&amp;rsquo;ordinateur est 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Algorithme_d%C3%A9terministe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;déterministe&lt;/a&gt;.&lt;br&gt;
+Cependant, l&amp;rsquo;ordinateur génère efficacement des $0$ et des $1$.&lt;/p&gt;
+&lt;p&gt;Pour le coup, on ne peut pas dire que l&amp;rsquo;on va simuler un &lt;em&gt;vrai&lt;/em&gt; comportement aléatoire, on parlera plutôt de générateur 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Pseudo-al%C3%A9atoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;pseudo-aléatoire&lt;/strong&gt;&lt;/a&gt; à partir d&amp;rsquo;une loi &lt;strong&gt;uniforme&lt;/strong&gt; sur $[0,1]$, notée $\mathcal{U}([0,1])$, en fixant une 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Graine_al%C3%A9atoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;graine (seed)&lt;/a&gt; au préalable.&lt;br&gt;
+La solution pour simuler un comportement pseudo-aléatoire avec un ordinateur est de produire une suite de nombres, suffisamment imprévisible, pour permettre d&amp;rsquo;imiter une suite $(u_{n})_{n\in \mathbb{N}^{*}}$ de variables aléatoire indépendantes de loi mère $\mathcal{U}([0,1])$.&lt;/p&gt;
+&lt;p&gt;À partir de ça, il existe des formules de transformation qui permettent de générer des lois plus complexes à partir d&amp;rsquo;une loi $\mathcal{U}([0,1])$.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;RELATION_LOI_PROBA.jpg&#34; alt=&#34;RELATION_LOI_PROBA&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; 
+&lt;a href=&#34;https://link.springer.com/referenceworkentry/10.1007/978-3-642-04898-2_487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Relationships Among Univariate Statistical Distributions&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;simulations-de-loi-usuelles&#34;&gt;Simulations de loi usuelles&lt;/h2&gt;
 &lt;p&gt;mettre un truc sur la réduction de la variance.&lt;/p&gt;
 &lt;hr&gt;
