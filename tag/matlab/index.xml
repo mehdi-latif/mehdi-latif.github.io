@@ -85,20 +85,67 @@ $$&lt;/li&gt;
 &lt;h3 id=&#34;approche-polyèdrale&#34;&gt;Approche Polyèdrale&lt;/h3&gt;
 &lt;h3 id=&#34;approche-par-méthodes-des-flots-dans-un-graphe&#34;&gt;Approche par méthodes des flots dans un graphe.&lt;/h3&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;simulations-de-lois-de-probabilité-et-illustration-des-propriétés-de-convergence-des-variables-aléatoires-a-namesimu_probaa&#34;&gt;Simulations de lois de probabilité et illustration des propriétés de convergence des variables aléatoires: &lt;a name=&#34;simu_proba&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;simulations-de-lois-de-probabilité-et-convergence-des-variables-aléatoires-a-namesimu_probaa&#34;&gt;Simulations de lois de probabilité et convergence des variables aléatoires: &lt;a name=&#34;simu_proba&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Comme indiqué dans le titre, cette section s&amp;rsquo;intéresse à la simulation de lois de probabilité. Mais on part déjà avec un problème, l&amp;rsquo;ordinateur est 
 &lt;a href=&#34;https://fr.wikipedia.org/wiki/Algorithme_d%C3%A9terministe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;déterministe&lt;/a&gt;.&lt;br&gt;
 Cependant, l&amp;rsquo;ordinateur génère efficacement des $0$ et des $1$.&lt;/p&gt;
 &lt;p&gt;Pour le coup, on ne peut pas dire que l&amp;rsquo;on va simuler un &lt;em&gt;vrai&lt;/em&gt; comportement aléatoire, on parlera plutôt de générateur 
 &lt;a href=&#34;https://fr.wikipedia.org/wiki/Pseudo-al%C3%A9atoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;pseudo-aléatoire&lt;/strong&gt;&lt;/a&gt; à partir d&amp;rsquo;une loi &lt;strong&gt;uniforme&lt;/strong&gt; sur $[0,1]$, notée $\mathcal{U}([0,1])$, en fixant une 
-&lt;a href=&#34;https://fr.wikipedia.org/wiki/Graine_al%C3%A9atoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;graine (seed)&lt;/a&gt; au préalable.&lt;br&gt;
-La solution pour simuler un comportement pseudo-aléatoire avec un ordinateur est de produire une suite de nombres, suffisamment imprévisible, pour permettre d&amp;rsquo;imiter une suite $(u_{n})_{n\in \mathbb{N}^{*}}$ de variables aléatoire indépendantes de loi mère $\mathcal{U}([0,1])$.&lt;/p&gt;
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Graine_al%C3%A9atoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;graine (seed)&lt;/a&gt; au préalable.&lt;/p&gt;
+&lt;p&gt;La solution pour simuler un comportement pseudo-aléatoire avec un ordinateur est de produire une suite de nombres, suffisamment imprévisible, pour permettre d&amp;rsquo;imiter une suite $(u_{n})_{n\in \mathbb{N}^{*}}$ de variables aléatoires indépendantes de loi mère $\mathcal{U}([0,1])$.&lt;/p&gt;
 &lt;p&gt;À partir de ça, il existe des formules de transformation qui permettent de générer des lois plus complexes à partir d&amp;rsquo;une loi $\mathcal{U}([0,1])$.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;RELATION_LOI_PROBA.jpg&#34; alt=&#34;RELATION_LOI_PROBA&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; 
-&lt;a href=&#34;https://link.springer.com/referenceworkentry/10.1007/978-3-642-04898-2_487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Relationships Among Univariate Statistical Distributions&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1198/000313008X270448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Univariate Distribution Relationships&lt;/a&gt; - Leemis &amp;amp; McQueston (2008).&lt;/p&gt;
 &lt;h2 id=&#34;simulations-de-loi-usuelles&#34;&gt;Simulations de loi usuelles&lt;/h2&gt;
-&lt;p&gt;mettre un truc sur la réduction de la variance.&lt;/p&gt;
+&lt;h3 id=&#34;loi-uniforme--x-sim-mathcalu01&#34;&gt;Loi uniforme $ X \sim \mathcal{U}([0,1])$&lt;/h3&gt;
+&lt;p&gt;Voici un premier de simulation de la loi uniforme, c&amp;rsquo;est joli non ?&lt;/p&gt;
+&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_UNIF.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_UNIF.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
+&lt;/video&gt;
+&lt;p&gt;Deux parties sur ce graphique:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;En haut sont représentés les tirages en utilisant la fonction rand().&lt;/li&gt;
+&lt;li&gt;En bas, nous utilisons l&amp;rsquo;histogramme pour regrouper les observations dans des classes identiques et où la surface de chaque est une approximation de la densité de probabilité (pour des lois continues).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les calculs de l&amp;rsquo;espérance et de la variance sont réalisés à partir des moment d&amp;rsquo;ordre 1, 2 et de la formule de 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_K%C3%B6nig-Huygens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;König-Huygens&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;%Get the total number of draws for X simulation.
+N = length(x);
+% Use matlab to automatically sort observations into 10 classes.
+[n_elem,cent] = hist(x);
+% Determine the width of a class from the difference between class centers.
+h = cent(2) - cent(1); 
+ci = cent;
+hauteurs = n_elem/(N*h);
+f_ci = hauteurs*h ;
+% Using definition of expected value: |E(X) = sum_i f_X(ci) * ci
+% =&amp;gt; We use a discrete approximation of the continuous pdf ... so it&#39;s a sum and not an integral.
+E_hat = ci*(f_ci&#39;);
+% Second order moment
+ci2 = cent.^2;
+% König-Huygens Formula
+V_hat = ci2*(f_ci&#39;) - E_hat^2;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;loi-uniforme--x-sim-mathcalbnp&#34;&gt;Loi uniforme $ X \sim \mathcal{B}(n,p)$&lt;/h3&gt;
+&lt;p&gt;La même chose mais cette fois-ci avec la Binomiale :&lt;/p&gt;
+&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_BINOMIALE.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_BINOMIALE.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
+&lt;/video&gt;
+&lt;h3 id=&#34;loi-uniforme--x-sim-mathcalnmusigma2&#34;&gt;Loi uniforme $ X \sim \mathcal{N}(\mu,\sigma^{2})$&lt;/h3&gt;
+&lt;p&gt;Enfin, un troisième exemple avec la loi incontournable en probabilité et statistique:&lt;/p&gt;
+&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_NORMALE.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_NORMALE.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
+&lt;/video&gt;
+&lt;p&gt;Si on voit que les valeurs de l&amp;rsquo;espérance et de la variance empiriques sont un peu éloignées des valeurs théoriques, deux possiblités:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;augmenter le nombre de tirage et attendre de voir ce que ça donne;&lt;/li&gt;
+&lt;li&gt;appliquer des méthodes de 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/R%C3%A9duction_de_la_variance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;réduction de variance&lt;/a&gt;, mais c&amp;rsquo;est pas au programme.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;inférence-statistiques-a-namestat_infa&#34;&gt;Inférence statistiques: &lt;a name=&#34;stat_inf&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 &lt;!-- 
