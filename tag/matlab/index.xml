@@ -128,13 +128,13 @@ ci2 = cent.^2;
 % König-Huygens Formula
 V_hat = ci2*(f_ci&#39;) - E_hat^2;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;loi-uniforme--x-sim-mathcalbnp&#34;&gt;Loi uniforme $ X \sim \mathcal{B}(n,p)$&lt;/h3&gt;
-&lt;p&gt;La même chose mais cette fois-ci avec la Binomiale :&lt;/p&gt;
+&lt;h3 id=&#34;loi-binomiale--x-sim-mathcalbnp&#34;&gt;Loi binomiale $ X \sim \mathcal{B}(n,p)$&lt;/h3&gt;
+&lt;p&gt;La même chose mais cette fois-ci avec la binomiale :&lt;/p&gt;
 &lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
     &lt;source src=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_BINOMIALE.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_BINOMIALE.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
 &lt;/video&gt;
-&lt;h3 id=&#34;loi-uniforme--x-sim-mathcalnmusigma2&#34;&gt;Loi uniforme $ X \sim \mathcal{N}(\mu,\sigma^{2})$&lt;/h3&gt;
+&lt;h3 id=&#34;loi-normale--x-sim-mathcalnmusigma2&#34;&gt;Loi normale $ X \sim \mathcal{N}(\mu,\sigma^{2})$&lt;/h3&gt;
 &lt;p&gt;Enfin, un troisième exemple avec la loi incontournable en probabilité et statistique:&lt;/p&gt;
 &lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
     &lt;source src=&#34;https://mehdi-latif.github.io/project/anim_maths/SIMU_ANIM_NORMALE.mp4&#34; type=&#34;video/mp4&#34;&gt;
