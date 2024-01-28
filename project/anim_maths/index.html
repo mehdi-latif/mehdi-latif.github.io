@@ -282,7 +282,7 @@
     
       <meta property="article:published_time" content="2023-09-02T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2024-01-23T06:46:36&#43;01:00">
+    <meta property="article:modified_time" content="2024-01-28T09:53:08&#43;01:00">
   
 
   
@@ -309,7 +309,7 @@
   "headline": "Animations mathématiques",
   
   "datePublished": "2023-09-02T00:00:00Z",
-  "dateModified": "2024-01-23T06:46:36+01:00",
+  "dateModified": "2024-01-28T09:53:08+01:00",
   
   "author": {
     "@type": "Person",
@@ -609,7 +609,7 @@
           Dernière mise à jour le
       
     
-    Jan 23, 2024
+    Jan 28, 2024
   </span>
   
 
@@ -692,21 +692,26 @@ $$
 f(\boldsymbol{x}) := 155x_{1} +160x_{2}+150x_{3}
 $$</li>
 <li>$\mathbf{K}$ est un ensemble de contraintes défini par:
-$$
-\mathbf{K} := \left\{  16x_{1} + 13x_{2}+17x_{3} \leq 180, 27x_{1} + 15x_{2}+ 11x_{3} \leq 160, \sum_{i=1}^{3} x_{i}=12, \boldsymbol{x} \geq 0 \right\}
-$$</li>
+<ul>
+<li>$16x_{1} + 13x_{2}+17x_{3} \leq 180$</li>
+<li>$27x_{1} + 15x_{2}+ 11x_{3} \leq 160$</li>
+<li>$\sum_{i=1}^{3} x_{i}=12$</li>
+<li>$\boldsymbol{x} \geq 0 \Longleftrightarrow x_{i} \geq 0 \quad  \forall i \in \{1,2,3\}$</li>
+</ul>
+</li>
 </ul>
 <p>Les solveurs peuvent le faire à votre place, mais un bon moyen de résoudre ce problème revient à appliquer une approche polyédrale; des exemples de cours sont donnés 
 <a href="https://www.lamsade.dauphine.fr/~poc/jpoc9/Chapitre-Polyedres.pdf" target="_blank" rel="noopener">ici</a> ou 
 <a href="https://www.andrew.cmu.edu/user/gc0v/webpub/IPsurveyAussois-11-08.pdf" target="_blank" rel="noopener">là</a>.</p>
 <p>Visuellement, la résolution du problème $(\mathcal{P})$ est proposé dans l&rsquo;animation suivante:</p>
 <video controls preload="auto" width="600px"  playsinline class="html-video">
-    <source src="/project/anim_maths/OPTIM_LIN_ANIM.mp4" type="video/mp4">
-  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/OPTIM_LIN_ANIM.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+    <source src="/project/anim_maths/VIDEO/OPTIM_LIN_ANIM.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/VIDEO/OPTIM_LIN_ANIM.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
 </video>
 <p>La solution optimale $\boldsymbol{x}^{*}$ au problème $(\mathcal{P})$ est donné par le point rouge.</p>
 <h2 id="problèmes-de-minimisation">Problèmes de minimisation</h2>
 <h3 id="approche-polyèdrale">Approche Polyèdrale</h3>
+<p><em>TODO: mettre un lien vers l&rsquo;algorithme du simplexe</em></p>
 <h3 id="approche-par-méthodes-des-flots-dans-un-graphe">Approche par méthodes des flots dans un graphe.</h3>
 <hr>
 <h1 id="simulations-de-lois-de-probabilité-et-convergence-des-variables-aléatoires-a-namesimu_probaa">Simulations de lois de probabilité et convergence des variables aléatoires: <a name="simu_proba"></a></h1>
@@ -718,15 +723,15 @@ Cependant, l&rsquo;ordinateur génère efficacement des $0$ et des $1$.</p>
 <a href="https://fr.wikipedia.org/wiki/Graine_al%C3%A9atoire" target="_blank" rel="noopener">graine (seed)</a> au préalable.</p>
 <p>La solution pour simuler un comportement pseudo-aléatoire avec un ordinateur est de produire une suite de nombres, suffisamment imprévisible, pour permettre d&rsquo;imiter une suite $(u_{n})_{n\in \mathbb{N}^{*}}$ de variables aléatoires indépendantes de loi mère $\mathcal{U}([0,1])$.</p>
 <p>À partir de ça, il existe des formules de transformation qui permettent de générer des lois plus complexes à partir d&rsquo;une loi $\mathcal{U}([0,1])$.</p>
-<p><img src="RELATION_LOI_PROBA.jpg" alt="RELATION_LOI_PROBA"></p>
+<p><img src="IMG/RELATION_LOI_PROBA.jpg" alt="RELATION_LOI_PROBA"></p>
 <p><strong>Source:</strong> 
 <a href="https://www.tandfonline.com/doi/abs/10.1198/000313008X270448" target="_blank" rel="noopener">Univariate Distribution Relationships</a> - Leemis &amp; McQueston (2008).</p>
 <h2 id="simulations-de-loi-usuelles">Simulations de loi usuelles</h2>
 <h3 id="loi-uniforme--x-sim-mathcalu01">Loi uniforme $ X \sim \mathcal{U}([0,1])$</h3>
 <p>Voici un premier de simulation de la loi uniforme, c&rsquo;est joli non ?</p>
 <video controls preload="auto" width="600px"  playsinline class="html-video">
-    <source src="/project/anim_maths/SIMU_ANIM_UNIF.mp4" type="video/mp4">
-  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/SIMU_ANIM_UNIF.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+    <source src="/project/anim_maths/VIDEO/SIMU_ANIM_UNIF.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/VIDEO/SIMU_ANIM_UNIF.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
 </video>
 <p>Deux parties sur ce graphique:</p>
 <ul>
@@ -755,14 +760,14 @@ V_hat = ci2*(f_ci') - E_hat^2;
 <h3 id="loi-binomiale--x-sim-mathcalbnp">Loi binomiale $ X \sim \mathcal{B}(n,p)$</h3>
 <p>La même chose mais cette fois-ci avec la binomiale :</p>
 <video controls preload="auto" width="600px"  playsinline class="html-video">
-    <source src="/project/anim_maths/SIMU_ANIM_BINOMIALE.mp4" type="video/mp4">
-  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/SIMU_ANIM_BINOMIALE.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+    <source src="/project/anim_maths/VIDEO/SIMU_ANIM_BINOMIALE.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/VIDEO/SIMU_ANIM_BINOMIALE.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
 </video>
 <h3 id="loi-normale--x-sim-mathcalnmusigma2">Loi normale $ X \sim \mathcal{N}(\mu,\sigma^{2})$</h3>
 <p>Enfin, un troisième exemple avec la loi incontournable en probabilité et statistique:</p>
 <video controls preload="auto" width="600px"  playsinline class="html-video">
-    <source src="/project/anim_maths/SIMU_ANIM_NORMALE.mp4" type="video/mp4">
-  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/SIMU_ANIM_NORMALE.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+    <source src="/project/anim_maths/VIDEO/SIMU_ANIM_NORMALE.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/VIDEO/SIMU_ANIM_NORMALE.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
 </video>
 <p>Si on voit que les valeurs de l&rsquo;espérance et de la variance empiriques sont un peu éloignées des valeurs théoriques, deux possiblités:</p>
 <ul>
@@ -772,6 +777,55 @@ V_hat = ci2*(f_ci') - E_hat^2;
 </ul>
 <hr>
 <h1 id="inférence-statistiques-a-namestat_infa">Inférence statistiques: <a name="stat_inf"></a></h1>
+<p>Il s&rsquo;agit dans cette partie de déterminer un estimateur du paramètre d&rsquo;une loi de probabilité donnée.</p>
+<p>On prend par exemple le cas d&rsquo;une élection entre deux candidats $C_{1}$ et $C_{0}$ et on se fixe une variable aléatoire $X_{i} \in \left\{0,1\right\}$ qui représente la préférence d&rsquo;un citoyen telle que $X_{i}=1$ si il préfère le candidat $C_{1}$ (vous devinerez ce que signifie $X_{i}=0$).<br>
+De manière générale, les probabilités et statistiques sont précises quand on prend un grand nombre d&rsquo;observation, il va donc falloir sonder un nombre $N$ d&rsquo;électeurs.</p>
+<p>A partir des préférences recueillies, on va chercher à estimer la proportion $p$ de suffrages qui préfèrent le candidat $C_{1}$ et en déduire un intervalle de confiance $I_{n}$  pour un risque $\alpha \in \mathbb{R}_+$ (parce qu&rsquo;on peut se tromper).</p>
+<p>La modélisation de ce problème peut se faire en remarquant que les intentions de vote collectées peuvent être exprimés exprimés comme un $N$-échantillon de loi mère $X_i\sim \mathcal{B}(p)$ avec $X_{i}(\Omega) \in \{0,1\}$ $\forall i \in \{1,&hellip;,N\}$ .<br>
+On sait que la proportion $\bar{p}$ admet un estimateur des moments d&rsquo;ordre 1 noté $\bar{X}_{n}$ qui possède des chouettes propriétés $\forall n \in \{1,&hellip;,N\}$:</p>
+<ul>
+<li>il est sans biais <em>ie.</em>  $\mathbb{E}(\bar{X}_{n}) = p$;</li>
+<li>il converge presque sûrement vers $p$;</li>
+<li>puisque $X_{i} \in \mathcal{L}^{2}(\Omega)$, il admet un moment d&rsquo;ordre 2 et une variance $V(\bar{X}_{n})$ qui converge vers 0 quand $n\rightarrow+\infty$.</li>
+</ul>
+<p>L&rsquo;expression de cet estimateur est donnée par:
+$$
+\bar{X}_{n}:=\frac{1}{n} \sum_i^n X_i \quad \forall n \in \{1,&hellip;,N\}
+$$</p>
+<p>Comme on chercher un estimateur d&rsquo;une quantité inconnue, on construit un intervalle de confiance $I_{n}$ au risque $\alpha\in \mathbb{R}_+$ de se tromper.
+En appliquant le TCL et la propriété de convergence ps. de $\bar{X}_n$, on peut calculer l&rsquo;erreur d&rsquo;estimation:</p>
+<p>$$
+\epsilon_{n}:= z_{\frac{\alpha}{2}} \sqrt{ \frac{\bar{X}_{n} (1- \bar{X}_n )}{n}} \quad \forall n \in \{1,&hellip;,N\}
+$$
+où $z$ est le quantile d&rsquo;ordre $\alpha$ pour la loi $\mathcal{N}(0,1)$.</p>
+<p>L&rsquo;intervalle de confiance pour l&rsquo;estimateur $\bar{X}_{n}$ s&rsquo;exprime tel que:</p>
+<p>$$
+I_{n} := [ \bar{X}_{n} -\epsilon_{n},\bar{X}_{n}+\epsilon_{n}] \quad \forall n \in \{1,&hellip;,N\}
+$$</p>
+<p>Maintenant qu&rsquo;on a tout ça, on peut construire l&rsquo;estimateur et l&rsquo;intervalle de confiance associé dans le cas où la population préfère le candidat $C_{1}$ à 51% et ceci:</p>
+<ul>
+<li>au risque $\alpha = 5$%
+<video controls preload="auto" width="600px"  playsinline class="html-video">
+    <source src="/project/anim_maths/VIDEO/SIMU_IC_1.96.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/VIDEO/SIMU_IC_1.96.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+</video></li>
+<li>au risque $\alpha = 1$%
+<video controls preload="auto" width="600px"  playsinline class="html-video">
+    <source src="/project/anim_maths/VIDEO/SIMU_IC_2.576.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/VIDEO/SIMU_IC_2.576.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+</video></li>
+</ul>
+<p>Je vous laisse étudier les comportements obtenus.</p>
+<p><strong>Note :</strong> Il s&rsquo;agit d&rsquo;un exemple pour un estimateur paramétrique par la méthode des moments, mais il existe d&rsquo;autres méthodes pour calculer des estimateurs <em>eg.</em> le maximum de vraisemblance.</p>
+<hr>
+<h2 id="extra">Extra:</h2>
+<p>Deux fiches synthèses sur les principales commandes Matlab à garder en tête:</p>
+<ul>
+<li>
+<a href="PDF/MATLAB_Fundamentals_ETH_Z%c3%bcrich.pdf">MATLAB Fundamentals - Res Jöhr</a></li>
+<li>
+<a href="PDF/Nielsen2015_MatlabCheatSheet.pdf">Matlab Cheat Sheet - Thor Nielsen</a></li>
+</ul>
 <!-- 
 > Écrit à l'origine pour m'éviter de répéter constamment les mêmes conseils à mes étudiants, ce manuel a connu une diffusion assez large.   
 > **Umberto Eco** - Comment écrire sa thèse (1977)
@@ -1365,7 +1419,7 @@ Moralité, maintenant que vous avez tout ça, nous serons intraitables sur les r
   
   <p>
     <span class="float-right" aria-hidden="true">
-      Last update: Jan 23, 2024
+      Last update: Jan 28, 2024
     </span>
   </p>
 </footer>
