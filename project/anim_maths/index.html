@@ -282,7 +282,7 @@
     
       <meta property="article:published_time" content="2023-09-02T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2024-01-28T09:53:08&#43;01:00">
+    <meta property="article:modified_time" content="2024-01-29T07:47:33&#43;01:00">
   
 
   
@@ -309,7 +309,7 @@
   "headline": "Animations mathématiques",
   
   "datePublished": "2023-09-02T00:00:00Z",
-  "dateModified": "2024-01-28T09:53:08+01:00",
+  "dateModified": "2024-01-29T07:47:33+01:00",
   
   "author": {
     "@type": "Person",
@@ -609,7 +609,7 @@
           Dernière mise à jour le
       
     
-    Jan 28, 2024
+    Jan 29, 2024
   </span>
   
 
@@ -775,6 +775,31 @@ V_hat = ci2*(f_ci') - E_hat^2;
 <li>appliquer des méthodes de 
 <a href="https://fr.wikipedia.org/wiki/R%C3%A9duction_de_la_variance" target="_blank" rel="noopener">réduction de variance</a>, mais c&rsquo;est pas au programme.</li>
 </ul>
+<h2 id="le-théorème-central-limite">Le Théorème Central Limite</h2>
+<p><em>Bon en gros, tout est normal</em></p>
+<h2 id="loi-forte-des-grands-nombres">Loi forte des grands nombres</h2>
+<p>C&rsquo;est un résultat de convergence assez puissant qui s&rsquo;énonce comme suit:</p>
+<blockquote>
+<p>Si $(X_{n})_{n\in\mathbb{N}}$ est une suite de variables aléatoires iid telle que $X_i \in \mathcal{L}^{1}(\Omega)$ avec $\mathbb{E}(X_i) = m$ $\forall i \in \{1,&hellip;,n\}$, alors
+$$\bar{X}_n = \frac{1}{n} \sum_1^n X_i  \overset{ps.}{\to} \mathbb{E}(X_i) = m \text{ quand } n \to +\infty.$$
+Dans le cas où $X_i \in \mathcal{L}^{2}(\Omega)$ avec $\mathbb{E}(X_i) = m$, on obtient un résultat similaire en étudiant la somme des $X_i - m$ et on prouve sa convergence vers $0$.</p>
+</blockquote>
+<p>Donc pour faire simple, cette loi nous dit qu&rsquo;à partir d&rsquo;une suite de variables aléatoires, on va converger 
+<a href="https://www.bibmath.net/dico/index.php?action=affiche&amp;quoi=./p/presquesur.html" target="_blank" rel="noopener">presque sûrement</a> vers une quantité déterministe $m\in \mathbb{R}$.</p>
+<p>On peut illustrer graphiquement ce résultat pour:</p>
+<ul>
+<li>la loi uniforme $\mathcal{U}([0,1])$:
+<video controls preload="auto" width="600px"  playsinline class="html-video">
+    <source src="/project/anim_maths/VIDEO/LFGN_ANIM_UNIFORME.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/VIDEO/LFGN_ANIM_UNIFORME.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+</video></li>
+<li>la loi de Poisson $\mathcal{P}(\lambda)$ avec $\lambda \in \mathbb{R}_+^*$:
+<video controls preload="auto" width="600px"  playsinline class="html-video">
+    <source src="/project/anim_maths/VIDEO/LFGN_ANIM_POISSON.mp4" type="video/mp4">
+  <span>Votre navigateur ne permet pas l'intégration de vidéos, mais ce n'est pas grave ; vous pouvez <a href="/project/anim_maths/VIDEO/LFGN_ANIM_POISSON.mp4">la télécharger</a> et la voir dans votre lecteur vidéo préféré !</span>
+</video></li>
+</ul>
+<h2 id="application-dune-méthode-monte-carlo-pour-approcher-pi">Application d&rsquo;une méthode Monte Carlo pour approcher $\pi$</h2>
 <hr>
 <h1 id="inférence-statistiques-a-namestat_infa">Inférence statistiques: <a name="stat_inf"></a></h1>
 <p>Il s&rsquo;agit dans cette partie de déterminer un estimateur du paramètre d&rsquo;une loi de probabilité donnée.</p>

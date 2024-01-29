@@ -159,6 +159,31 @@ V_hat = ci2*(f_ci&#39;) - E_hat^2;
 &lt;li&gt;appliquer des méthodes de 
 &lt;a href=&#34;https://fr.wikipedia.org/wiki/R%C3%A9duction_de_la_variance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;réduction de variance&lt;/a&gt;, mais c&amp;rsquo;est pas au programme.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;le-théorème-central-limite&#34;&gt;Le Théorème Central Limite&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Bon en gros, tout est normal&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;loi-forte-des-grands-nombres&#34;&gt;Loi forte des grands nombres&lt;/h2&gt;
+&lt;p&gt;C&amp;rsquo;est un résultat de convergence assez puissant qui s&amp;rsquo;énonce comme suit:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Si $(X_{n})_{n\in\mathbb{N}}$ est une suite de variables aléatoires iid telle que $X_i \in \mathcal{L}^{1}(\Omega)$ avec $\mathbb{E}(X_i) = m$ $\forall i \in \{1,&amp;hellip;,n\}$, alors
+$$\bar{X}_n = \frac{1}{n} \sum_1^n X_i  \overset{ps.}{\to} \mathbb{E}(X_i) = m \text{ quand } n \to +\infty.$$
+Dans le cas où $X_i \in \mathcal{L}^{2}(\Omega)$ avec $\mathbb{E}(X_i) = m$, on obtient un résultat similaire en étudiant la somme des $X_i - m$ et on prouve sa convergence vers $0$.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Donc pour faire simple, cette loi nous dit qu&amp;rsquo;à partir d&amp;rsquo;une suite de variables aléatoires, on va converger 
+&lt;a href=&#34;https://www.bibmath.net/dico/index.php?action=affiche&amp;amp;quoi=./p/presquesur.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presque sûrement&lt;/a&gt; vers une quantité déterministe $m\in \mathbb{R}$.&lt;/p&gt;
+&lt;p&gt;On peut illustrer graphiquement ce résultat pour:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;la loi uniforme $\mathcal{U}([0,1])$:
+&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://mehdi-latif.github.io/project/anim_maths/VIDEO/LFGN_ANIM_UNIFORME.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/anim_maths/VIDEO/LFGN_ANIM_UNIFORME.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
+&lt;/video&gt;&lt;/li&gt;
+&lt;li&gt;la loi de Poisson $\mathcal{P}(\lambda)$ avec $\lambda \in \mathbb{R}_+^*$:
+&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
+    &lt;source src=&#34;https://mehdi-latif.github.io/project/anim_maths/VIDEO/LFGN_ANIM_POISSON.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/anim_maths/VIDEO/LFGN_ANIM_POISSON.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
+&lt;/video&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;application-dune-méthode-monte-carlo-pour-approcher-pi&#34;&gt;Application d&amp;rsquo;une méthode Monte Carlo pour approcher $\pi$&lt;/h2&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;inférence-statistiques-a-namestat_infa&#34;&gt;Inférence statistiques: &lt;a name=&#34;stat_inf&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
 &lt;p&gt;Il s&amp;rsquo;agit dans cette partie de déterminer un estimateur du paramètre d&amp;rsquo;une loi de probabilité donnée.&lt;/p&gt;
