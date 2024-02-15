@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdi-latif.github.io/project/merec_23/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/3%5Cgamma/</loc>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/compton/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/tag/art-sciences/</loc>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/imagerie-m%C3%A9dicale/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/project/impact_2024/</loc>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/</loc>
-    <lastmod>2024-01-31T07:47:46+01:00</lastmod>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,13 +28,13 @@
                 />
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/physique-m%C3%A9dicale/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/planches/</loc>
-    <lastmod>2024-01-04T07:11:44+01:00</lastmod>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/</loc>
-    <lastmod>2024-01-31T07:47:46+01:00</lastmod>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,11 +46,8 @@
                 href="https://mehdi-latif.github.io/project/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/ray-tracing/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
     <loc>https://mehdi-latif.github.io/tags/</loc>
-    <lastmod>2024-01-31T07:47:46+01:00</lastmod>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,7 +59,16 @@
                 href="https://mehdi-latif.github.io/tags/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/3%5Cgamma/</loc>
+    <loc>https://mehdi-latif.github.io/tag/xemis2/</loc>
+    <lastmod>2024-02-15T07:20:07+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/project/merec_23/</loc>
+    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/compton/</loc>
+    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/tag/ray-tracing/</loc>
     <lastmod>2024-01-02T08:17:10+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/ariane/</loc>
@@ -69,9 +78,6 @@
     <lastmod>2024-01-31T07:47:46+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/tag/projet/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/xemis2/</loc>
     <lastmod>2024-01-02T08:17:10+01:00</lastmod>
   </url><url>
     <loc>https://mehdi-latif.github.io/project/anim_maths/</loc>

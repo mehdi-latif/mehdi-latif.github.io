@@ -5,12 +5,21 @@
     <link>https://mehdi-latif.github.io/tag/planches/</link>
       <atom:link href="https://mehdi-latif.github.io/tag/planches/index.xml" rel="self" type="application/rss+xml" />
     <description>Planches</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Planches</title>
       <link>https://mehdi-latif.github.io/tag/planches/</link>
     </image>
+    
+    <item>
+      <title>IMPACT 2024 - Art et Sciences</title>
+      <link>https://mehdi-latif.github.io/project/impact_2024/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/impact_2024/</guid>
+      <description>&lt;p&gt;Les planches arrivent !!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ComProj - System matrix evaluation for Compton imaging system</title>
