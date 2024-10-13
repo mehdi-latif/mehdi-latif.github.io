@@ -526,28 +526,20 @@ figure;
     title(&amp;quot;prox$_{\gamma \|\cdot\|_{1}}(x)$&amp;quot;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,16)
     legend([p1,p2,p3],&#39;Location&#39;,&#39;best&#39;,&#39;FontSize&#39;,16,&#39;Interpreter&#39;,&#39;latex&#39;); legend boxoff
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;pour-aller-plus-loin&#34;&gt;Pour aller plus loin:&lt;/h4&gt;
-&lt;p&gt;On peut faire de chouettes figures et animations avec Matlab:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;un exemple avec le code 
-&lt;a href=&#34;https://gitlab.com/mlatif/tep3g-ariane&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ariane&lt;/a&gt; pour le calcul de la matrice système en imagerie Compton:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ariane dans le plan:
-&lt;img src=&#34;mantra_ex1.png&#34; alt=&#34;Ariane dans le plan&#34;&gt;&lt;/li&gt;
-&lt;li&gt;Ariane dans l&amp;rsquo;espace:
-&lt;img src=&#34;mantra_ex2.png&#34; alt=&#34;Ariane dans l&amp;amp;rsquo;espace&#34;&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;un exemple d&amp;rsquo;application d&amp;rsquo;une méthode Monte Carlo pour l&amp;rsquo;approximation de $\pi$ par &lt;em&gt;Pluie aléatoire&lt;/em&gt;:
+&lt;!-- #### Pour aller plus loin: 
+On peut faire de chouettes figures et animations avec Matlab: 
+- un exemple avec le code [Ariane](https://gitlab.com/mlatif/tep3g-ariane) pour le calcul de la matrice système en imagerie Compton:
+  - Ariane dans le plan:
+![Ariane dans le plan](mantra_ex1.png)
+  - Ariane dans l&#39;espace:
+![Ariane dans l&#39;espace](mantra_ex2.png)
+
+- un exemple d&#39;application d&#39;une méthode Monte Carlo pour l&#39;approximation de $\pi$ par *Pluie aléatoire*: 
 &lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
     &lt;source src=&#34;https://mehdi-latif.github.io/project/conseils_rapport/Pi_convergence.mp4&#34; type=&#34;video/mp4&#34;&gt;
   &lt;span&gt;Votre navigateur ne permet pas l&#39;intégration de vidéos, mais ce n&#39;est pas grave ; vous pouvez &lt;a href=&#34;https://mehdi-latif.github.io/project/conseils_rapport/Pi_convergence.mp4&#34;&gt;la télécharger&lt;/a&gt; et la voir dans votre lecteur vidéo préféré !&lt;/span&gt;
 &lt;/video&gt;
-&lt;em&gt;cf.&lt;/em&gt; Maths EI1/TP5, animation présentée aux étudiants.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+*cf.* Maths EI1/TP5, animation présentée aux étudiants. --&gt;
 &lt;h2 id=&#34;dessert-la-conclusion---a-namedesserta&#34;&gt;Dessert, la conclusion :  &lt;a name=&#34;dessert&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;bon bah là, discutez la figure obtenue ou donnez le résultat mathématique obtenu, bref discutez et soyez critiques vis-à-vis de ce que vous présentez.&lt;/p&gt;
 &lt;h2 id=&#34;le-digestif-les-remarques-générales--a-namedigestifa&#34;&gt;Le digestif, les remarques générales:  &lt;a name=&#34;digestif&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
