@@ -694,11 +694,15 @@ SA_SNR40_K4_instance30 - bb_homotopy_fcls
     </item>
     
     <item>
-      <title>En construction</title>
+      <title>Erreur 418</title>
       <link>https://mehdi-latif.github.io/project/default_soon/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>https://mehdi-latif.github.io/project/default_soon/</guid>
-      <description>&lt;p&gt;Cela arrive bientôt :)&lt;/p&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Le statut erreur client HTTP &lt;code&gt;418 I&#39;m a teapot&lt;/code&gt; qui signifie « Je suis une théière » informe que le serveur refuse de préparer du café, car il s&amp;rsquo;agit d&amp;rsquo;une théière. [&amp;hellip;]&lt;br&gt; 
+&lt;a href=&#34;https://developer.mozilla.org/fr/docs/Web/HTTP/Status/418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Source :&lt;/strong&gt; developer.mozilla.org&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Plus sérieusement, ça arrive bientôt. Mais j’ai besoin de café&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
