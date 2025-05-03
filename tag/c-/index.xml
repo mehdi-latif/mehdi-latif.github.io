@@ -5,12 +5,20 @@
     <link>https://mehdi-latif.github.io/tag/c-/</link>
       <atom:link href="https://mehdi-latif.github.io/tag/c-/index.xml" rel="self" type="application/rss+xml" />
     <description>C&#43;&#43;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>C&#43;&#43;</title>
       <link>https://mehdi-latif.github.io/tag/c-/</link>
     </image>
+    
+    <item>
+      <title>MIMOSA UNMIX - EUSIPCO 2025</title>
+      <link>https://mehdi-latif.github.io/project/mimosa_code/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/project/mimosa_code/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Convertisseur des simulations Orion</title>
@@ -25,14 +33,6 @@
       <link>https://mehdi-latif.github.io/project/affectation_graphe/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://mehdi-latif.github.io/project/affectation_graphe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIMOSA Unmix</title>
-      <link>https://mehdi-latif.github.io/project/mimosa_code/</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/project/mimosa_code/</guid>
       <description></description>
     </item>
     
