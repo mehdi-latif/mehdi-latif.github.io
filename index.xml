@@ -5,12 +5,20 @@
     <link>https://mehdi-latif.github.io/</link>
       <atom:link href="https://mehdi-latif.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mehdi LATIF | CV Numérique</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>Mehdi LATIF | CV Numérique</title>
       <link>https://mehdi-latif.github.io/</link>
     </image>
+    
+    <item>
+      <title>Branch-and-bound algorithm for exact ℓ0-norm sparse spectral unmixing</title>
+      <link>https://mehdi-latif.github.io/publication/eusipco_25/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/publication/eusipco_25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MIMOSA UNMIX - EUSIPCO 2025</title>

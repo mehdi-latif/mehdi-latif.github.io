@@ -5,12 +5,20 @@
     <link>https://mehdi-latif.github.io/publication-type/1/</link>
       <atom:link href="https://mehdi-latif.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
       <title>1</title>
       <link>https://mehdi-latif.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Branch-and-bound algorithm for exact ℓ0-norm sparse spectral unmixing</title>
+      <link>https://mehdi-latif.github.io/publication/eusipco_25/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/publication/eusipco_25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reconstruction multiclasse pour l&#39;imagerie TEP 3-photons</title>

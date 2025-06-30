@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sébastien Bourguignon | Mehdi LATIF | CV Numérique</title>
+    <link>https://mehdi-latif.github.io/author/s%C3%A9bastien-bourguignon/</link>
+      <atom:link href="https://mehdi-latif.github.io/author/s%C3%A9bastien-bourguignon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sébastien Bourguignon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Sébastien Bourguignon</title>
+      <link>https://mehdi-latif.github.io/author/s%C3%A9bastien-bourguignon/</link>
+    </image>
+    
+    <item>
+      <title>Branch-and-bound algorithm for exact ℓ0-norm sparse spectral unmixing</title>
+      <link>https://mehdi-latif.github.io/publication/eusipco_25/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/publication/eusipco_25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
