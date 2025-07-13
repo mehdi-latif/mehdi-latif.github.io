@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frédéric Schmidt | Mehdi LATIF | CV Numérique</title>
+    <link>https://mehdi-latif.github.io/author/fr%C3%A9d%C3%A9ric-schmidt/</link>
+      <atom:link href="https://mehdi-latif.github.io/author/fr%C3%A9d%C3%A9ric-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frédéric Schmidt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Frédéric Schmidt</title>
+      <link>https://mehdi-latif.github.io/author/fr%C3%A9d%C3%A9ric-schmidt/</link>
+    </image>
+    
+    <item>
+      <title>Ensemble des solutions parcimonieuses exactes en démélange spectral : algorithme garanti et analyse des solutions</title>
+      <link>https://mehdi-latif.github.io/publication/gretsi_25/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/publication/gretsi_25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
