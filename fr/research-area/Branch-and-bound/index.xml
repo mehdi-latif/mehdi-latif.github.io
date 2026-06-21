@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Branch-and-bound | Mehdi LATIF</title>
+    <link>https://mehdi-latif.github.io/fr/research-area/Branch-and-bound/</link>
+      <atom:link href="https://mehdi-latif.github.io/fr/research-area/Branch-and-bound/index.xml" rel="self" type="application/rss+xml" />
+    <description>Branch-and-bound</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Branch-and-bound</title>
+      <link>https://mehdi-latif.github.io/fr/research-area/Branch-and-bound/</link>
+    </image>
+    
+    <item>
+      <title>Guaranteed Best Sparse Solutions for Spectral Unmixing</title>
+      <link>https://mehdi-latif.github.io/fr/publication/WHISPERS_25/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/publication/WHISPERS_25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble des solutions parcimonieuses exactes en démélange spectral : algorithme garanti et analyse des solutions</title>
+      <link>https://mehdi-latif.github.io/fr/publication/GRETSI_25/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/publication/GRETSI_25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Branch-and-bound algorithm for exact ℓ0-norm sparse spectral unmixing</title>
+      <link>https://mehdi-latif.github.io/fr/publication/EUSIPCO_25/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/publication/EUSIPCO_25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMOSA UNMIX</title>
+      <link>https://mehdi-latif.github.io/fr/software/mimosa_eusipco/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/software/mimosa_eusipco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact resolution of the sparse spectral unmixing problem</title>
+      <link>https://mehdi-latif.github.io/fr/talk/sims_2021/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/talk/sims_2021/</guid>
+      <description>&lt;p&gt;$$\min_{\boldsymbol{x}\in [0,1]^{Q}}\quad \frac{1}{2}\big|\big| \boldsymbol{y}-\mathbf{H}\boldsymbol{x}\big|\big|_{2}^{2}\quad  \textrm{st. } \big|\big|\boldsymbol{x}\big|\big| _{0} \leq K, \quad\boldsymbol{1} _{Q} ^{\intercal}  \boldsymbol{x} =1$$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Résumé:&lt;/strong&gt; L’imagerie hyperspectrale concerne l’acquisition simultanée d’images dans un grand nombre de longueurs d’onde. Une problématique récurrente de traitement de ces données consiste à résoudre un problème de séparation de sources : en raison d’une faible résolution spatiale des instruments, le spectre de réflectance lumineuse mesuré en une position donnée résulte de la superposition de spectres élémentaires, &lt;em&gt;ie.&lt;/em&gt; un mélange dont il s’agit de retrouver les proportions.&lt;/p&gt;
+&lt;p&gt;En démélange dit supervisé, le mélange est recherché dans un &lt;em&gt;dictionnaire&lt;/em&gt; connu de spectres de référence. Une contrainte physique, dite de parcimonie, stipule alors qu’un faible nombre de composants dans le mélange suffit à décrire chaque spectre observé. Mathématiquement, il s’agit d’ajuster un modèle linéaire au sens des moindres carrés, sous la contrainte que le vecteur de coefficients recherchés possède peu de composantes non-nulles, i.e. une faible &lt;em&gt;&amp;ldquo;norme&amp;rdquo;&lt;/em&gt; $\ell_0$. C’est un problème NP-difficile relevant essentiellement de l’optimisation combinatoire.&lt;/p&gt;
+&lt;p&gt;Alors que la plupart des travaux dans le domaine considèrent des approches relâchées, privilégiant un faible temps de calcul, nous proposons une méthode de résolution exacte garantissant l’optimalité des solutions obtenues.&lt;/p&gt;
+&lt;p&gt;Dans sa thèse de doctorat, 
+&lt;a href=&#34;https://scholar.google.com/citations?user=QB04hQMAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramzi Ben Mhenni&lt;/a&gt; a développé des algorithmes de type branch-and-bound pour l’optimisation parcimonieuse exacte. Nous en proposons ici une version spécifique au problème de démélange. En effet, les coefficients du mélange sont positifs et de somme unité, contraintes qui requièrent une architecture algorithmique spécifique.&lt;/p&gt;
+&lt;p&gt;Lorsque le mélange est composé d’un nombre restreint de spectres, ce qui est généralement le cas lorsque ces spectres sont « appris » d’un jeu d’observations, nous montrons que cette approche reste peu coûteuse en calcul et fournit des meilleures solutions en comparaison avec les méthodes de la littérature. Lorsque la taille du dictionnaire augmente, &lt;em&gt;eg.&lt;/em&gt; pour un dictionnaire composé d’un grand nombre de spectres mesurés en laboratoire, les solutions obtenues restent de meilleure qualité, au prix d’un temps de calcul bien supérieur.&lt;/p&gt;
+&lt;p&gt;Un solveur libre, codé en C++, est mis à disposition de la communauté scientifique.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-cpp&#34;&gt;MimosaUnmix_1inst_meth $(pwd) 2 bb_homotopy_fcls eq
+L2L0_ASC_ANC_BB_Rhom_fcls
+Instance : SA_SNR40_K4_instance30
+K = 2	 Q = 50	 N = 224	 ASC form : equality
+-----------------------------------------------------------------------
+#(it) = 10	 #(node) = 19	 T = 0.083769	 card(L) = 2
+xUB* = 1&#39;	 34&#39;	 
+UB*  = 0.312598	sum(xUB*) = 1
+-----------------------------------------------------------------------
+[...]
+-----------------------------------------------------------------------
+#(it) = 100	 #(node) = 199	 T = 0.319659	 card(L) = 1
+xUB* = 24	 39&#39;	 
+UB*  = 0.170461	sum(xUB*) = 1
+-----------------------------------------------------------------------
+SA_SNR40_K4_instance30 - bb_homotopy_fcls
+	T = 0.322625 (s)
+	#(node) = 211	/ best(node) = 221
+	UB*  = 0.170461
+	xUB* :
+		 x(24) = 	0.234965
+		 x(39)&#39; = 	0.765035
+	sum(xUB*) = 1
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

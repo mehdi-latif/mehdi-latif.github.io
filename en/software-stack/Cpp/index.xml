@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpp | Mehdi LATIF</title>
+    <link>https://mehdi-latif.github.io/en/software-stack/Cpp/</link>
+      <atom:link href="https://mehdi-latif.github.io/en/software-stack/Cpp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cpp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Cpp</title>
+      <link>https://mehdi-latif.github.io/en/software-stack/Cpp/</link>
+    </image>
+    
+    <item>
+      <title>CASToR - XEMIS2</title>
+      <link>https://mehdi-latif.github.io/en/software/castor_xemis2/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/en/software/castor_xemis2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMOSA UNMIX</title>
+      <link>https://mehdi-latif.github.io/en/software/mimosa_eusipco/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/en/software/mimosa_eusipco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ORION</title>
+      <link>https://mehdi-latif.github.io/en/software/orionconverter/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/en/software/orionconverter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

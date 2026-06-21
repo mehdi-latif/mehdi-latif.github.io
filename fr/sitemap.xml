@@ -2,49 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdi-latif.github.io/publication-type/1/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/authors/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/software/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/authors/"
+                href="https://mehdi-latif.github.io/en/software/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/authors/"
+                href="https://mehdi-latif.github.io/fr/software/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/branch-and-bound/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/talk/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/tag/branch-and-bound/"
+                href="https://mehdi-latif.github.io/en/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/tag/branch-and-bound/"
+                href="https://mehdi-latif.github.io/fr/talk/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/d%C3%A9m%C3%A9lange/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/publication/gretsi_25/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/author/fr%C3%A9d%C3%A9ric-schmidt/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/imagerie-hyperspectrale/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,72 +38,40 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/"
+                href="https://mehdi-latif.github.io/fr/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/author/nils-foix-colonier/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/tag/Postdoctorat/</loc>
+    <lastmod>2026-06-14T17:33:28+02:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/optimisation/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/post/</loc>
+    <lastmod>2026-06-14T17:33:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/tag/optimisation/"
+                href="https://mehdi-latif.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/tag/optimisation/"
+                href="https://mehdi-latif.github.io/fr/post/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/parcimonie/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/post/postdoc-search/</loc>
+    <lastmod>2026-06-14T17:33:28+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/tag/parcimonie/"
+                href="https://mehdi-latif.github.io/en/post/postdoc-search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/tag/parcimonie/"
+                href="https://mehdi-latif.github.io/fr/post/postdoc-search/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/publication_types/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdi-latif.github.io/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mehdi-latif.github.io/publication_types/"
-                />
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/python/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/author/s%C3%A9bastien-bourguignon/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/solveur-libre/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdi-latif.github.io/en/tag/solveur-libre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mehdi-latif.github.io/tag/solveur-libre/"
-                />
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tags/</loc>
-    <lastmod>2025-08-05T11:07:20+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/tags/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -127,23 +80,543 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/tags/"
+                href="https://mehdi-latif.github.io/fr/tags/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/publication/eusipco_25/</loc>
-    <lastmod>2025-06-30T09:16:52+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/software-stack/Bash/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software-stack/Bash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software-stack/Bash/"
+                />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/c-/</loc>
-    <lastmod>2025-06-30T09:16:52+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/software/castor_xemis2/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software/castor_xemis2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software/castor_xemis2/"
+                />
   </url><url>
-    <loc>https://mehdi-latif.github.io/author/gwen-samain/</loc>
-    <lastmod>2025-06-30T09:16:52+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Compton/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/research-area/Compton/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/research-area/Compton/"
+                />
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/mimosa_code/</loc>
-    <lastmod>2025-05-03T14:57:45+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/software-stack/Cpp/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software-stack/Cpp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software-stack/Cpp/"
+                />
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/</loc>
-    <lastmod>2025-05-03T14:57:45+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Imagerie-tomographique/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Problemes-inverses/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Reconstruction-statistique/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research_areas/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/research_areas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/research_areas/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Software/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Software/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software_stack/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software_stack/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software_stack/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/TEP/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/XEMIS2/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/research-area/XEMIS2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/research-area/XEMIS2/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software/ariane_proteus/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software/ariane_proteus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software/ariane_proteus/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software-stack/MATLAB/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software-stack/MATLAB/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software-stack/MATLAB/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/publication-type/1/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/publication-type/1/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/authors/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/authors/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Branch-and-bound/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Branch-and-bound/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Branch-and-bound/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Branch-and-bound/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/research-area/Branch-and-bound/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/research-area/Branch-and-bound/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Demelange/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/author/Frederic-Schmidt/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/author/Frederic-Schmidt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/author/Frederic-Schmidt/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/publication/WHISPERS_25/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/publication/WHISPERS_25/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/publication/WHISPERS_25/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Imagerie-hyperspectrale/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/author/Nils-Foix-Colonier/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/author/Nils-Foix-Colonier/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/author/Nils-Foix-Colonier/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Optimisation/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Optimization/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Optimization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Optimization/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Parcimonie/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/publication_types/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/publication_types/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/author/Sebastien-Bourguignon/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/author/Sebastien-Bourguignon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/author/Sebastien-Bourguignon/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Sparsity/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Sparsity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Sparsity/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Spectral-Unmixing/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Spectral-Unmixing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Spectral-Unmixing/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Demelange/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/publication/GRETSI_25/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/publication/GRETSI_25/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/publication/GRETSI_25/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Imagerie-hyperspectrale/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Optimisation/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Parcimonie/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Python/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Python/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Solveur-libre/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/publication/EUSIPCO_25/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/publication/EUSIPCO_25/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/publication/EUSIPCO_25/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/C-/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/C-/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/C-/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/author/Gwen-Samain/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/author/Gwen-Samain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/author/Gwen-Samain/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software/mimosa_eusipco/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software/mimosa_eusipco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software/mimosa_eusipco/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/3%5Cgamma/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/research-area/3%5Cgamma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/research-area/3%5Cgamma/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software/orionconverter/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software/orionconverter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software/orionconverter/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Simulation/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Simulation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Simulation/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Simulations-Monte-Carlo/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Art-Sciences/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/research-area/Art-Sciences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/research-area/Art-Sciences/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/audiences/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/audiences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/audiences/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/audience/Etudiants/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/audience/Grand-public/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/talk/inpact_2024/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/talk/inpact_2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/talk/inpact_2024/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Mediation/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Mediation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Mediation/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/project/anim_maths/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/project/anim_maths/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/project/anim_maths/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research-area/Enseignements/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/LaTeX/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/LaTeX/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/LaTeX/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/project/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -152,170 +625,285 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/project/"
+                href="https://mehdi-latif.github.io/fr/project/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/projet/</loc>
-    <lastmod>2025-05-03T14:57:45+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/3%5Cgamma/</loc>
-    <lastmod>2025-01-10T09:24:37+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/bash/</loc>
-    <lastmod>2024-12-27T18:04:54+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/project/conseils_rapport/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/tag/bash/"
+                href="https://mehdi-latif.github.io/en/project/conseils_rapport/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/tag/bash/"
+                href="https://mehdi-latif.github.io/fr/project/conseils_rapport/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/orion_converter/</loc>
-    <lastmod>2024-12-27T18:04:54+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/tag/Imagerie-medicale/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/matlab/</loc>
-    <lastmod>2024-12-27T18:04:54+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/simulations-monte-carlo/</loc>
-    <lastmod>2024-12-27T18:04:54+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/xemis2/</loc>
-    <lastmod>2025-01-10T09:24:37+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/art-sciences/</loc>
-    <lastmod>2025-01-10T09:24:37+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/imagerie-m%C3%A9dicale/</loc>
-    <lastmod>2025-01-10T09:24:37+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/inpact_2024/</loc>
-    <lastmod>2025-01-10T09:24:37+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/physique-m%C3%A9dicale/</loc>
-    <lastmod>2025-01-10T09:24:37+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/planches/</loc>
-    <lastmod>2025-01-10T09:24:37+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/merec_23/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/compton/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/ray-tracing/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/ariane/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/anim_maths/</loc>
-    <lastmod>2024-01-31T07:47:46+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/enseignements/</loc>
-    <lastmod>2024-10-13T20:42:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/latex/</loc>
-    <lastmod>2024-10-13T20:42:10+02:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/author/Jerome-IDIER/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/tag/latex/"
+                href="https://mehdi-latif.github.io/en/author/Jerome-IDIER/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/tag/latex/"
+                href="https://mehdi-latif.github.io/fr/author/Jerome-IDIER/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/affectation_graphe/</loc>
-    <lastmod>2024-01-04T07:13:45+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/tag/Physique-Medicale/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/conseils_rapport/</loc>
-    <lastmod>2024-10-13T20:42:10+02:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/graphes/</loc>
-    <lastmod>2024-01-04T07:13:45+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/outils/</loc>
-    <lastmod>2024-01-04T07:13:45+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/script/</loc>
-    <lastmod>2024-01-04T07:13:45+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/author/j%C3%A9r%C3%B4me-idier/</loc>
-    <lastmod>2023-12-29T18:00:34+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/publication/gretsi_23/</loc>
-    <lastmod>2023-12-29T18:00:34+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/author/simon-stute/</loc>
-    <lastmod>2023-12-29T18:00:34+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/statistiques/</loc>
-    <lastmod>2023-12-29T18:00:34+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/author/thomas-carlier/</loc>
-    <lastmod>2023-12-29T18:00:34+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/publication/f3d_23/</loc>
-    <lastmod>2023-12-29T18:00:34+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/emily_2022/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/tep/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/nist_parser/</loc>
-    <lastmod>2024-01-02T10:04:30+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/tag/physique/</loc>
-    <lastmod>2024-01-02T10:04:30+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/pollux/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/publication/GRETSI_23/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/project/pollux/"
+                href="https://mehdi-latif.github.io/en/publication/GRETSI_23/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/project/pollux/"
+                href="https://mehdi-latif.github.io/fr/publication/GRETSI_23/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/etez_2022/</loc>
-    <lastmod>2024-01-02T08:17:10+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/mimosa_slides/</loc>
-    <lastmod>2024-01-04T07:11:44+01:00</lastmod>
-  </url><url>
-    <loc>https://mehdi-latif.github.io/project/tiftex/</loc>
-    <lastmod>2024-01-02T12:06:56+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/author/Simon-STUTE/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/project/tiftex/"
+                href="https://mehdi-latif.github.io/en/author/Simon-STUTE/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/project/tiftex/"
+                href="https://mehdi-latif.github.io/fr/author/Simon-STUTE/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/tag/erreur-418/</loc>
+    <loc>https://mehdi-latif.github.io/fr/tag/Statistiques/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/author/Thomas-CARLIER/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/author/Thomas-CARLIER/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/author/Thomas-CARLIER/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/publication/F3D_23/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/publication/F3D_23/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/publication/F3D_23/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/talk/emily_2022/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/talk/emily_2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/talk/emily_2022/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Conference/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Conference/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/audience/Researchers/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/audience/Researchers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/audience/Researchers/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/audience/Students/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/audience/Students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/audience/Students/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/talk/login_2022/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/talk/login_2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/talk/login_2022/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Seminar/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Seminar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Seminar/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software/pollux/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software/pollux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software/pollux/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software/nistparser/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software/nistparser/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software/nistparser/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Tools/</loc>
+    <lastmod>2026-06-21T12:50:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/tag/Tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/tag/Tools/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/talk/sims_2022/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/talk/sims_2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/talk/sims_2022/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/talk/sims_2021/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/talk/sims_2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/talk/sims_2021/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software-stack/LaTeX/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software-stack/LaTeX/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software-stack/LaTeX/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/software/tiftex/</loc>
+    <lastmod>2026-06-21T12:37:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/software/tiftex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/software/tiftex/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Erreur-418/</loc>
     <lastmod>2025-02-01T10:58:14+01:00</lastmod>
   </url><url>
-    <loc>https://mehdi-latif.github.io/project/default_soon/</loc>
+    <loc>https://mehdi-latif.github.io/fr/project/default_soon/</loc>
     <lastmod>2025-02-01T10:58:14+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/project/default_soon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/project/default_soon/"
+                />
   </url><url>
-    <loc>https://mehdi-latif.github.io/categories/</loc>
+    <loc>https://mehdi-latif.github.io/fr/tag/Algorithmique/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -324,23 +912,111 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/categories/"
+                href="https://mehdi-latif.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/author/mehdi-latif/</loc>
-    <lastmod>2025-02-28T11:03:08+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/tag/Conseils/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/contact/</loc>
+    <lastmod>2026-06-21T12:54:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdi-latif.github.io/en/author/mehdi-latif/"
+                href="https://mehdi-latif.github.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdi-latif.github.io/author/mehdi-latif/"
+                href="https://mehdi-latif.github.io/fr/contact/"
                 />
   </url><url>
-    <loc>https://mehdi-latif.github.io/publication/</loc>
-    <lastmod>2023-11-04T11:32:52+01:00</lastmod>
+    <loc>https://mehdi-latif.github.io/fr/tag/Encadrement/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Enseignement/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/teaching/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/teaching/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Inference-statistique/</loc>
+    <lastmod>2026-06-21T12:46:42+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Mediation-scientifique/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/author/Mehdi-LATIF/</loc>
+    <lastmod>2026-06-21T12:46:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/author/Mehdi-LATIF/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/author/Mehdi-LATIF/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Problemes-inverses/</loc>
+    <lastmod>2026-06-21T12:46:42+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/publication/</loc>
+    <lastmod>2026-06-14T17:33:28+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/publication/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/audience/Recherche/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/research/</loc>
+    <lastmod>2026-06-21T12:46:42+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/research/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Reconstruction-tomographique/</loc>
+    <lastmod>2026-06-21T12:46:42+02:00</lastmod>
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/talk_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdi-latif.github.io/en/talk_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdi-latif.github.io/fr/talk_types/"
+                />
+  </url><url>
+    <loc>https://mehdi-latif.github.io/fr/tag/Traitement-du-signal/</loc>
+    <lastmod>2026-06-21T13:20:25+02:00</lastmod>
   </url>
 </urlset>

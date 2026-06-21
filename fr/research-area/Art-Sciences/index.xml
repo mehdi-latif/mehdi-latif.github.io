@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art &amp; Sciences | Mehdi LATIF</title>
+    <link>https://mehdi-latif.github.io/fr/research-area/Art-Sciences/</link>
+      <atom:link href="https://mehdi-latif.github.io/fr/research-area/Art-Sciences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Art &amp; Sciences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Art &amp; Sciences</title>
+      <link>https://mehdi-latif.github.io/fr/research-area/Art-Sciences/</link>
+    </image>
+    
+    <item>
+      <title>INPACT 2024 - Art et Sciences</title>
+      <link>https://mehdi-latif.github.io/fr/talk/inpact_2024/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/talk/inpact_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

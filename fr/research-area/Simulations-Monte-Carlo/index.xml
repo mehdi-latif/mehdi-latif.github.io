@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulations Monte-Carlo | Mehdi LATIF</title>
+    <link>https://mehdi-latif.github.io/fr/research-area/Simulations-Monte-Carlo/</link>
+      <atom:link href="https://mehdi-latif.github.io/fr/research-area/Simulations-Monte-Carlo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulations Monte-Carlo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
+      <title>Simulations Monte-Carlo</title>
+      <link>https://mehdi-latif.github.io/fr/research-area/Simulations-Monte-Carlo/</link>
+    </image>
+    
+    <item>
+      <title>ORION</title>
+      <link>https://mehdi-latif.github.io/fr/software/orionconverter/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/software/orionconverter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLLUX</title>
+      <link>https://mehdi-latif.github.io/fr/software/pollux/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/software/pollux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIST PARSER</title>
+      <link>https://mehdi-latif.github.io/fr/software/nistparser/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehdi-latif.github.io/fr/software/nistparser/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
