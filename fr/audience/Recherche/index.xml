@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Recherche | Mehdi LATIF</title>
-    <link>https://mehdi-latif.github.io/fr/audience/Recherche/</link>
-      <atom:link href="https://mehdi-latif.github.io/fr/audience/Recherche/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recherche</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language>
-    <image>
-      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
-      <title>Recherche</title>
-      <link>https://mehdi-latif.github.io/fr/audience/Recherche/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recherche | Mehdi LATIF</title><link>https://mehdi-latif.github.io/fr/audience/Recherche/</link><atom:link href="https://mehdi-latif.github.io/fr/audience/Recherche/index.xml" rel="self" type="application/rss+xml"/><description>Recherche</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><image><url>https://mehdi-latif.github.io/img/avatar.jpg</url><title>Recherche</title><link>https://mehdi-latif.github.io/fr/audience/Recherche/</link></image></channel></rss>

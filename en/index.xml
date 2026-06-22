@@ -1,262 +1,170 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mehdi LATIF</title>
-    <link>https://mehdi-latif.github.io/en/</link>
-      <atom:link href="https://mehdi-latif.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mehdi LATIF</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
-      <title>Mehdi LATIF</title>
-      <link>https://mehdi-latif.github.io/en/</link>
-    </image>
-    
-    <item>
-      <title>Looking for postdoctoral opportunities</title>
-      <link>https://mehdi-latif.github.io/en/post/postdoc-search/</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/post/postdoc-search/</guid>
-      <description>&lt;p&gt;I am currently looking for a postdoctoral opportunity related to inverse problems, optimization, statistical reconstruction, Monte Carlo simulations and computational imaging.&lt;/p&gt;
-&lt;p&gt;I am open to projects in imaging, inverse problems, numerical optimization, statistical methods or scientific machine learning, in France or internationally.&lt;/p&gt;
-&lt;p&gt;For more information, please see my 
-&lt;a href=&#34;https://mehdi-latif.github.io/files/cv_mlatif_en.pdf&#34;&gt;CV&lt;/a&gt; or 
-&lt;a href=&#34;https://mehdi-latif.github.io/en/contact/&#34;&gt;contact&lt;/a&gt; me directly.&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CASToR - XEMIS2</title>
-      <link>https://mehdi-latif.github.io/en/software/castor_xemis2/</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/software/castor_xemis2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ARIANE &amp; PROTEUS</title>
-      <link>https://mehdi-latif.github.io/en/software/ariane_proteus/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/software/ariane_proteus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guaranteed Best Sparse Solutions for Spectral Unmixing</title>
-      <link>https://mehdi-latif.github.io/en/publication/WHISPERS_25/</link>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/publication/WHISPERS_25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble des solutions parcimonieuses exactes en démélange spectral : algorithme garanti et analyse des solutions</title>
-      <link>https://mehdi-latif.github.io/en/publication/GRETSI_25/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/publication/GRETSI_25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Branch-and-bound algorithm for exact ℓ0-norm sparse spectral unmixing</title>
-      <link>https://mehdi-latif.github.io/en/publication/EUSIPCO_25/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/publication/EUSIPCO_25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIMOSA UNMIX</title>
-      <link>https://mehdi-latif.github.io/en/software/mimosa_eusipco/</link>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/software/mimosa_eusipco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ORION</title>
-      <link>https://mehdi-latif.github.io/en/software/orionconverter/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/software/orionconverter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INPACT 2024 - Art et Sciences</title>
-      <link>https://mehdi-latif.github.io/en/talk/inpact_2024/</link>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/talk/inpact_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Animations mathématiques</title>
-      <link>https://mehdi-latif.github.io/en/project/anim_maths/</link>
-      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/project/anim_maths/</guid>
-      <description>&lt;h2 id=&#34;remarques-générales&#34;&gt;Remarques générales:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Les exemples et animations présents sur cette page sont publiés avec l&amp;rsquo;autorisation de Madame 
-&lt;a href=&#34;https://www.ec-nantes.fr/version-francaise/annuaire/francoise-foucher&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Françoise Foucher&lt;/a&gt;, responsable du cours de &lt;em&gt;Mathématiques pour l&amp;rsquo;ingénieur&lt;/em&gt; à l&amp;rsquo;ECN;&lt;/li&gt;
-&lt;li&gt;Sur cette page, il n&amp;rsquo;y aura pas de théorie, juste des jolies figures associées à des exercices de travaux pratiques.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mes remerciements vont à 
-&lt;a href=&#34;https://bpascal-fr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Barbara Pascal&lt;/a&gt;&lt;/strong&gt; pour m&amp;rsquo;avoir donné le code qui m&amp;rsquo;a permis de générer ces animations ;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;exemples-proposés&#34;&gt;Exemples proposés:&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;#optim_rl&#34;&gt;Optimisation par recherche linéaire&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#optim_lin&#34;&gt;Optimisation linéaire sous contraintes&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#simu_proba&#34;&gt;Simulations de lois de probabilité et convergence des variables aléatoires&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;#stat_inf&#34;&gt;Inférence statistiques&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;optimisation-par-recherche-linéaire--a-nameoptim_rla&#34;&gt;Optimisation par recherche linéaire:  &lt;a name=&#34;optim_rl&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Faire une ref vers le Nocedal&lt;/p&gt;
-&lt;h2 id=&#34;optimisation-libre--a-nameoptim_rl_wocstra&#34;&gt;Optimisation libre:  &lt;a name=&#34;optim_rl_wocstr&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;optimisation-sous-contraintes-a-nameoptim_rl_wicstra&#34;&gt;Optimisation sous contraintes: &lt;a name=&#34;optim_rl_wicstr&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;optimisation-linéaire-sous-contraintes-a-nameoptim_lina&#34;&gt;Optimisation linéaire sous contraintes: &lt;a name=&#34;optim_lin&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Une série d&amp;rsquo;exemples issus de la 
-&lt;a href=&#34;https://fr.wikipedia.org/wiki/Recherche_op%C3%A9rationnelle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recherche Opérationnelle&lt;/a&gt; et plus particulièrement de l&amp;rsquo;
-&lt;a href=&#34;https://fr.wikipedia.org/wiki/Optimisation_combinatoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;optimisation combinatoire&lt;/a&gt;.&lt;br&gt;
-Un bon bouquin de &lt;em&gt;référence&lt;/em&gt; est le 
-&lt;a href=&#34;https://www.google.fr/books/edition/Integer_Programming/w-P7DwAAQBAJ?hl=fr&amp;amp;gbpv=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wolsey&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;problème-de-maximisation&#34;&gt;Problème de maximisation&lt;/h2&gt;
-&lt;p&gt;Le problème à résoudre est:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mehdi LATIF</title><link>https://mehdi-latif.github.io/en/</link><atom:link href="https://mehdi-latif.github.io/en/index.xml" rel="self" type="application/rss+xml"/><description>Mehdi LATIF</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://mehdi-latif.github.io/img/avatar.jpg</url><title>Mehdi LATIF</title><link>https://mehdi-latif.github.io/en/</link></image><item><title>Looking for postdoctoral opportunities</title><link>https://mehdi-latif.github.io/en/post/postdoc-search/</link><pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/post/postdoc-search/</guid><description>&lt;p>I am currently looking for a postdoctoral opportunity related to inverse problems, optimization, statistical reconstruction, Monte Carlo simulations and computational imaging.&lt;/p>
+&lt;p>I am open to projects in imaging, inverse problems, numerical optimization, statistical methods or scientific machine learning, in France or internationally.&lt;/p>
+&lt;p>For more information, please see my
+&lt;a href="https://mehdi-latif.github.io/files/cv_mlatif_en.pdf">CV&lt;/a> or
+&lt;a href="https://mehdi-latif.github.io/en/contact/">contact&lt;/a> me directly.&lt;/p>
+&lt;hr></description></item><item><title>CASToR - XEMIS2</title><link>https://mehdi-latif.github.io/en/software/castor_xemis2/</link><pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/software/castor_xemis2/</guid><description/></item><item><title>ARIANE &amp; PROTEUS</title><link>https://mehdi-latif.github.io/en/software/ariane_proteus/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/software/ariane_proteus/</guid><description/></item><item><title>Guaranteed Best Sparse Solutions for Spectral Unmixing</title><link>https://mehdi-latif.github.io/en/publication/WHISPERS_25/</link><pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/publication/WHISPERS_25/</guid><description/></item><item><title>Ensemble des solutions parcimonieuses exactes en démélange spectral : algorithme garanti et analyse des solutions</title><link>https://mehdi-latif.github.io/en/publication/GRETSI_25/</link><pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/publication/GRETSI_25/</guid><description/></item><item><title>Branch-and-bound algorithm for exact ℓ0-norm sparse spectral unmixing</title><link>https://mehdi-latif.github.io/en/publication/EUSIPCO_25/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/publication/EUSIPCO_25/</guid><description/></item><item><title>MIMOSA UNMIX</title><link>https://mehdi-latif.github.io/en/software/mimosa_eusipco/</link><pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/software/mimosa_eusipco/</guid><description/></item><item><title>ORION</title><link>https://mehdi-latif.github.io/en/software/orionconverter/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/software/orionconverter/</guid><description/></item><item><title>INPACT 2024 - Art et Sciences</title><link>https://mehdi-latif.github.io/en/talk/inpact_2024/</link><pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/talk/inpact_2024/</guid><description/></item><item><title>Animations mathématiques</title><link>https://mehdi-latif.github.io/en/project/anim_maths/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/project/anim_maths/</guid><description>&lt;h2 id="remarques-générales">Remarques générales:&lt;/h2>
+&lt;ul>
+&lt;li>Les exemples et animations présents sur cette page sont publiés avec l&amp;rsquo;autorisation de Madame
+&lt;a href="https://www.ec-nantes.fr/version-francaise/annuaire/francoise-foucher" target="_blank" rel="noopener">Françoise Foucher&lt;/a>, responsable du cours de &lt;em>Mathématiques pour l&amp;rsquo;ingénieur&lt;/em> à l&amp;rsquo;ECN;&lt;/li>
+&lt;li>Sur cette page, il n&amp;rsquo;y aura pas de théorie, juste des jolies figures associées à des exercices de travaux pratiques.&lt;/li>
+&lt;li>&lt;strong>Mes remerciements vont à
+&lt;a href="https://bpascal-fr.github.io/" target="_blank" rel="noopener">Barbara Pascal&lt;/a>&lt;/strong> pour m&amp;rsquo;avoir donné le code qui m&amp;rsquo;a permis de générer ces animations ;)&lt;/li>
+&lt;/ul>
+&lt;h2 id="exemples-proposés">Exemples proposés:&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;a href="#optim_rl">Optimisation par recherche linéaire&lt;/a>;&lt;/li>
+&lt;li>
+&lt;a href="#optim_lin">Optimisation linéaire sous contraintes&lt;/a>;&lt;/li>
+&lt;li>
+&lt;a href="#simu_proba">Simulations de lois de probabilité et convergence des variables aléatoires&lt;/a>;&lt;/li>
+&lt;li>
+&lt;a href="#stat_inf">Inférence statistiques&lt;/a>.&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h1 id="optimisation-par-recherche-linéaire--a-nameoptim_rla">Optimisation par recherche linéaire: &lt;a name="optim_rl">&lt;/a>&lt;/h1>
+&lt;p>Faire une ref vers le Nocedal&lt;/p>
+&lt;h2 id="optimisation-libre--a-nameoptim_rl_wocstra">Optimisation libre: &lt;a name="optim_rl_wocstr">&lt;/a>&lt;/h2>
+&lt;h2 id="optimisation-sous-contraintes-a-nameoptim_rl_wicstra">Optimisation sous contraintes: &lt;a name="optim_rl_wicstr">&lt;/a>&lt;/h2>
+&lt;hr>
+&lt;h1 id="optimisation-linéaire-sous-contraintes-a-nameoptim_lina">Optimisation linéaire sous contraintes: &lt;a name="optim_lin">&lt;/a>&lt;/h1>
+&lt;p>Une série d&amp;rsquo;exemples issus de la
+&lt;a href="https://fr.wikipedia.org/wiki/Recherche_op%C3%A9rationnelle" target="_blank" rel="noopener">Recherche Opérationnelle&lt;/a> et plus particulièrement de l&amp;rsquo;
+&lt;a href="https://fr.wikipedia.org/wiki/Optimisation_combinatoire" target="_blank" rel="noopener">optimisation combinatoire&lt;/a>.&lt;br>
+Un bon bouquin de &lt;em>référence&lt;/em> est le
+&lt;a href="https://www.google.fr/books/edition/Integer_Programming/w-P7DwAAQBAJ?hl=fr&amp;amp;gbpv=0" target="_blank" rel="noopener">Wolsey&lt;/a>.&lt;/p>
+&lt;h2 id="problème-de-maximisation">Problème de maximisation&lt;/h2>
+&lt;p>Le problème à résoudre est:
 $$
-(\mathcal{P}): \quad \max_{\boldsymbol{x}\in \mathbb{R}^{3}  }\quad  f(\boldsymbol{x}) \quad \textrm{st. } \quad \boldsymbol{x} \in \mathbf{K}
+(\mathcal{P}): \quad \max_{\boldsymbol{x}\in \mathbb{R}^{3} }\quad f(\boldsymbol{x}) \quad \textrm{st. } \quad \boldsymbol{x} \in \mathbf{K}
 $$
-où&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;$f(\boldsymbol{x})$ est la fonction objectif définie par:
+où&lt;/p>
+&lt;ul>
+&lt;li>$f(\boldsymbol{x})$ est la fonction objectif définie par:
 $$
 f(\boldsymbol{x}) := 155x_{1} +160x_{2}+150x_{3}
-$$&lt;/li&gt;
-&lt;li&gt;$\mathbf{K}$ est un ensemble de contraintes défini par:
-&lt;ul&gt;
-&lt;li&gt;$16x_{1} + 13x_{2}+17x_{3} \leq 180$&lt;/li&gt;
-&lt;li&gt;$27x_{1} + 15x_{2}+ 11x_{3} \leq 160$&lt;/li&gt;
-&lt;li&gt;$\sum_{i=1}^{3} x_{i}=12$&lt;/li&gt;
-&lt;li&gt;$\boldsymbol{x} \geq 0 \Longleftrightarrow x_{i} \geq 0 \quad  \forall i \in \{1,2,3\}$&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Les solveurs peuvent le faire à votre place, mais un bon moyen de résoudre ce problème revient à appliquer une approche polyédrale; des exemples de cours sont donnés 
-&lt;a href=&#34;https://www.lamsade.dauphine.fr/~poc/jpoc9/Chapitre-Polyedres.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt; ou 
-&lt;a href=&#34;https://www.andrew.cmu.edu/user/gc0v/webpub/IPsurveyAussois-11-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;là&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Visuellement, la résolution du problème $(\mathcal{P})$ est proposé dans l&amp;rsquo;animation suivante:&lt;/p&gt;
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/OPTIM_LIN_ANIM.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/OPTIM_LIN_ANIM.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;
-&lt;p&gt;La solution optimale $\boldsymbol{x}^{*}$ au problème $(\mathcal{P})$ est donné par le point rouge.&lt;/p&gt;
-&lt;h2 id=&#34;problèmes-de-minimisation&#34;&gt;Problèmes de minimisation&lt;/h2&gt;
-&lt;h3 id=&#34;approche-polyèdrale&#34;&gt;Approche Polyèdrale&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;TODO: mettre un lien vers l&amp;rsquo;algorithme du simplexe&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;approche-par-méthodes-des-flots-dans-un-graphe&#34;&gt;Approche par méthodes des flots dans un graphe.&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;simulations-de-lois-de-probabilité-et-convergence-des-variables-aléatoires-a-namesimu_probaa&#34;&gt;Simulations de lois de probabilité et convergence des variables aléatoires: &lt;a name=&#34;simu_proba&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Comme indiqué dans le titre, cette section s&amp;rsquo;intéresse à la simulation de lois de probabilité. Mais on part déjà avec un problème, l&amp;rsquo;ordinateur est 
-&lt;a href=&#34;https://fr.wikipedia.org/wiki/Algorithme_d%C3%A9terministe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;déterministe&lt;/a&gt;.&lt;br&gt;
-Cependant, l&amp;rsquo;ordinateur génère efficacement des $0$ et des $1$.&lt;/p&gt;
-&lt;p&gt;Pour le coup, on ne peut pas dire que l&amp;rsquo;on va simuler un &lt;em&gt;vrai&lt;/em&gt; comportement aléatoire, on parlera plutôt de générateur 
-&lt;a href=&#34;https://fr.wikipedia.org/wiki/Pseudo-al%C3%A9atoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;pseudo-aléatoire&lt;/strong&gt;&lt;/a&gt; à partir d&amp;rsquo;une loi &lt;strong&gt;uniforme&lt;/strong&gt; sur $[0,1]$, notée $\mathcal{U}([0,1])$, en fixant une 
-&lt;a href=&#34;https://fr.wikipedia.org/wiki/Graine_al%C3%A9atoire&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;graine (seed)&lt;/a&gt; au préalable.&lt;/p&gt;
-&lt;p&gt;La solution pour simuler un comportement pseudo-aléatoire avec un ordinateur est de produire une suite de nombres, suffisamment imprévisible, pour permettre d&amp;rsquo;imiter une suite $(u_{n})_{n\in \mathbb{N}^{*}}$ de variables aléatoires indépendantes de loi mère $\mathcal{U}([0,1])$.&lt;/p&gt;
-&lt;p&gt;À partir de ça, il existe des formules de transformation qui permettent de générer des lois plus complexes à partir d&amp;rsquo;une loi $\mathcal{U}([0,1])$.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;IMG/RELATION_LOI_PROBA.jpg&#34; alt=&#34;RELATION_LOI_PROBA&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; 
-&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1198/000313008X270448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Univariate Distribution Relationships&lt;/a&gt; - Leemis &amp;amp; McQueston (2008).&lt;/p&gt;
-&lt;h2 id=&#34;simulations-de-loi-usuelles&#34;&gt;Simulations de loi usuelles&lt;/h2&gt;
-&lt;h3 id=&#34;loi-uniforme--x-sim-mathcalu01&#34;&gt;Loi uniforme $ X \sim \mathcal{U}([0,1])$&lt;/h3&gt;
-&lt;p&gt;Voici un premier de simulation de la loi uniforme, c&amp;rsquo;est joli non ?&lt;/p&gt;
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_UNIF.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_UNIF.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;
-&lt;p&gt;Deux parties sur ce graphique:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;En haut sont représentés les tirages en utilisant la fonction rand().&lt;/li&gt;
-&lt;li&gt;En bas, nous utilisons l&amp;rsquo;histogramme pour regrouper les observations dans des classes identiques et où la surface de chaque est une approximation de la densité de probabilité (pour des lois continues).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Les calculs de l&amp;rsquo;espérance et de la variance sont réalisés à partir des moment d&amp;rsquo;ordre 1, 2 et de la formule de 
-&lt;a href=&#34;https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_K%C3%B6nig-Huygens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;König-Huygens&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;%Get the total number of draws for X simulation.
+$$&lt;/li>
+&lt;li>$\mathbf{K}$ est un ensemble de contraintes défini par:
+&lt;ul>
+&lt;li>$16x_{1} + 13x_{2}+17x_{3} \leq 180$&lt;/li>
+&lt;li>$27x_{1} + 15x_{2}+ 11x_{3} \leq 160$&lt;/li>
+&lt;li>$\sum_{i=1}^{3} x_{i}=12$&lt;/li>
+&lt;li>$\boldsymbol{x} \geq 0 \Longleftrightarrow x_{i} \geq 0 \quad \forall i \in \{1,2,3\}$&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Les solveurs peuvent le faire à votre place, mais un bon moyen de résoudre ce problème revient à appliquer une approche polyédrale; des exemples de cours sont donnés
+&lt;a href="https://www.lamsade.dauphine.fr/~poc/jpoc9/Chapitre-Polyedres.pdf" target="_blank" rel="noopener">ici&lt;/a> ou
+&lt;a href="https://www.andrew.cmu.edu/user/gc0v/webpub/IPsurveyAussois-11-08.pdf" target="_blank" rel="noopener">là&lt;/a>.&lt;/p>
+&lt;p>Visuellement, la résolution du problème $(\mathcal{P})$ est proposé dans l&amp;rsquo;animation suivante:&lt;/p>
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/OPTIM_LIN_ANIM.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/OPTIM_LIN_ANIM.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>
+&lt;p>La solution optimale $\boldsymbol{x}^{*}$ au problème $(\mathcal{P})$ est donné par le point rouge.&lt;/p>
+&lt;h2 id="problèmes-de-minimisation">Problèmes de minimisation&lt;/h2>
+&lt;h3 id="approche-polyèdrale">Approche Polyèdrale&lt;/h3>
+&lt;p>&lt;em>TODO: mettre un lien vers l&amp;rsquo;algorithme du simplexe&lt;/em>&lt;/p>
+&lt;h3 id="approche-par-méthodes-des-flots-dans-un-graphe">Approche par méthodes des flots dans un graphe.&lt;/h3>
+&lt;hr>
+&lt;h1 id="simulations-de-lois-de-probabilité-et-convergence-des-variables-aléatoires-a-namesimu_probaa">Simulations de lois de probabilité et convergence des variables aléatoires: &lt;a name="simu_proba">&lt;/a>&lt;/h1>
+&lt;p>Comme indiqué dans le titre, cette section s&amp;rsquo;intéresse à la simulation de lois de probabilité. Mais on part déjà avec un problème, l&amp;rsquo;ordinateur est
+&lt;a href="https://fr.wikipedia.org/wiki/Algorithme_d%C3%A9terministe" target="_blank" rel="noopener">déterministe&lt;/a>.&lt;br>
+Cependant, l&amp;rsquo;ordinateur génère efficacement des $0$ et des $1$.&lt;/p>
+&lt;p>Pour le coup, on ne peut pas dire que l&amp;rsquo;on va simuler un &lt;em>vrai&lt;/em> comportement aléatoire, on parlera plutôt de générateur
+&lt;a href="https://fr.wikipedia.org/wiki/Pseudo-al%C3%A9atoire" target="_blank" rel="noopener">&lt;strong>pseudo-aléatoire&lt;/strong>&lt;/a> à partir d&amp;rsquo;une loi &lt;strong>uniforme&lt;/strong> sur $[0,1]$, notée $\mathcal{U}([0,1])$, en fixant une
+&lt;a href="https://fr.wikipedia.org/wiki/Graine_al%C3%A9atoire" target="_blank" rel="noopener">graine (seed)&lt;/a> au préalable.&lt;/p>
+&lt;p>La solution pour simuler un comportement pseudo-aléatoire avec un ordinateur est de produire une suite de nombres, suffisamment imprévisible, pour permettre d&amp;rsquo;imiter une suite $(u_{n})_{n\in \mathbb{N}^{*}}$ de variables aléatoires indépendantes de loi mère $\mathcal{U}([0,1])$.&lt;/p>
+&lt;p>À partir de ça, il existe des formules de transformation qui permettent de générer des lois plus complexes à partir d&amp;rsquo;une loi $\mathcal{U}([0,1])$.&lt;/p>
+&lt;p>&lt;img src="IMG/RELATION_LOI_PROBA.jpg" alt="RELATION_LOI_PROBA">&lt;/p>
+&lt;p>&lt;strong>Source:&lt;/strong>
+&lt;a href="https://www.tandfonline.com/doi/abs/10.1198/000313008X270448" target="_blank" rel="noopener">Univariate Distribution Relationships&lt;/a> - Leemis &amp;amp; McQueston (2008).&lt;/p>
+&lt;h2 id="simulations-de-loi-usuelles">Simulations de loi usuelles&lt;/h2>
+&lt;h3 id="loi-uniforme--x-sim-mathcalu01">Loi uniforme $ X \sim \mathcal{U}([0,1])$&lt;/h3>
+&lt;p>Voici un premier de simulation de la loi uniforme, c&amp;rsquo;est joli non ?&lt;/p>
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_UNIF.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_UNIF.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>
+&lt;p>Deux parties sur ce graphique:&lt;/p>
+&lt;ul>
+&lt;li>En haut sont représentés les tirages en utilisant la fonction rand().&lt;/li>
+&lt;li>En bas, nous utilisons l&amp;rsquo;histogramme pour regrouper les observations dans des classes identiques et où la surface de chaque est une approximation de la densité de probabilité (pour des lois continues).&lt;/li>
+&lt;/ul>
+&lt;p>Les calculs de l&amp;rsquo;espérance et de la variance sont réalisés à partir des moment d&amp;rsquo;ordre 1, 2 et de la formule de
+&lt;a href="https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_K%C3%B6nig-Huygens" target="_blank" rel="noopener">König-Huygens&lt;/a>&lt;/p>
+&lt;pre>&lt;code>%Get the total number of draws for X simulation.
 N = length(x);
 % Use matlab to automatically sort observations into 10 classes.
 [n_elem,cent] = hist(x);
 % Determine the width of a class from the difference between class centers.
-h = cent(2) - cent(1); 
+h = cent(2) - cent(1);
 ci = cent;
 hauteurs = n_elem/(N*h);
 f_ci = hauteurs*h ;
 % Using definition of expected value: |E(X) = sum_i f_X(ci) * ci
-% =&amp;gt; We use a discrete approximation of the continuous pdf ... so it&#39;s a sum and not an integral.
-E_hat = ci*(f_ci&#39;);
+% =&amp;gt; We use a discrete approximation of the continuous pdf ... so it's a sum and not an integral.
+E_hat = ci*(f_ci');
 % Second order moment
 ci2 = cent.^2;
 % König-Huygens Formula
-V_hat = ci2*(f_ci&#39;) - E_hat^2;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;loi-binomiale--x-sim-mathcalbnp&#34;&gt;Loi binomiale $ X \sim \mathcal{B}(n,p)$&lt;/h3&gt;
-&lt;p&gt;La même chose mais cette fois-ci avec la binomiale :&lt;/p&gt;
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_BINOMIALE.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_BINOMIALE.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;
-&lt;h3 id=&#34;loi-normale--x-sim-mathcalnmusigma2&#34;&gt;Loi normale $ X \sim \mathcal{N}(\mu,\sigma^{2})$&lt;/h3&gt;
-&lt;p&gt;Enfin, un troisième exemple avec la loi incontournable en probabilité et statistique:&lt;/p&gt;
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_NORMALE.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_NORMALE.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;
-&lt;p&gt;Si on voit que les valeurs de l&amp;rsquo;espérance et de la variance empiriques sont un peu éloignées des valeurs théoriques, deux possiblités:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;augmenter le nombre de tirage et attendre de voir ce que ça donne;&lt;/li&gt;
-&lt;li&gt;appliquer des méthodes de 
-&lt;a href=&#34;https://fr.wikipedia.org/wiki/R%C3%A9duction_de_la_variance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;réduction de variance&lt;/a&gt;, mais c&amp;rsquo;est pas au programme.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;le-théorème-central-limite&#34;&gt;Le Théorème Central Limite&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Bon en gros, tout est normal&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;loi-forte-des-grands-nombres&#34;&gt;Loi forte des grands nombres&lt;/h2&gt;
-&lt;p&gt;C&amp;rsquo;est un résultat de convergence assez puissant qui s&amp;rsquo;énonce comme suit:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Si $(X_{n})_{n\in\mathbb{N}}$ est une suite de variables aléatoires iid telle que $X_i \in \mathcal{L}^{1}(\Omega)$ avec $\mathbb{E}(X_i) = m$ $\forall i \in \{1,&amp;hellip;,n\}$, alors
-$$\bar{X}_n = \frac{1}{n} \sum_1^n X_i  \overset{ps.}{\to} \mathbb{E}(X_i) = m \text{ quand } n \to +\infty.$$
-Dans le cas où $X_i \in \mathcal{L}^{2}(\Omega)$ avec $\mathbb{E}(X_i) = m$, on obtient un résultat similaire en étudiant la somme des $X_i - m$ et on prouve sa convergence vers $0$.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Donc pour faire simple, cette loi nous dit qu&amp;rsquo;à partir d&amp;rsquo;une suite de variables aléatoires, on va converger 
-&lt;a href=&#34;https://www.bibmath.net/dico/index.php?action=affiche&amp;amp;quoi=./p/presquesur.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presque sûrement&lt;/a&gt; vers une quantité déterministe $m\in \mathbb{R}$.&lt;/p&gt;
-&lt;p&gt;On peut illustrer graphiquement ce résultat pour:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;la loi uniforme $\mathcal{U}([0,1])$:
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/LFGN_ANIM_UNIFORME.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/LFGN_ANIM_UNIFORME.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;&lt;/li&gt;
-&lt;li&gt;la loi de Poisson $\mathcal{P}(\lambda)$ avec $\lambda \in \mathbb{R}_+^*$:
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/LFGN_ANIM_POISSON.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/LFGN_ANIM_POISSON.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;application-dune-méthode-monte-carlo-pour-approcher-pi&#34;&gt;Application d&amp;rsquo;une méthode Monte-Carlo pour approcher $\pi$&lt;/h2&gt;
-&lt;p&gt;Une application directe des résultats qui sont présentés dans cette partie est la méthode de 
-&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/01621459.1949.10483310&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monte-Carlo (Metropolis &amp;amp; Ulam, 1949)&lt;/a&gt; qui permet de &lt;em&gt;calculer une valeur numérique approchée en utilisant des procédés aléatoires [&amp;hellip;]&lt;/em&gt; (Source: 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Monte_Carlo_method&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipédia&lt;/a&gt;) et est assez utile pour calculer, par exemples, des intégrales compliquées.&lt;br&gt;
-L&amp;rsquo;idée générale pour le calcul d&amp;rsquo;intégrales avec une méthode Monte-Carlo (MC) est:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Interpréter l&amp;rsquo;intégrale comme un espérance;&lt;/li&gt;
-&lt;li&gt;Calculer cette espérance comme une moyenne;&lt;/li&gt;
-&lt;li&gt;Appliquer la loi forte des grands nombres.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Un exemple assez standard est l&amp;rsquo;approximation de $\pi$ par une pluie aléatoire (adapté du cours 
-&lt;a href=&#34;https://www.coursera.org/learn/probabilites-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aléatoire : une introduction aux probabilités - Partie 2&lt;/a&gt;).&lt;br&gt;
+V_hat = ci2*(f_ci') - E_hat^2;
+&lt;/code>&lt;/pre>
+&lt;h3 id="loi-binomiale--x-sim-mathcalbnp">Loi binomiale $ X \sim \mathcal{B}(n,p)$&lt;/h3>
+&lt;p>La même chose mais cette fois-ci avec la binomiale :&lt;/p>
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_BINOMIALE.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_BINOMIALE.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>
+&lt;h3 id="loi-normale--x-sim-mathcalnmusigma2">Loi normale $ X \sim \mathcal{N}(\mu,\sigma^{2})$&lt;/h3>
+&lt;p>Enfin, un troisième exemple avec la loi incontournable en probabilité et statistique:&lt;/p>
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_NORMALE.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_ANIM_NORMALE.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>
+&lt;p>Si on voit que les valeurs de l&amp;rsquo;espérance et de la variance empiriques sont un peu éloignées des valeurs théoriques, deux possiblités:&lt;/p>
+&lt;ul>
+&lt;li>augmenter le nombre de tirage et attendre de voir ce que ça donne;&lt;/li>
+&lt;li>appliquer des méthodes de
+&lt;a href="https://fr.wikipedia.org/wiki/R%C3%A9duction_de_la_variance" target="_blank" rel="noopener">réduction de variance&lt;/a>, mais c&amp;rsquo;est pas au programme.&lt;/li>
+&lt;/ul>
+&lt;h2 id="le-théorème-central-limite">Le Théorème Central Limite&lt;/h2>
+&lt;p>&lt;em>Bon en gros, tout est normal&lt;/em>&lt;/p>
+&lt;h2 id="loi-forte-des-grands-nombres">Loi forte des grands nombres&lt;/h2>
+&lt;p>C&amp;rsquo;est un résultat de convergence assez puissant qui s&amp;rsquo;énonce comme suit:&lt;/p>
+&lt;blockquote>
+&lt;p>Si $(X_{n})_{n\in\mathbb{N}}$ est une suite de variables aléatoires iid telle que $X_i \in \mathcal{L}^{1}(\Omega)$ avec $\mathbb{E}(X_i) = m$ $\forall i \in \{1,&amp;hellip;,n\}$, alors
+$$\bar{X}_n = \frac{1}{n} \sum_1^n X_i \overset{ps.}{\to} \mathbb{E}(X_i) = m \text{ quand } n \to +\infty.$$
+Dans le cas où $X_i \in \mathcal{L}^{2}(\Omega)$ avec $\mathbb{E}(X_i) = m$, on obtient un résultat similaire en étudiant la somme des $X_i - m$ et on prouve sa convergence vers $0$.&lt;/p>
+&lt;/blockquote>
+&lt;p>Donc pour faire simple, cette loi nous dit qu&amp;rsquo;à partir d&amp;rsquo;une suite de variables aléatoires, on va converger
+&lt;a href="https://www.bibmath.net/dico/index.php?action=affiche&amp;amp;quoi=./p/presquesur.html" target="_blank" rel="noopener">presque sûrement&lt;/a> vers une quantité déterministe $m\in \mathbb{R}$.&lt;/p>
+&lt;p>On peut illustrer graphiquement ce résultat pour:&lt;/p>
+&lt;ul>
+&lt;li>la loi uniforme $\mathcal{U}([0,1])$:
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/LFGN_ANIM_UNIFORME.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/LFGN_ANIM_UNIFORME.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>&lt;/li>
+&lt;li>la loi de Poisson $\mathcal{P}(\lambda)$ avec $\lambda \in \mathbb{R}_+^*$:
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/LFGN_ANIM_POISSON.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/LFGN_ANIM_POISSON.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;h2 id="application-dune-méthode-monte-carlo-pour-approcher-pi">Application d&amp;rsquo;une méthode Monte-Carlo pour approcher $\pi$&lt;/h2>
+&lt;p>Une application directe des résultats qui sont présentés dans cette partie est la méthode de
+&lt;a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1949.10483310" target="_blank" rel="noopener">Monte-Carlo (Metropolis &amp;amp; Ulam, 1949)&lt;/a> qui permet de &lt;em>calculer une valeur numérique approchée en utilisant des procédés aléatoires [&amp;hellip;]&lt;/em> (Source:
+&lt;a href="https://en.wikipedia.org/wiki/Monte_Carlo_method" target="_blank" rel="noopener">Wikipédia&lt;/a>) et est assez utile pour calculer, par exemples, des intégrales compliquées.&lt;br>
+L&amp;rsquo;idée générale pour le calcul d&amp;rsquo;intégrales avec une méthode Monte-Carlo (MC) est:&lt;/p>
+&lt;ol>
+&lt;li>Interpréter l&amp;rsquo;intégrale comme un espérance;&lt;/li>
+&lt;li>Calculer cette espérance comme une moyenne;&lt;/li>
+&lt;li>Appliquer la loi forte des grands nombres.&lt;/li>
+&lt;/ol>
+&lt;p>Un exemple assez standard est l&amp;rsquo;approximation de $\pi$ par une pluie aléatoire (adapté du cours
+&lt;a href="https://www.coursera.org/learn/probabilites-2" target="_blank" rel="noopener">Aléatoire : une introduction aux probabilités - Partie 2&lt;/a>).&lt;br>
 L&amp;rsquo;idée générale derrière cette approximation est de calculer $\pi$ comme le rapport entre les surfaces d&amp;rsquo;un disque unitaire $D:=\left(C=(0,0),r=1\right)$ et celle du carré $C$ dans lequel $D$ est inscrit. En tirant une séquence de couple $(X,Y)$ avec $X,Y\sim \mathcal{U}([-1,1])$, on peut exprimer la probabilité $(X,Y)\in D$ comme le rapport de surface:
 $$
 \mathbb{P}\left((X,Y)\in D\right):=\frac{\textrm{surface}(D)}{\textrm{surface}(C)} = \frac{\pi}{4}
@@ -265,110 +173,101 @@ En exprimant le rapport des surfaces sous forme d&amp;rsquo;intgrale (on vit dan
 $$
 \mathbb{P}\left((X,Y)\in D\right) = \int\int_{\{x^{2}+y^{2}\leq 1\}} \textrm{d}x\textrm{d}y
 \times
-\left( \int\int_{\{-1\leq x, y \leq 1\}}  \textrm{d}x\textrm{d}y   \right)^{-1}
+\left( \int\int_{\{-1\leq x, y \leq 1\}} \textrm{d}x\textrm{d}y \right)^{-1}
 $$
-On va pas se mentir, c&amp;rsquo;est assez moche, mais simple à approcher avec une méthode MC.&lt;/p&gt;
-&lt;p&gt;Pour aller plus vite, on peut se restreindre au calcul d&amp;rsquo;un quadrant unique et tirer les couples $(X,Y)$ tels que $X,Y\sim \mathcal{U}([0,1])$ ; le résultat d&amp;rsquo;une simulation MC pour approcher la valeur est $\pi$ est présenté ci-dessous:
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/Pi_convergence.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/Pi_convergence.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;
-On peut voir que l&amp;rsquo;augmentation du nombre de tirage permet de converger vers une valeur approchée de $\pi$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;inférence-statistiques-a-namestat_infa&#34;&gt;Inférence statistiques: &lt;a name=&#34;stat_inf&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Il s&amp;rsquo;agit dans cette partie de déterminer un estimateur du paramètre d&amp;rsquo;une loi de probabilité donnée.&lt;/p&gt;
-&lt;p&gt;On prend, par exemple, le cas d&amp;rsquo;une élection entre deux candidats $C_{1}$ et $C_{0}$ et on définit une variable aléatoire $X_{i} \in \left\{0,1\right\}$ qui représente la préférence d&amp;rsquo;un citoyen telle que&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;$X_{i}=1$ si il préfère le candidat $C_{1}$;&lt;/li&gt;
-&lt;li&gt;$X_{i}=0$ si il préfère le candidat $C_{0}$.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;De manière générale en probabilité et statistique, la précision augmente avec le nombre d&amp;rsquo;observations; dans notre cas, il va donc falloir sonder un &lt;strong&gt;grand&lt;/strong&gt; nombre d&amp;rsquo;électeurs noté $N$.&lt;/p&gt;
-&lt;p&gt;A partir des préférences recueillies, on va chercher à estimer la proportion $p$ de suffrages qui préfèrent le candidat $C_{1}$ et déduire un intervalle de confiance $I_{n}$  pour un risque $\alpha \in \mathbb{R}_+$ (parce qu&amp;rsquo;on peut se tromper).&lt;/p&gt;
-&lt;p&gt;La modélisation de ce problème peut se faire en remarquant que les intentions de vote collectées sont un $N$-échantillon de loi mère $X_i\sim \mathcal{B}(p)$ avec $X_{i}(\Omega) \in \{0,1\}$ $\forall i \in \{1,&amp;hellip;,N\}$ .&lt;br&gt;
-On sait de plus que la proportion $\bar{p}$ admet un estimateur des moments d&amp;rsquo;ordre 1 noté $\bar{X}_{n}$ qui possède des chouettes propriétés $\forall n \in \{1,&amp;hellip;,N\}$:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;il est sans biais &lt;em&gt;ie.&lt;/em&gt;  $\mathbb{E}(\bar{X}_{n}) = p$;&lt;/li&gt;
-&lt;li&gt;il converge presque sûrement vers $p$;&lt;/li&gt;
-&lt;li&gt;puisque $X_{i} \in \mathcal{L}^{2}(\Omega)$, il admet un moment d&amp;rsquo;ordre 2 et une variance $V(\bar{X}_{n})$ qui converge vers 0 quand $n\rightarrow+\infty$.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;L&amp;rsquo;expression de cet estimateur est donnée par:
+On va pas se mentir, c&amp;rsquo;est assez moche, mais simple à approcher avec une méthode MC.&lt;/p>
+&lt;p>Pour aller plus vite, on peut se restreindre au calcul d&amp;rsquo;un quadrant unique et tirer les couples $(X,Y)$ tels que $X,Y\sim \mathcal{U}([0,1])$ ; le résultat d&amp;rsquo;une simulation MC pour approcher la valeur est $\pi$ est présenté ci-dessous:
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/Pi_convergence.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/Pi_convergence.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>
+On peut voir que l&amp;rsquo;augmentation du nombre de tirage permet de converger vers une valeur approchée de $\pi$&lt;/p>
+&lt;hr>
+&lt;h1 id="inférence-statistiques-a-namestat_infa">Inférence statistiques: &lt;a name="stat_inf">&lt;/a>&lt;/h1>
+&lt;p>Il s&amp;rsquo;agit dans cette partie de déterminer un estimateur du paramètre d&amp;rsquo;une loi de probabilité donnée.&lt;/p>
+&lt;p>On prend, par exemple, le cas d&amp;rsquo;une élection entre deux candidats $C_{1}$ et $C_{0}$ et on définit une variable aléatoire $X_{i} \in \left\{0,1\right\}$ qui représente la préférence d&amp;rsquo;un citoyen telle que&lt;/p>
+&lt;ul>
+&lt;li>$X_{i}=1$ si il préfère le candidat $C_{1}$;&lt;/li>
+&lt;li>$X_{i}=0$ si il préfère le candidat $C_{0}$.&lt;/li>
+&lt;/ul>
+&lt;p>De manière générale en probabilité et statistique, la précision augmente avec le nombre d&amp;rsquo;observations; dans notre cas, il va donc falloir sonder un &lt;strong>grand&lt;/strong> nombre d&amp;rsquo;électeurs noté $N$.&lt;/p>
+&lt;p>A partir des préférences recueillies, on va chercher à estimer la proportion $p$ de suffrages qui préfèrent le candidat $C_{1}$ et déduire un intervalle de confiance $I_{n}$ pour un risque $\alpha \in \mathbb{R}_+$ (parce qu&amp;rsquo;on peut se tromper).&lt;/p>
+&lt;p>La modélisation de ce problème peut se faire en remarquant que les intentions de vote collectées sont un $N$-échantillon de loi mère $X_i\sim \mathcal{B}(p)$ avec $X_{i}(\Omega) \in \{0,1\}$ $\forall i \in \{1,&amp;hellip;,N\}$ .&lt;br>
+On sait de plus que la proportion $\bar{p}$ admet un estimateur des moments d&amp;rsquo;ordre 1 noté $\bar{X}_{n}$ qui possède des chouettes propriétés $\forall n \in \{1,&amp;hellip;,N\}$:&lt;/p>
+&lt;ul>
+&lt;li>il est sans biais &lt;em>ie.&lt;/em> $\mathbb{E}(\bar{X}_{n}) = p$;&lt;/li>
+&lt;li>il converge presque sûrement vers $p$;&lt;/li>
+&lt;li>puisque $X_{i} \in \mathcal{L}^{2}(\Omega)$, il admet un moment d&amp;rsquo;ordre 2 et une variance $V(\bar{X}_{n})$ qui converge vers 0 quand $n\rightarrow+\infty$.&lt;/li>
+&lt;/ul>
+&lt;p>L&amp;rsquo;expression de cet estimateur est donnée par:
 $$
 \bar{X}_{n}:=\frac{1}{n} \sum_i^n X_i \quad \forall n \in \{1,&amp;hellip;,N\}
-$$&lt;/p&gt;
-&lt;p&gt;Comme on chercher un estimateur d&amp;rsquo;une quantité inconnue, on construit un intervalle de confiance $I_{n}$ au risque $\alpha\in \mathbb{R}_+$ de se tromper.
-En appliquant le TCL et la propriété de convergence ps. de $\bar{X}_n$, on peut calculer l&amp;rsquo;erreur d&amp;rsquo;estimation:&lt;/p&gt;
-&lt;p&gt;$$
+$$&lt;/p>
+&lt;p>Comme on chercher un estimateur d&amp;rsquo;une quantité inconnue, on construit un intervalle de confiance $I_{n}$ au risque $\alpha\in \mathbb{R}_+$ de se tromper.
+En appliquant le TCL et la propriété de convergence ps. de $\bar{X}_n$, on peut calculer l&amp;rsquo;erreur d&amp;rsquo;estimation:&lt;/p>
+&lt;p>$$
 \epsilon_{n}:= z_{\frac{\alpha}{2}} \sqrt{ \frac{\bar{X}_{n} (1- \bar{X}_n )}{n}} \quad \forall n \in \{1,&amp;hellip;,N\}
 $$
-où $z$ est le quantile d&amp;rsquo;ordre $\alpha$ pour la loi $\mathcal{N}(0,1)$.&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;intervalle de confiance pour l&amp;rsquo;estimateur $\bar{X}_{n}$ s&amp;rsquo;exprime tel que:&lt;/p&gt;
-&lt;p&gt;$$
+où $z$ est le quantile d&amp;rsquo;ordre $\alpha$ pour la loi $\mathcal{N}(0,1)$.&lt;/p>
+&lt;p>L&amp;rsquo;intervalle de confiance pour l&amp;rsquo;estimateur $\bar{X}_{n}$ s&amp;rsquo;exprime tel que:&lt;/p>
+&lt;p>$$
 I_{n} := [ \bar{X}_{n} -\epsilon_{n},\bar{X}_{n}+\epsilon_{n}] \quad \forall n \in \{1,&amp;hellip;,N\}
-$$&lt;/p&gt;
-&lt;p&gt;Maintenant qu&amp;rsquo;on a tout ça, on peut construire l&amp;rsquo;estimateur et l&amp;rsquo;intervalle de confiance associé à la victoire de $C_{1}$ dans le cas où la population préfère le candidat $C_{1}$ à 51% et ceci:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;au risque $\alpha = 5$% par pas de 100
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_IC_1.96.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_IC_1.96.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;&lt;/li&gt;
-&lt;li&gt;au risque $\alpha = 1$% par pas de 500
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_IC_2.576.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_IC_2.576.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Je vous laisse étudier les comportements obtenus. A partir des graphiques présentés, on peut voir les tailles d&amp;rsquo;échantillons $n\leq N$ pour lesquelles on s&amp;rsquo;est trompé et, en modifiant un peu la simulation, vérifier le niveau asymptotique $1-\alpha$ de $I_{n}$ $\forall n \in \{1,&amp;hellip;,N\}$.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note :&lt;/strong&gt; Il s&amp;rsquo;agit d&amp;rsquo;un exemple pour un estimateur paramétrique par la méthode des moments, mais il existe d&amp;rsquo;autres méthodes pour calculer des estimateurs &lt;em&gt;eg.&lt;/em&gt; le maximum de vraisemblance.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;extra&#34;&gt;Extra:&lt;/h2&gt;
-&lt;p&gt;Deux fiches synthèses sur les principales commandes Matlab à garder en tête:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;PDF/MATLAB_Fundamentals_ETH_Z%c3%bcrich.pdf&#34;&gt;MATLAB Fundamentals - Res Jöhr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;PDF/Nielsen2015_MatlabCheatSheet.pdf&#34;&gt;Matlab Cheat Sheet - Thor Nielsen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- 
-&gt; Écrit à l&#39;origine pour m&#39;éviter de répéter constamment les mêmes conseils à mes étudiants, ce manuel a connu une diffusion assez large.   
-&gt; **Umberto Eco** - Comment écrire sa thèse (1977)
-
+$$&lt;/p>
+&lt;p>Maintenant qu&amp;rsquo;on a tout ça, on peut construire l&amp;rsquo;estimateur et l&amp;rsquo;intervalle de confiance associé à la victoire de $C_{1}$ dans le cas où la population préfère le candidat $C_{1}$ à 51% et ceci:&lt;/p>
+&lt;ul>
+&lt;li>au risque $\alpha = 5$% par pas de 100
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_IC_1.96.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_IC_1.96.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>&lt;/li>
+&lt;li>au risque $\alpha = 1$% par pas de 500
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_IC_2.576.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/VIDEO/SIMU_IC_2.576.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>&lt;/li>
+&lt;/ul>
+&lt;p>Je vous laisse étudier les comportements obtenus. A partir des graphiques présentés, on peut voir les tailles d&amp;rsquo;échantillons $n\leq N$ pour lesquelles on s&amp;rsquo;est trompé et, en modifiant un peu la simulation, vérifier le niveau asymptotique $1-\alpha$ de $I_{n}$ $\forall n \in \{1,&amp;hellip;,N\}$.&lt;/p>
+&lt;p>&lt;strong>Note :&lt;/strong> Il s&amp;rsquo;agit d&amp;rsquo;un exemple pour un estimateur paramétrique par la méthode des moments, mais il existe d&amp;rsquo;autres méthodes pour calculer des estimateurs &lt;em>eg.&lt;/em> le maximum de vraisemblance.&lt;/p>
+&lt;hr>
+&lt;h2 id="extra">Extra:&lt;/h2>
+&lt;p>Deux fiches synthèses sur les principales commandes Matlab à garder en tête:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="PDF/MATLAB_Fundamentals_ETH_Z%c3%bcrich.pdf">MATLAB Fundamentals - Res Jöhr&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="PDF/Nielsen2015_MatlabCheatSheet.pdf">Matlab Cheat Sheet - Thor Nielsen&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--
+> Écrit à l'origine pour m'éviter de répéter constamment les mêmes conseils à mes étudiants, ce manuel a connu une diffusion assez large.
+> **Umberto Eco** - Comment écrire sa thèse (1977)
 1. Le [Contexte](#contexte)
 2. Le [Mantra](#mantra) puis le modèle [entrée](#entree)/[plat](#plat)/[dessert](#dessert)/[digestif](#digestif)
 3. La [Moralité](#moralite)
-
 ---
-# Contexte &lt;a name=&#34;contexte&#34;&gt;&lt;/a&gt;
-Initialement écrit pour les TP de CSOPT ([Datasim](https://www.ec-nantes.fr/formation/les-options-de-2e-et-3e-annee/option-donnees-analyse-traitement-et-applications-en-signal-et-image)), on se rend compte que ça sert à tout le monde. 
-
-Ce n’est pas pour être embêtant mais pour vous préparer à l’écriture de vos rapports de stage, vos projets biblios, votre thèse … 
-&gt;  Que vous continuiez en thèse ou dans le monde de l’entreprise,  il est important de poser le contexte dans les écrits que vous produirez pour vos supérieurs, clients, directeurs de thèses …   
-&gt; dixit **Gwen.S** (2023)
-
+# Contexte &lt;a name="contexte">&lt;/a>
+Initialement écrit pour les TP de CSOPT ([Datasim](https://www.ec-nantes.fr/formation/les-options-de-2e-et-3e-annee/option-donnees-analyse-traitement-et-applications-en-signal-et-image)), on se rend compte que ça sert à tout le monde.
+Ce n’est pas pour être embêtant mais pour vous préparer à l’écriture de vos rapports de stage, vos projets biblios, votre thèse …
+> Que vous continuiez en thèse ou dans le monde de l’entreprise, il est important de poser le contexte dans les écrits que vous produirez pour vos supérieurs, clients, directeurs de thèses …
+> dixit **Gwen.S** (2023)
 ---
-
-# Mantra  &lt;a name=&#34;mantra&#34;&gt;&lt;/a&gt;
+# Mantra &lt;a name="mantra">&lt;/a>
 Le « Mantra » principal est
-&lt;center&gt; &lt;i&gt; On doit pouvoir lire un rapport sans avoir à se référer au sujet. &lt;/i&gt;&lt;/center&gt;
-&lt;/br&gt;
-
+&lt;center> &lt;i> On doit pouvoir lire un rapport sans avoir à se référer au sujet. &lt;/i>&lt;/center>
+&lt;/br>
 **Pour faire simple:** Pour chaque question, faire
-
-## Entrée, l’intro :  &lt;a name=&#34;entree&#34;&gt;&lt;/a&gt;
-Une phrase de contexte où vous dites ce que vous allez faire, prouver, montrer, … On évite **au maximum** de faire appel au numéro des questions dans le sujet afin d&#39;être cohérent avec le mantra *ie.* on évite:
+## Entrée, l’intro : &lt;a name="entree">&lt;/a>
+Une phrase de contexte où vous dites ce que vous allez faire, prouver, montrer, … On évite **au maximum** de faire appel au numéro des questions dans le sujet afin d'être cohérent avec le mantra *ie.* on évite:
 ```
 1.a: la réponse est ...
 ...
 2.f: on trouve x=9
 ...
-42.z: ça converge.  
+42.z: ça converge.
 ```
-## Plat, le développement :  &lt;a name=&#34;plat&#34;&gt;&lt;/a&gt;
-
-- **Si question mathématique :** de la rigueur ie. hypothèses (ou l’endroit d’où vous partez) , résultats de cours utilisés, étapes de calculs (pas besoin de tout mettre si les opérations sont triviales), … 
-
+## Plat, le développement : &lt;a name="plat">&lt;/a>
+- **Si question mathématique :** de la rigueur ie. hypothèses (ou l’endroit d’où vous partez) , résultats de cours utilisés, étapes de calculs (pas besoin de tout mettre si les opérations sont triviales), …
 Pensez au [LaTeX](https://en.wikipedia.org/wiki/LaTeX) pour la rédaction de vos documents avec un éditeur type [Overleaf](https://www.overleaf.com/) si vous rendez un CR à plusieurs.
-- **Si tableau synthèse :** Tout est dans le titre de cette section, c’est censé être une synthèse … ne pas hésiter à mettre en valeur (avec du gras ou de la couleur) les résultats que vous jugez utiles, pertinents. Par exemple, le code LaTeX: 
+- **Si tableau synthèse :** Tout est dans le titre de cette section, c’est censé être une synthèse … ne pas hésiter à mettre en valeur (avec du gras ou de la couleur) les résultats que vous jugez utiles, pertinents. Par exemple, le code LaTeX:
 ```
 \begin{table}[H]
 \centering
@@ -377,31 +276,27 @@ Pensez au [LaTeX](https://en.wikipedia.org/wiki/LaTeX) pour la rédaction de vos
 \textbf{} &amp; \textbf{Méthode 1} &amp; \textbf{Methode 2} &amp; \textbf{Méthode 3} \\ \hline
 \multicolumn{1}{|c|}{\textbf{$\hat{x}$}} &amp; $(.,.)^{\intercal}$ &amp; $(.,.)^{\intercal}$ &amp; $(.,.)^{\intercal}$ \\ \hline
 \multicolumn{1}{|c|}{\textbf{$\hat{z} := f(\hat{x})$}} &amp; 0 &amp; \textcolor{blue}{$\infty$} &amp; $\ln (3)$ \\ \hline
-\multicolumn{1}{|c|}{Nb d&#39;itérations} &amp; $666$ &amp; $24$ &amp; $\begingroup \color{red}{4} \endgroup 2$ \\ \hline
+\multicolumn{1}{|c|}{Nb d'itérations} &amp; $666$ &amp; $24$ &amp; $\begingroup \color{red}{4} \endgroup 2$ \\ \hline
 \multicolumn{1}{|c|}{Nature de $\hat{x}$} &amp; \textcolor{magenta}{$\min$ local} &amp; $\max$ local &amp; point col \\ \hline
 \end{tabular}
-\caption{Données obtenues avec $x_{0} = (\dots)^{\intercal} \in \mathbb{R}^{n}$ avec $\rho = \dots$ et un nombre d&#39;itération maximal $\text{iter}_{\max} = \dots$ }
+\caption{Données obtenues avec $x_{0} = (\dots)^{\intercal} \in \mathbb{R}^{n}$ avec $\rho = \dots$ et un nombre d'itération maximal $\text{iter}_{\max} = \dots$ }
 \label{tab:dummy_tab}
 \end{table}
 ```
-permet d&#39;obtenir le tableau suivant: 
-
-![Exemple d&#39;un joli tableau](ex_dummy_tab.png)
-
+permet d'obtenir le tableau suivant:
+![Exemple d'un joli tableau](ex_dummy_tab.png)
 Et on discute les résultats obtenus ;).
-
-*Tip pour se simplifier la vie avec les tableaux latex:* 
+*Tip pour se simplifier la vie avec les tableaux latex:*
 Créez vos tableaux dans un tableur et mettez en forme avec [Table generator](https://www.tablesgenerator.com/)
-
 - **Si on vous demande de tracer un truc :**
-#### Protocole de la jolie figure (en Matlab, mais généralisable à d&#39;autres langages ):
+#### Protocole de la jolie figure (en Matlab, mais généralisable à d'autres langages ):
 ```
-figure ; hold on ; 
-[box on ; grid on] ; // […] signifie optionnel.  
-// Vos données à tracer (les couleurs sont importantes, 
-// on doit voir directement ce que vous souhaitez montrer, 
+figure ; hold on ;
+[box on ; grid on] ; // […] signifie optionnel.
+// Vos données à tracer (les couleurs sont importantes,
+// on doit voir directement ce que vous souhaitez montrer,
 // donc on va dans la doc de la fonction plot())
-xlabel(‘’) ; ylabel(‘’) ; title(‘’) ; 
+xlabel(‘’) ; ylabel(‘’) ; title(‘’) ;
 // et sgtitle(‘’) si vous avez décidé de faire des subplot() cf la doc.
 legend(‘’) ; // idem, regardez la doc.
 ```
@@ -409,346 +304,241 @@ legend(‘’) ; // idem, regardez la doc.
 - allez voir dans les docs le ‘Interpreter’,’latex’
 - gagnez du temps dans la création de la légende avec matlab :
 ```
-p1 = plot(…,‘Displayname’, &#34;bla&#34;) ;
-p2 = plot(…,‘Displayname’, &#34;blo&#34;) ;
+p1 = plot(…,‘Displayname’, "bla") ;
+p2 = plot(…,‘Displayname’, "blo") ;
 // [...]
-legend([p1,p2],…) ;  
+legend([p1,p2],…) ;
 ```
 #### Un exemple de jolie figure - Cours de B.Pascal Datasim/CSOPT
 Pour les curieux, le cours de B.Pascal [Nonsmooth convex optimization](https://bpascal-fr.github.io/teaching/).
-
-![Exemple d&#39;une *jolie figure* : Prox de la norme $\ell_{1}$](ex_norm_l1.png)
-Le code Matlab correspondant (possible de faire la même chose avec Python ou Julia): 
+![Exemple d'une *jolie figure* : Prox de la norme $\ell_{1}$](ex_norm_l1.png)
+Le code Matlab correspondant (possible de faire la même chose avec Python ou Julia):
 ```
 x = linspace(-10,10,1000);
-figure; 
-  sgtitle(&#34;$\ell_{1}$ norm&#34;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,20)
-  subplot(1,2,1)
-    hold on; box on; grid minor;
-    plot(x,abs(x),&#39;b&#39;,&#39;LineWidth&#39;,2);
-    yline(0,&#39;k--&#39;); xline(0,&#39;k--&#39;);
-    ylim([-1,max(x)]);
-    xlabel(&#39;$x$&#39;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,12); 
-    ylabel(&#39;$y$&#39;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;Rotation&#39;,0,&#39;FontSize&#39;,12);    
-    title(&#34;$f:x \mapsto |x|$&#34;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,16);
-  subplot(1,2,2)
-    hold on; box on; grid minor; 
-    gamma = 1;  p = prox_l1(x,gamma);
-    p1 = plot(x,p,&#39;-&#39;,&#39;LineWidth&#39;,2,&#39;Displayname&#39;,&#34;$\gamma=&#34;+num2str(gamma)+&#34;$&#34;,&#39;Color&#39;,&#39;#7E2F8E&#39;);
-    gamma = 2;  p = prox_l1(x,gamma);
-    p2 = plot(x,p,&#39;--&#39;,&#39;LineWidth&#39;,2,&#39;Displayname&#39;,&#34;$\gamma=&#34;+num2str(gamma)+&#34;$&#34;,&#39;Color&#39;,&#39;#EDB120&#39;);
-    gamma = 3.5;  p = prox_l1(x,gamma);
-    p3 = plot(x,p,&#39;:&#39;,&#39;LineWidth&#39;,2,&#39;Displayname&#39;,&#34;$\gamma=&#34;+num2str(gamma)+&#34;$&#34;,&#39;Color&#39;,&#39;#A2142F&#39;);
-    yline(0,&#39;k--&#39;); xline(0,&#39;k--&#39;);
-    xlabel(&#39;$x$&#39;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,12);
-    ylabel(&#39;$y$&#39;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;Rotation&#39;,0,&#39;FontSize&#39;,12);
-    title(&#34;prox$_{\gamma \|\cdot\|_{1}}(x)$&#34;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,16)
-    legend([p1,p2,p3],&#39;Location&#39;,&#39;best&#39;,&#39;FontSize&#39;,16,&#39;Interpreter&#39;,&#39;latex&#39;); legend boxoff
+figure;
+sgtitle("$\ell_{1}$ norm",'Interpreter','latex','FontSize',20)
+subplot(1,2,1)
+hold on; box on; grid minor;
+plot(x,abs(x),'b','LineWidth',2);
+yline(0,'k--'); xline(0,'k--');
+ylim([-1,max(x)]);
+xlabel('$x$','Interpreter','latex','FontSize',12);
+ylabel('$y$','Interpreter','latex','Rotation',0,'FontSize',12);
+title("$f:x \mapsto |x|$",'Interpreter','latex','FontSize',16);
+subplot(1,2,2)
+hold on; box on; grid minor;
+gamma = 1; p = prox_l1(x,gamma);
+p1 = plot(x,p,'-','LineWidth',2,'Displayname',"$\gamma="+num2str(gamma)+"$",'Color','#7E2F8E');
+gamma = 2; p = prox_l1(x,gamma);
+p2 = plot(x,p,'--','LineWidth',2,'Displayname',"$\gamma="+num2str(gamma)+"$",'Color','#EDB120');
+gamma = 3.5; p = prox_l1(x,gamma);
+p3 = plot(x,p,':','LineWidth',2,'Displayname',"$\gamma="+num2str(gamma)+"$",'Color','#A2142F');
+yline(0,'k--'); xline(0,'k--');
+xlabel('$x$','Interpreter','latex','FontSize',12);
+ylabel('$y$','Interpreter','latex','Rotation',0,'FontSize',12);
+title("prox$_{\gamma \|\cdot\|_{1}}(x)$",'Interpreter','latex','FontSize',16)
+legend([p1,p2,p3],'Location','best','FontSize',16,'Interpreter','latex'); legend boxoff
 ```
-
-#### Pour aller plus loin: 
-On peut faire de chouettes figures et animations avec Matlab: 
+#### Pour aller plus loin:
+On peut faire de chouettes figures et animations avec Matlab:
 - un exemple avec le code [Ariane](https://gitlab.com/mlatif/tep3g-ariane) pour le calcul de la matrice système en imagerie Compton:
-  - Ariane dans le plan:
+- Ariane dans le plan:
 ![Ariane dans le plan](mantra_ex1.png)
-  - Ariane dans l&#39;espace:
-![Ariane dans l&#39;espace](mantra_ex2.png)
-
-- un exemple d&#39;application d&#39;une méthode Monte-Carlo pour l&#39;approximation de $\pi$ par *Pluie aléatoire*: 
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/anim_maths/Pi_convergence.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/anim_maths/Pi_convergence.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;
+- Ariane dans l'espace:
+![Ariane dans l'espace](mantra_ex2.png)
+- un exemple d'application d'une méthode Monte-Carlo pour l'approximation de $\pi$ par *Pluie aléatoire*:
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/anim_maths/Pi_convergence.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/anim_maths/Pi_convergence.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>
 *cf.* Maths EI1/TP5, animation présentée aux étudiants.
-
-## Dessert, la conclusion :  &lt;a name=&#34;dessert&#34;&gt;&lt;/a&gt;
+## Dessert, la conclusion : &lt;a name="dessert">&lt;/a>
 bon bah là, discutez la figure obtenue ou donnez le résultat mathématique obtenu, bref discutez et soyez critiques vis-à-vis de ce que vous présentez.
-
-## Le digestif, les remarques générales:  &lt;a name=&#34;digestif&#34;&gt;&lt;/a&gt;
-
-Si on file la métaphore du restaurant : 
--	**Le menu:** c’est l’introduction générale du TP, ce que l’on va étudier dans ce rapport de TP. Même si cela suppose faire des paraphrases du sujet, c’est toujours bien de faire comprendre au lecteur/correcteur/rapporteur l’endroit d’où il part **et** à quelle sauce il va être mangé. 
--	**L’addition:** c’est la conclusion générale du TP ; il faut donner les grandes lignes de l’étude qui a été réalisée durant le rapport, les idées et les conclusions. Pas besoin de trop de blabla si vous avez été efficaces dans les desserts de chaque question.  
-
+## Le digestif, les remarques générales: &lt;a name="digestif">&lt;/a>
+Si on file la métaphore du restaurant :
+- **Le menu:** c’est l’introduction générale du TP, ce que l’on va étudier dans ce rapport de TP. Même si cela suppose faire des paraphrases du sujet, c’est toujours bien de faire comprendre au lecteur/correcteur/rapporteur l’endroit d’où il part **et** à quelle sauce il va être mangé.
+- **L’addition:** c’est la conclusion générale du TP ; il faut donner les grandes lignes de l’étude qui a été réalisée durant le rapport, les idées et les conclusions. Pas besoin de trop de blabla si vous avez été efficaces dans les desserts de chaque question.
 ---
-
-# Moralité:  &lt;a name=&#34;moralite&#34;&gt;&lt;/a&gt;
-Moralité, maintenant que vous avez tout ça, nous serons intraitables sur les rapports que nous allons corriger et si vous avez des questions, n&#39;hésitez pas à envoyer un [mail](mailto:mehdi.latif@ls2n.fr?subject=[mlatif.fr]%20Question%rédaction%20TP...) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Conseils pour l&#39;écriture d&#39;un rapport de TP</title>
-      <link>https://mehdi-latif.github.io/en/project/conseils_rapport/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/project/conseils_rapport/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Écrit à l&amp;rsquo;origine pour m&amp;rsquo;éviter de répéter constamment les mêmes conseils à mes étudiants, ce manuel a connu une diffusion assez large.&lt;br&gt;
-&lt;strong&gt;Umberto Eco&lt;/strong&gt; - Comment écrire sa thèse (1977)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;Le 
-&lt;a href=&#34;#contexte&#34;&gt;Contexte&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Le 
-&lt;a href=&#34;#mantra&#34;&gt;Mantra&lt;/a&gt; puis le modèle 
-&lt;a href=&#34;#entree&#34;&gt;entrée&lt;/a&gt;/
-&lt;a href=&#34;#plat&#34;&gt;plat&lt;/a&gt;/
-&lt;a href=&#34;#dessert&#34;&gt;dessert&lt;/a&gt;/
-&lt;a href=&#34;#digestif&#34;&gt;digestif&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;La 
-&lt;a href=&#34;#moralite&#34;&gt;Moralité&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;contexte-a-namecontextea&#34;&gt;Contexte &lt;a name=&#34;contexte&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Initialement écrit pour les TP de CSOPT (
-&lt;a href=&#34;https://www.ec-nantes.fr/formation/les-options-de-2e-et-3e-annee/option-donnees-analyse-traitement-et-applications-en-signal-et-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datasim&lt;/a&gt;), on se rend compte que ça sert à tout le monde.&lt;/p&gt;
-&lt;p&gt;Ce n’est pas pour être embêtant mais pour vous préparer à l’écriture de vos rapports de stage, vos projets biblios, votre thèse …&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Que vous continuiez en thèse ou dans le monde de l’entreprise,  il est important de poser le contexte dans les écrits que vous produirez pour vos supérieurs, clients, directeurs de thèses …&lt;br&gt;
-dixit &lt;strong&gt;Gwen.S&lt;/strong&gt; (2023)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;mantra--a-namemantraa&#34;&gt;Mantra  &lt;a name=&#34;mantra&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Le « Mantra » principal est&lt;/p&gt;
-&lt;center&gt; &lt;i&gt; On doit pouvoir lire un rapport sans avoir à se référer au sujet. &lt;/i&gt;&lt;/center&gt;
-&lt;/br&gt;
-&lt;p&gt;&lt;strong&gt;Pour faire simple:&lt;/strong&gt; Pour chaque question, faire&lt;/p&gt;
-&lt;h2 id=&#34;entrée-lintro---a-nameentreea&#34;&gt;Entrée, l’intro :  &lt;a name=&#34;entree&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Une phrase de contexte où vous dites ce que vous allez faire, prouver, montrer, … On évite &lt;strong&gt;au maximum&lt;/strong&gt; de faire appel au numéro des questions dans le sujet afin d&amp;rsquo;être cohérent avec le mantra &lt;em&gt;ie.&lt;/em&gt; on évite:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1.a: la réponse est ...
+# Moralité: &lt;a name="moralite">&lt;/a>
+Moralité, maintenant que vous avez tout ça, nous serons intraitables sur les rapports que nous allons corriger et si vous avez des questions, n'hésitez pas à envoyer un [mail](mailto:mehdi.latif@ls2n.fr?subject=[mlatif.fr]%20Question%rédaction%20TP...) --></description></item><item><title>Conseils pour l'écriture d'un rapport de TP</title><link>https://mehdi-latif.github.io/en/project/conseils_rapport/</link><pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/project/conseils_rapport/</guid><description>&lt;blockquote>
+&lt;p>Écrit à l&amp;rsquo;origine pour m&amp;rsquo;éviter de répéter constamment les mêmes conseils à mes étudiants, ce manuel a connu une diffusion assez large.&lt;br>
+&lt;strong>Umberto Eco&lt;/strong> - Comment écrire sa thèse (1977)&lt;/p>
+&lt;/blockquote>
+&lt;ol>
+&lt;li>Le
+&lt;a href="#contexte">Contexte&lt;/a>&lt;/li>
+&lt;li>Le
+&lt;a href="#mantra">Mantra&lt;/a> puis le modèle
+&lt;a href="#entree">entrée&lt;/a>/
+&lt;a href="#plat">plat&lt;/a>/
+&lt;a href="#dessert">dessert&lt;/a>/
+&lt;a href="#digestif">digestif&lt;/a>&lt;/li>
+&lt;li>La
+&lt;a href="#moralite">Moralité&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h1 id="contexte-a-namecontextea">Contexte &lt;a name="contexte">&lt;/a>&lt;/h1>
+&lt;p>Initialement écrit pour les TP de CSOPT (
+&lt;a href="https://www.ec-nantes.fr/formation/les-options-de-2e-et-3e-annee/option-donnees-analyse-traitement-et-applications-en-signal-et-image" target="_blank" rel="noopener">Datasim&lt;/a>), on se rend compte que ça sert à tout le monde.&lt;/p>
+&lt;p>Ce n’est pas pour être embêtant mais pour vous préparer à l’écriture de vos rapports de stage, vos projets biblios, votre thèse …&lt;/p>
+&lt;blockquote>
+&lt;p>Que vous continuiez en thèse ou dans le monde de l’entreprise, il est important de poser le contexte dans les écrits que vous produirez pour vos supérieurs, clients, directeurs de thèses …&lt;br>
+dixit &lt;strong>Gwen.S&lt;/strong> (2023)&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h1 id="mantra--a-namemantraa">Mantra &lt;a name="mantra">&lt;/a>&lt;/h1>
+&lt;p>Le « Mantra » principal est&lt;/p>
+&lt;center> &lt;i> On doit pouvoir lire un rapport sans avoir à se référer au sujet. &lt;/i>&lt;/center>
+&lt;/br>
+&lt;p>&lt;strong>Pour faire simple:&lt;/strong> Pour chaque question, faire&lt;/p>
+&lt;h2 id="entrée-lintro---a-nameentreea">Entrée, l’intro : &lt;a name="entree">&lt;/a>&lt;/h2>
+&lt;p>Une phrase de contexte où vous dites ce que vous allez faire, prouver, montrer, … On évite &lt;strong>au maximum&lt;/strong> de faire appel au numéro des questions dans le sujet afin d&amp;rsquo;être cohérent avec le mantra &lt;em>ie.&lt;/em> on évite:&lt;/p>
+&lt;pre>&lt;code>1.a: la réponse est ...
 ...
 2.f: on trouve x=9
 ...
-42.z: ça converge.  
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;plat-le-développement---a-nameplata&#34;&gt;Plat, le développement :  &lt;a name=&#34;plat&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Si question mathématique :&lt;/strong&gt; de la rigueur ie. hypothèses (ou l’endroit d’où vous partez) , résultats de cours utilisés, étapes de calculs (pas besoin de tout mettre si les opérations sont triviales), …&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Pensez au 
-&lt;a href=&#34;https://en.wikipedia.org/wiki/LaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX&lt;/a&gt; pour la rédaction de vos documents avec un éditeur type 
-&lt;a href=&#34;https://www.overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt; si vous rendez un CR à plusieurs.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Si tableau synthèse :&lt;/strong&gt; Tout est dans le titre de cette section, c’est censé être une synthèse … ne pas hésiter à mettre en valeur (avec du gras ou de la couleur) les résultats que vous jugez utiles, pertinents. Par exemple, le code LaTeX:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;\begin{table}[H]
+42.z: ça converge.
+&lt;/code>&lt;/pre>
+&lt;h2 id="plat-le-développement---a-nameplata">Plat, le développement : &lt;a name="plat">&lt;/a>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Si question mathématique :&lt;/strong> de la rigueur ie. hypothèses (ou l’endroit d’où vous partez) , résultats de cours utilisés, étapes de calculs (pas besoin de tout mettre si les opérations sont triviales), …&lt;/li>
+&lt;/ul>
+&lt;p>Pensez au
+&lt;a href="https://en.wikipedia.org/wiki/LaTeX" target="_blank" rel="noopener">LaTeX&lt;/a> pour la rédaction de vos documents avec un éditeur type
+&lt;a href="https://www.overleaf.com/" target="_blank" rel="noopener">Overleaf&lt;/a> si vous rendez un CR à plusieurs.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Si tableau synthèse :&lt;/strong> Tout est dans le titre de cette section, c’est censé être une synthèse … ne pas hésiter à mettre en valeur (avec du gras ou de la couleur) les résultats que vous jugez utiles, pertinents. Par exemple, le code LaTeX:&lt;/li>
+&lt;/ul>
+&lt;pre>&lt;code>\begin{table}[H]
 \centering
 \begin{tabular}{c|c|c|c|}
 \cline{2-4}
 \textbf{} &amp;amp; \textbf{Méthode 1} &amp;amp; \textbf{Methode 2} &amp;amp; \textbf{Méthode 3} \\ \hline
 \multicolumn{1}{|c|}{\textbf{$\hat{x}$}} &amp;amp; $(.,.)^{\intercal}$ &amp;amp; $(.,.)^{\intercal}$ &amp;amp; $(.,.)^{\intercal}$ \\ \hline
 \multicolumn{1}{|c|}{\textbf{$\hat{z} := f(\hat{x})$}} &amp;amp; 0 &amp;amp; \textcolor{blue}{$\infty$} &amp;amp; $\ln (3)$ \\ \hline
-\multicolumn{1}{|c|}{Nb d&#39;itérations} &amp;amp; $666$ &amp;amp; $24$ &amp;amp; $\begingroup \color{red}{4} \endgroup 2$ \\ \hline
+\multicolumn{1}{|c|}{Nb d'itérations} &amp;amp; $666$ &amp;amp; $24$ &amp;amp; $\begingroup \color{red}{4} \endgroup 2$ \\ \hline
 \multicolumn{1}{|c|}{Nature de $\hat{x}$} &amp;amp; \textcolor{magenta}{$\min$ local} &amp;amp; $\max$ local &amp;amp; point col \\ \hline
 \end{tabular}
-\caption{Données obtenues avec $x_{0} = (\dots)^{\intercal} \in \mathbb{R}^{n}$ avec $\rho = \dots$ et un nombre d&#39;itération maximal $\text{iter}_{\max} = \dots$ }
+\caption{Données obtenues avec $x_{0} = (\dots)^{\intercal} \in \mathbb{R}^{n}$ avec $\rho = \dots$ et un nombre d'itération maximal $\text{iter}_{\max} = \dots$ }
 \label{tab:dummy_tab}
 \end{table}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;permet d&amp;rsquo;obtenir le tableau suivant:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;ex_dummy_tab.png&#34; alt=&#34;Exemple d&amp;amp;rsquo;un joli tableau&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Et on discute les résultats obtenus ;).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Tip pour se simplifier la vie avec les tableaux latex:&lt;/em&gt;
-Créez vos tableaux dans un tableur et mettez en forme avec 
-&lt;a href=&#34;https://www.tablesgenerator.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Table generator&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Si on vous demande de tracer un truc :&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;protocole-de-la-jolie-figure-en-matlab-mais-généralisable-à-dautres-langages-&#34;&gt;Protocole de la jolie figure (en Matlab, mais généralisable à d&amp;rsquo;autres langages ):&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;figure ; hold on ; 
-[box on ; grid on] ; // […] signifie optionnel.  
-// Vos données à tracer (les couleurs sont importantes, 
-// on doit voir directement ce que vous souhaitez montrer, 
+&lt;/code>&lt;/pre>
+&lt;p>permet d&amp;rsquo;obtenir le tableau suivant:&lt;/p>
+&lt;p>&lt;img src="ex_dummy_tab.png" alt="Exemple d&amp;amp;rsquo;un joli tableau">&lt;/p>
+&lt;p>Et on discute les résultats obtenus ;).&lt;/p>
+&lt;p>&lt;em>Tip pour se simplifier la vie avec les tableaux latex:&lt;/em>
+Créez vos tableaux dans un tableur et mettez en forme avec
+&lt;a href="https://www.tablesgenerator.com/" target="_blank" rel="noopener">Table generator&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Si on vous demande de tracer un truc :&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h4 id="protocole-de-la-jolie-figure-en-matlab-mais-généralisable-à-dautres-langages-">Protocole de la jolie figure (en Matlab, mais généralisable à d&amp;rsquo;autres langages ):&lt;/h4>
+&lt;pre>&lt;code>figure ; hold on ;
+[box on ; grid on] ; // […] signifie optionnel.
+// Vos données à tracer (les couleurs sont importantes,
+// on doit voir directement ce que vous souhaitez montrer,
 // donc on va dans la doc de la fonction plot())
-xlabel(‘’) ; ylabel(‘’) ; title(‘’) ; 
+xlabel(‘’) ; ylabel(‘’) ; title(‘’) ;
 // et sgtitle(‘’) si vous avez décidé de faire des subplot() cf la doc.
 legend(‘’) ; // idem, regardez la doc.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;tips-pour-des-figures-propres-&#34;&gt;Tips pour des figures propres :&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;allez voir dans les docs le ‘Interpreter’,’latex’&lt;/li&gt;
-&lt;li&gt;gagnez du temps dans la création de la légende avec matlab :&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;p1 = plot(…,‘Displayname’, &amp;quot;bla&amp;quot;) ;
+&lt;/code>&lt;/pre>
+&lt;h4 id="tips-pour-des-figures-propres-">Tips pour des figures propres :&lt;/h4>
+&lt;ul>
+&lt;li>allez voir dans les docs le ‘Interpreter’,’latex’&lt;/li>
+&lt;li>gagnez du temps dans la création de la légende avec matlab :&lt;/li>
+&lt;/ul>
+&lt;pre>&lt;code>p1 = plot(…,‘Displayname’, &amp;quot;bla&amp;quot;) ;
 p2 = plot(…,‘Displayname’, &amp;quot;blo&amp;quot;) ;
 // [...]
-legend([p1,p2],…) ;  
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;un-exemple-de-jolie-figure---cours-de-bpascal-datasimcsopt&#34;&gt;Un exemple de jolie figure - Cours de B.Pascal Datasim/CSOPT&lt;/h4&gt;
-&lt;p&gt;Pour les curieux, le cours de B.Pascal 
-&lt;a href=&#34;https://bpascal-fr.github.io/teaching/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonsmooth convex optimization&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;ex_norm_l1.png&#34; alt=&#34;Exemple d&amp;amp;rsquo;une jolie figure : Prox de la norme $\ell_{1}$&#34;&gt;
-Le code Matlab correspondant (possible de faire la même chose avec Python ou Julia):&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;x = linspace(-10,10,1000);
-figure; 
-  sgtitle(&amp;quot;$\ell_{1}$ norm&amp;quot;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,20)
-  subplot(1,2,1)
-    hold on; box on; grid minor;
-    plot(x,abs(x),&#39;b&#39;,&#39;LineWidth&#39;,2);
-    yline(0,&#39;k--&#39;); xline(0,&#39;k--&#39;);
-    ylim([-1,max(x)]);
-    xlabel(&#39;$x$&#39;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,12); 
-    ylabel(&#39;$y$&#39;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;Rotation&#39;,0,&#39;FontSize&#39;,12);    
-    title(&amp;quot;$f:x \mapsto |x|$&amp;quot;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,16);
-  subplot(1,2,2)
-    hold on; box on; grid minor; 
-    gamma = 1;  p = prox_l1(x,gamma);
-    p1 = plot(x,p,&#39;-&#39;,&#39;LineWidth&#39;,2,&#39;Displayname&#39;,&amp;quot;$\gamma=&amp;quot;+num2str(gamma)+&amp;quot;$&amp;quot;,&#39;Color&#39;,&#39;#7E2F8E&#39;);
-    gamma = 2;  p = prox_l1(x,gamma);
-    p2 = plot(x,p,&#39;--&#39;,&#39;LineWidth&#39;,2,&#39;Displayname&#39;,&amp;quot;$\gamma=&amp;quot;+num2str(gamma)+&amp;quot;$&amp;quot;,&#39;Color&#39;,&#39;#EDB120&#39;);
-    gamma = 3.5;  p = prox_l1(x,gamma);
-    p3 = plot(x,p,&#39;:&#39;,&#39;LineWidth&#39;,2,&#39;Displayname&#39;,&amp;quot;$\gamma=&amp;quot;+num2str(gamma)+&amp;quot;$&amp;quot;,&#39;Color&#39;,&#39;#A2142F&#39;);
-    yline(0,&#39;k--&#39;); xline(0,&#39;k--&#39;);
-    xlabel(&#39;$x$&#39;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,12);
-    ylabel(&#39;$y$&#39;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;Rotation&#39;,0,&#39;FontSize&#39;,12);
-    title(&amp;quot;prox$_{\gamma \|\cdot\|_{1}}(x)$&amp;quot;,&#39;Interpreter&#39;,&#39;latex&#39;,&#39;FontSize&#39;,16)
-    legend([p1,p2,p3],&#39;Location&#39;,&#39;best&#39;,&#39;FontSize&#39;,16,&#39;Interpreter&#39;,&#39;latex&#39;); legend boxoff
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- #### Pour aller plus loin: 
-On peut faire de chouettes figures et animations avec Matlab: 
+legend([p1,p2],…) ;
+&lt;/code>&lt;/pre>
+&lt;h4 id="un-exemple-de-jolie-figure---cours-de-bpascal-datasimcsopt">Un exemple de jolie figure - Cours de B.Pascal Datasim/CSOPT&lt;/h4>
+&lt;p>Pour les curieux, le cours de B.Pascal
+&lt;a href="https://bpascal-fr.github.io/teaching/" target="_blank" rel="noopener">Nonsmooth convex optimization&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="ex_norm_l1.png" alt="Exemple d&amp;amp;rsquo;une jolie figure : Prox de la norme $\ell_{1}$">
+Le code Matlab correspondant (possible de faire la même chose avec Python ou Julia):&lt;/p>
+&lt;pre>&lt;code>x = linspace(-10,10,1000);
+figure;
+sgtitle(&amp;quot;$\ell_{1}$ norm&amp;quot;,'Interpreter','latex','FontSize',20)
+subplot(1,2,1)
+hold on; box on; grid minor;
+plot(x,abs(x),'b','LineWidth',2);
+yline(0,'k--'); xline(0,'k--');
+ylim([-1,max(x)]);
+xlabel('$x$','Interpreter','latex','FontSize',12);
+ylabel('$y$','Interpreter','latex','Rotation',0,'FontSize',12);
+title(&amp;quot;$f:x \mapsto |x|$&amp;quot;,'Interpreter','latex','FontSize',16);
+subplot(1,2,2)
+hold on; box on; grid minor;
+gamma = 1; p = prox_l1(x,gamma);
+p1 = plot(x,p,'-','LineWidth',2,'Displayname',&amp;quot;$\gamma=&amp;quot;+num2str(gamma)+&amp;quot;$&amp;quot;,'Color','#7E2F8E');
+gamma = 2; p = prox_l1(x,gamma);
+p2 = plot(x,p,'--','LineWidth',2,'Displayname',&amp;quot;$\gamma=&amp;quot;+num2str(gamma)+&amp;quot;$&amp;quot;,'Color','#EDB120');
+gamma = 3.5; p = prox_l1(x,gamma);
+p3 = plot(x,p,':','LineWidth',2,'Displayname',&amp;quot;$\gamma=&amp;quot;+num2str(gamma)+&amp;quot;$&amp;quot;,'Color','#A2142F');
+yline(0,'k--'); xline(0,'k--');
+xlabel('$x$','Interpreter','latex','FontSize',12);
+ylabel('$y$','Interpreter','latex','Rotation',0,'FontSize',12);
+title(&amp;quot;prox$_{\gamma \|\cdot\|_{1}}(x)$&amp;quot;,'Interpreter','latex','FontSize',16)
+legend([p1,p2,p3],'Location','best','FontSize',16,'Interpreter','latex'); legend boxoff
+&lt;/code>&lt;/pre>
+&lt;!-- #### Pour aller plus loin:
+On peut faire de chouettes figures et animations avec Matlab:
 - un exemple avec le code [Ariane](https://gitlab.com/mlatif/tep3g-ariane) pour le calcul de la matrice système en imagerie Compton:
-  - Ariane dans le plan:
+- Ariane dans le plan:
 ![Ariane dans le plan](mantra_ex1.png)
-  - Ariane dans l&#39;espace:
-![Ariane dans l&#39;espace](mantra_ex2.png)
-
-- un exemple d&#39;application d&#39;une méthode Monte-Carlo pour l&#39;approximation de $\pi$ par *Pluie aléatoire*: 
-&lt;video controls preload=&#34;auto&#34; width=&#34;600px&#34;  playsinline class=&#34;html-video&#34;&gt;
-    &lt;source src=&#34;https://mehdi-latif.github.io/en/project/conseils_rapport/Pi_convergence.mp4&#34; type=&#34;video/mp4&#34;&gt;
-  &lt;span&gt;Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can &lt;a href=&#34;https://mehdi-latif.github.io/en/project/conseils_rapport/Pi_convergence.mp4&#34;&gt;download it&lt;/a&gt; and watch it with your favorite video player!&lt;/span&gt;
-&lt;/video&gt;
-*cf.* Maths EI1/TP5, animation présentée aux étudiants. --&gt;
-&lt;h2 id=&#34;dessert-la-conclusion---a-namedesserta&#34;&gt;Dessert, la conclusion :  &lt;a name=&#34;dessert&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;bon bah là, discutez la figure obtenue ou donnez le résultat mathématique obtenu, bref discutez et soyez critiques vis-à-vis de ce que vous présentez.&lt;/p&gt;
-&lt;h2 id=&#34;le-digestif-les-remarques-générales--a-namedigestifa&#34;&gt;Le digestif, les remarques générales:  &lt;a name=&#34;digestif&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Si on file la métaphore du restaurant :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Le menu:&lt;/strong&gt; c’est l’introduction générale du TP, ce que l’on va étudier dans ce rapport de TP. Même si cela suppose faire des paraphrases du sujet, c’est toujours bien de faire comprendre au lecteur/correcteur/rapporteur l’endroit d’où il part &lt;strong&gt;et&lt;/strong&gt; à quelle sauce il va être mangé.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;L’addition:&lt;/strong&gt; c’est la conclusion générale du TP ; il faut donner les grandes lignes de l’étude qui a été réalisée durant le rapport, les idées et les conclusions. Pas besoin de trop de blabla si vous avez été efficaces dans les desserts de chaque question.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;moralité--a-namemoralitea&#34;&gt;Moralité:  &lt;a name=&#34;moralite&#34;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Moralité, maintenant que vous avez tout ça, nous serons intraitables sur les rapports que nous allons corriger et si vous avez des questions, n&amp;rsquo;hésitez pas à envoyer un 
-&lt;a href=&#34;mailto:mehdi.latif@ls2n.fr?subject=[mlatif.fr]%20Question%25r%c3%a9daction%20TP...&#34;&gt;mail&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reconstruction multiclasse pour l&#39;imagerie TEP 3-photons</title>
-      <link>https://mehdi-latif.github.io/en/publication/GRETSI_23/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/publication/GRETSI_23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-class maximum likelihood expectation-maximization list-mode image reconstruction, an application to three-gamma imaging</title>
-      <link>https://mehdi-latif.github.io/en/publication/F3D_23/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/publication/F3D_23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
-      <link>https://mehdi-latif.github.io/en/talk/emily_2022/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/talk/emily_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title>
-      <link>https://mehdi-latif.github.io/en/talk/login_2022/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/talk/login_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>POLLUX</title>
-      <link>https://mehdi-latif.github.io/en/software/pollux/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/software/pollux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NIST PARSER</title>
-      <link>https://mehdi-latif.github.io/en/software/nistparser/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/software/nistparser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconstruction tomographique pour l’imagerie TEP à $3\gamma$</title>
-      <link>https://mehdi-latif.github.io/en/talk/sims_2022/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/talk/sims_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exact resolution of the sparse spectral unmixing problem</title>
-      <link>https://mehdi-latif.github.io/en/talk/sims_2021/</link>
-      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/talk/sims_2021/</guid>
-      <description>&lt;p&gt;$$\min_{\boldsymbol{x}\in [0,1]^{Q}}\quad \frac{1}{2}\big|\big| \boldsymbol{y}-\mathbf{H}\boldsymbol{x}\big|\big|_{2}^{2}\quad  \textrm{st. } \big|\big|\boldsymbol{x}\big|\big| _{0} \leq K, \quad\boldsymbol{1} _{Q} ^{\intercal}  \boldsymbol{x} =1$$&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Hyperspectral imaging involves the simultaneous acquisition of images across a wide range of wavelengths. A recurring challenge in processing this data is to solve a source separation problem: due to the low spatial resolution of the instruments, the light reflectance spectrum measured at a given position results from the superposition of elementary spectra, i.e. a mixture for which the proportions must be determined.&lt;/p&gt;
-&lt;p&gt;In so-called supervised unmixture, the mixture is sought within a known &lt;em&gt;dictionary&lt;/em&gt; of reference spectra. A physical constraint, known as the parsimony constraint, then stipulates that a small number of components in the mixture is sufficient to describe each observed spectrum. Mathematically, this involves fitting a linear model using the least squares method, subject to the constraint that the vector of sought-after coefficients has few non-zero components, i.e. a small &lt;em&gt;&amp;ldquo;norm&amp;rdquo;&lt;/em&gt; $\ell_0$. This is an NP-hard problem that essentially falls within the field of combinatorial optimisation.&lt;/p&gt;
-&lt;p&gt;Whilst most work in this field considers relaxed approaches, prioritising low computational time, we propose an exact solution method that guarantees the optimality of the solutions obtained.&lt;/p&gt;
-&lt;p&gt;During his PhD research, 
-&lt;a href=&#34;https://scholar.google.com/citations?user=QB04hQMAAAAJ&amp;amp;hl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ramzi Ben Mhenni&lt;/a&gt; designed branch-and-bound algorithms for exact sparse optimization. Here, we propose a specific version of these algorithms to solve the problem of mixture decomposition. Indeed, the mixture coefficients are positive and sum to unity, constraints that require a dedicated algorithmic strategy.&lt;/p&gt;
-&lt;p&gt;When the mixture is composed of a limited number of spectra, which is generally the case when these spectra are &lt;em&gt;learned&lt;/em&gt; from a set of observations, we show that this approach remains computationally efficient and yields better solutions compared to methods in the existing literature. When the dictionary size increases, &lt;em&gt;eg.&lt;/em&gt; for a dictionary composed of a large number of laboratory-measured spectra, the obtained solutions remain of higher quality, but with a much higher computational cost.&lt;/p&gt;
-&lt;p&gt;A free solver, implemented in C++, is available to the scientific community.&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-cpp&#34;&gt;MimosaUnmix_1inst_meth $(pwd) 2 bb_homotopy_fcls eq
+- Ariane dans l'espace:
+![Ariane dans l'espace](mantra_ex2.png)
+- un exemple d'application d'une méthode Monte-Carlo pour l'approximation de $\pi$ par *Pluie aléatoire*:
+&lt;video controls preload="auto" width="600px" playsinline class="html-video">
+&lt;source src="https://mehdi-latif.github.io/en/project/conseils_rapport/Pi_convergence.mp4" type="video/mp4">
+&lt;span>Your browser doesn't support embedded videos, but don't worry, you can &lt;a href="https://mehdi-latif.github.io/en/project/conseils_rapport/Pi_convergence.mp4">download it&lt;/a> and watch it with your favorite video player!&lt;/span>
+&lt;/video>
+*cf.* Maths EI1/TP5, animation présentée aux étudiants. -->
+&lt;h2 id="dessert-la-conclusion---a-namedesserta">Dessert, la conclusion : &lt;a name="dessert">&lt;/a>&lt;/h2>
+&lt;p>bon bah là, discutez la figure obtenue ou donnez le résultat mathématique obtenu, bref discutez et soyez critiques vis-à-vis de ce que vous présentez.&lt;/p>
+&lt;h2 id="le-digestif-les-remarques-générales--a-namedigestifa">Le digestif, les remarques générales: &lt;a name="digestif">&lt;/a>&lt;/h2>
+&lt;p>Si on file la métaphore du restaurant :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Le menu:&lt;/strong> c’est l’introduction générale du TP, ce que l’on va étudier dans ce rapport de TP. Même si cela suppose faire des paraphrases du sujet, c’est toujours bien de faire comprendre au lecteur/correcteur/rapporteur l’endroit d’où il part &lt;strong>et&lt;/strong> à quelle sauce il va être mangé.&lt;/li>
+&lt;li>&lt;strong>L’addition:&lt;/strong> c’est la conclusion générale du TP ; il faut donner les grandes lignes de l’étude qui a été réalisée durant le rapport, les idées et les conclusions. Pas besoin de trop de blabla si vous avez été efficaces dans les desserts de chaque question.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="moralité--a-namemoralitea">Moralité: &lt;a name="moralite">&lt;/a>&lt;/h1>
+&lt;p>Moralité, maintenant que vous avez tout ça, nous serons intraitables sur les rapports que nous allons corriger et si vous avez des questions, n&amp;rsquo;hésitez pas à envoyer un
+&lt;a href="mailto:mehdi.latif@ls2n.fr?subject=[mlatif.fr]%20Question%25r%c3%a9daction%20TP...">mail&lt;/a>&lt;/p></description></item><item><title>Reconstruction multiclasse pour l'imagerie TEP 3-photons</title><link>https://mehdi-latif.github.io/en/publication/GRETSI_23/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/publication/GRETSI_23/</guid><description/></item><item><title>Multi-class maximum likelihood expectation-maximization list-mode image reconstruction, an application to three-gamma imaging</title><link>https://mehdi-latif.github.io/en/publication/F3D_23/</link><pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/publication/F3D_23/</guid><description/></item><item><title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title><link>https://mehdi-latif.github.io/en/talk/emily_2022/</link><pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/talk/emily_2022/</guid><description/></item><item><title>Challenges and opportunities of $3\gamma$ tomographic reconstruction for the XEMIS camera</title><link>https://mehdi-latif.github.io/en/talk/login_2022/</link><pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/talk/login_2022/</guid><description/></item><item><title>POLLUX</title><link>https://mehdi-latif.github.io/en/software/pollux/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/software/pollux/</guid><description/></item><item><title>NIST PARSER</title><link>https://mehdi-latif.github.io/en/software/nistparser/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/software/nistparser/</guid><description/></item><item><title>Reconstruction tomographique pour l’imagerie TEP à $3\gamma$</title><link>https://mehdi-latif.github.io/en/talk/sims_2022/</link><pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/talk/sims_2022/</guid><description/></item><item><title>Exact resolution of the sparse spectral unmixing problem</title><link>https://mehdi-latif.github.io/en/talk/sims_2021/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/talk/sims_2021/</guid><description>&lt;p>$$\min_{\boldsymbol{x}\in [0,1]^{Q}}\quad \frac{1}{2}\big|\big| \boldsymbol{y}-\mathbf{H}\boldsymbol{x}\big|\big|_{2}^{2}\quad \textrm{st. } \big|\big|\boldsymbol{x}\big|\big| _{0} \leq K, \quad\boldsymbol{1} _{Q} ^{\intercal} \boldsymbol{x} =1$$&lt;/p>
+&lt;p>&lt;strong>Abstract:&lt;/strong> Hyperspectral imaging involves the simultaneous acquisition of images across a wide range of wavelengths. A recurring challenge in processing this data is to solve a source separation problem: due to the low spatial resolution of the instruments, the light reflectance spectrum measured at a given position results from the superposition of elementary spectra, i.e. a mixture for which the proportions must be determined.&lt;/p>
+&lt;p>In so-called supervised unmixture, the mixture is sought within a known &lt;em>dictionary&lt;/em> of reference spectra. A physical constraint, known as the parsimony constraint, then stipulates that a small number of components in the mixture is sufficient to describe each observed spectrum. Mathematically, this involves fitting a linear model using the least squares method, subject to the constraint that the vector of sought-after coefficients has few non-zero components, i.e. a small &lt;em>&amp;ldquo;norm&amp;rdquo;&lt;/em> $\ell_0$. This is an NP-hard problem that essentially falls within the field of combinatorial optimisation.&lt;/p>
+&lt;p>Whilst most work in this field considers relaxed approaches, prioritising low computational time, we propose an exact solution method that guarantees the optimality of the solutions obtained.&lt;/p>
+&lt;p>During his PhD research,
+&lt;a href="https://scholar.google.com/citations?user=QB04hQMAAAAJ&amp;amp;hl" target="_blank" rel="noopener">Ramzi Ben Mhenni&lt;/a> designed branch-and-bound algorithms for exact sparse optimization. Here, we propose a specific version of these algorithms to solve the problem of mixture decomposition. Indeed, the mixture coefficients are positive and sum to unity, constraints that require a dedicated algorithmic strategy.&lt;/p>
+&lt;p>When the mixture is composed of a limited number of spectra, which is generally the case when these spectra are &lt;em>learned&lt;/em> from a set of observations, we show that this approach remains computationally efficient and yields better solutions compared to methods in the existing literature. When the dictionary size increases, &lt;em>eg.&lt;/em> for a dictionary composed of a large number of laboratory-measured spectra, the obtained solutions remain of higher quality, but with a much higher computational cost.&lt;/p>
+&lt;p>A free solver, implemented in C++, is available to the scientific community.&lt;/p>
+&lt;pre>&lt;code class="language-cpp">MimosaUnmix_1inst_meth $(pwd) 2 bb_homotopy_fcls eq
 L2L0_ASC_ANC_BB_Rhom_fcls
 Instance : SA_SNR40_K4_instance30
-K = 2	 Q = 50	 N = 224	 ASC form : equality
+K = 2 Q = 50 N = 224 ASC form : equality
 -----------------------------------------------------------------------
-#(it) = 10	 #(node) = 19	 T = 0.083769	 card(L) = 2
-xUB* = 1&#39;	 34&#39;	 
-UB*  = 0.312598	sum(xUB*) = 1
+#(it) = 10 #(node) = 19 T = 0.083769 card(L) = 2
+xUB* = 1' 34'
+UB* = 0.312598 sum(xUB*) = 1
 -----------------------------------------------------------------------
 [...]
 -----------------------------------------------------------------------
-#(it) = 100	 #(node) = 199	 T = 0.319659	 card(L) = 1
-xUB* = 24	 39&#39;	 
-UB*  = 0.170461	sum(xUB*) = 1
+#(it) = 100 #(node) = 199 T = 0.319659 card(L) = 1
+xUB* = 24 39'
+UB* = 0.170461 sum(xUB*) = 1
 -----------------------------------------------------------------------
 SA_SNR40_K4_instance30 - bb_homotopy_fcls
-	T = 0.322625 (s)
-	#(node) = 211	/ best(node) = 221
-	UB*  = 0.170461
-	xUB* :
-		 x(24) = 	0.234965
-		 x(39)&#39; = 	0.765035
-	sum(xUB*) = 1
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TIFTEX</title>
-      <link>https://mehdi-latif.github.io/en/software/tiftex/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/software/tiftex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Error 418</title>
-      <link>https://mehdi-latif.github.io/en/project/default_soon/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>https://mehdi-latif.github.io/en/project/default_soon/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;The HTTP &lt;code&gt;418 I&#39;m a teapot&lt;/code&gt; status response code indicates that the server refuses to brew coffee because it is, permanently, a teapot. [&amp;hellip;]&lt;br&gt; 
-&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Source:&lt;/strong&gt; developer.mozilla.org&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Seriously though, it’s coming soon. But I need a coffee&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+T = 0.322625 (s)
+#(node) = 211 / best(node) = 221
+UB* = 0.170461
+xUB* :
+x(24) = 0.234965
+x(39)' = 0.765035
+sum(xUB*) = 1
+&lt;/code>&lt;/pre></description></item><item><title>TIFTEX</title><link>https://mehdi-latif.github.io/en/software/tiftex/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/software/tiftex/</guid><description/></item><item><title>Error 418</title><link>https://mehdi-latif.github.io/en/project/default_soon/</link><pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate><guid>https://mehdi-latif.github.io/en/project/default_soon/</guid><description>&lt;blockquote>
+&lt;p>The HTTP &lt;code>418 I'm a teapot&lt;/code> status response code indicates that the server refuses to brew coffee because it is, permanently, a teapot. [&amp;hellip;]&lt;br>
+&lt;a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/418" target="_blank" rel="noopener">&lt;strong>Source:&lt;/strong> developer.mozilla.org&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>Seriously though, it’s coming soon. But I need a coffee&amp;hellip;&lt;/p></description></item></channel></rss>

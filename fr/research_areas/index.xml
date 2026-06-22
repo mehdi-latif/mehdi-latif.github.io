@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Research_areas | Mehdi LATIF</title>
-    <link>https://mehdi-latif.github.io/fr/research_areas/</link>
-      <atom:link href="https://mehdi-latif.github.io/fr/research_areas/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research_areas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://mehdi-latif.github.io/img/avatar.jpg</url>
-      <title>Research_areas</title>
-      <link>https://mehdi-latif.github.io/fr/research_areas/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research_areas | Mehdi LATIF</title><link>https://mehdi-latif.github.io/fr/research_areas/</link><atom:link href="https://mehdi-latif.github.io/fr/research_areas/index.xml" rel="self" type="application/rss+xml"/><description>Research_areas</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://mehdi-latif.github.io/img/avatar.jpg</url><title>Research_areas</title><link>https://mehdi-latif.github.io/fr/research_areas/</link></image></channel></rss>
