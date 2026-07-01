@@ -539,4 +539,21 @@ sum(xUB*) = 1
 &lt;p>Le statut erreur client HTTP &lt;code>418 I'm a teapot&lt;/code> qui signifie « Je suis une théière » informe que le serveur refuse de préparer du café, car il s&amp;rsquo;agit d&amp;rsquo;une théière. [&amp;hellip;]&lt;br>
 &lt;a href="https://developer.mozilla.org/fr/docs/Web/HTTP/Status/418" target="_blank" rel="noopener">&lt;strong>Source :&lt;/strong> developer.mozilla.org&lt;/a>&lt;/p>
 &lt;/blockquote>
-&lt;p>Plus sérieusement, ça arrive bientôt. Mais j’ai besoin de café&amp;hellip;&lt;/p></description></item></channel></rss>
+&lt;p>Plus sérieusement, ça arrive bientôt. Mais j’ai besoin de café&amp;hellip;&lt;/p></description></item><item><title>Page introuvable</title><link>https://mlatif.fr/fr/404/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mlatif.fr/fr/404/</guid><description>&lt;p>Cette page a peut-être changé d’adresse lors de la réorganisation du site.&lt;/p>
+&lt;p>Vous pouvez revenir vers :&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="https://mlatif.fr/fr/">Accueil&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://mlatif.fr/fr/research/">Recherche&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://mlatif.fr/fr/software/">Logiciels&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://mlatif.fr/fr/publication/">Publications&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://mlatif.fr/fr/talk/">Présentations&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://mlatif.fr/fr/teaching/">Enseignement&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://mlatif.fr/fr/contact/">Contact&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
